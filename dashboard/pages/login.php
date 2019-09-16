@@ -36,14 +36,18 @@ $host = "http://localhost:8000/";
                 $query = "SELECT * FROM `ad_pass` WHERE `admin_id`='$admin_id';";
                 $res = $con->query($query) or die($con->error);
                 if ($res->num_rows == 1) {
-                    $_SESSION['username'] = $username;
-                    $_SESSION['name'] =$row['name'];
-                    header("Location: /dashboard/");
+                  $r=$res->fetch_assoc();
+                  if (password_verify($password, $r['password'])) {
+                    $_SESSION['admin_id'] = $admin_id;
+                      $_SESSION['username'] = $username;
+                      $_SESSION['name'] =$row['name'];
+                      header("Location: /dashboard/");
+                  }
                 }
             } else {
                 echo "<div class='form'>
-<h3>Username/password is incorrect.</h3>
-<br/>Click here to <a href='/dashboard/pages/login.php'>Login</a></div>";
+                      <h3>Username/password is incorrect.</h3>
+                      <br/>Click here to <a href='/dashboard/pages/login.php'>Login</a></div>";
             }
         } else {
             ?>

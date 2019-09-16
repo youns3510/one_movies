@@ -4,7 +4,7 @@ if (!isset($_SESSION["username"])) {
     header("Location: /dashboard/pages/login.php");
     exit();
 }
-$host = "http://localhost:8000/";
+$host = '//'.$_SERVER['HTTP_HOST'].'/';
 ?>
 <!DOCTYPE html>
 <html>
@@ -24,6 +24,11 @@ $host = "http://localhost:8000/";
   <!-- <link rel="stylesheet" href="<?php echo $host;?>dashboard/includes/plugins/summernote/summernote-bs4.css"> -->
   <!-- Google Font: Source Sans Pro -->
   <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700" rel="stylesheet">
+  <link rel="stylesheet" href="http://localhost:8000/dashboard/includes/plugins/toastr/toastr.min.css" type="text/css"/>
+  <?php if(isset($styles)){
+      echo $styles;
+  };?>
+  
 </head>
 <body class="hold-transition sidebar-mini layout-fixed">
 <div class="wrapper">
@@ -166,8 +171,8 @@ $host = "http://localhost:8000/";
           <img style="width:50px" src="<?php echo $host; ?>dashboard/includes/dist/img/user2-160x160.jpg" class="img-circle" alt="User Image">
           <span class="ml-2">
             <?php if (isset($_SESSION['username'])) {
-              echo $_SESSION['username'];
-            } ?></span>
+    echo $_SESSION['username'];
+} ?></span>
         </a>
         <div class="dropdown-menu" aria-labelledby="dropdownMenuLink">
         <a class="dropdown-item" href="/dashboard/pages/profile.php">
@@ -178,8 +183,6 @@ $host = "http://localhost:8000/";
             <i class="right fas fa-sign-out-alt"></i>
             Log out
           </a>
-
-
         </div>
       </div>
 
@@ -190,36 +193,43 @@ $host = "http://localhost:8000/";
         <ul class="nav nav-pills nav-sidebar flex-column" data-widget="treeview" role="menu" data-accordion="false">
           <!-- Add icons to the links using the .nav-icon class
                with font-awesome or any other icon font library -->
-          <li class="nav-item has-treeview menu-open">
-            <a href="#" class="nav-link active">
+          <li class="nav-item">
+            <a href="/dashboard/" class="nav-link <?php if($_SERVER['SCRIPT_NAME'] == '/dashboard/index.php'){echo 'active';};?>">
               <i class="nav-icon fas fa-tachometer-alt"></i>
               <p>
                 Dashboard
-                <i class="right fas fa-angle-left"></i>
+             
               </p>
-            </a>
-            <ul class="nav nav-treeview">
-              <li class="nav-item">
-                <a href="./index.html" class="nav-link active">
-                  <i class="far fa-circle nav-icon"></i>
-                  <p>Dashboard v1</p>
-                </a>
-              </li>
-              <li class="nav-item">
-                <a href="./index2.html" class="nav-link">
-                  <i class="far fa-circle nav-icon"></i>
-                  <p>Dashboard v2</p>
-                </a>
-              </li>
-              <li class="nav-item">
-                <a href="./index3.html" class="nav-link">
-                  <i class="far fa-circle nav-icon"></i>
-                  <p>Dashboard v3</p>
-                </a>
-              </li>
-            </ul>
+            </a>          
           </li>
-
+          <?php $active= $open="";
+          if( $_SERVER['SCRIPT_NAME'] == '/dashboard/pages/movies/index.php' ||  $_SERVER['SCRIPT_NAME'] == '/dashboard/pages/movies/upload.php'
+          ){$active= ' active';$open=" menu-open";};
+          ?>
+          <li class="nav-item has-treeview <?php echo $open;?>">
+            <a href="#" class="nav-link <?php echo $active;?>">
+              <i class="nav-icon fas fa-video"></i>
+              <p>
+                Movies     
+                <i class="right fas fa-angle-left"></i>          
+              </p>
+            </a>          
+       
+          <ul class="nav nav-treeview">
+          <li class="nav-item">
+                <a href="/dashboard/pages/movies/" class="nav-link <?php if($_SERVER['SCRIPT_NAME'] == '/dashboard/pages/movies/index.php'){echo 'active';};?>">
+                  <i class="far fa-circle nav-icon"></i>
+                  <p>All</p>
+                </a>
+              </li>
+              <li class="nav-item">
+                <a href="/dashboard/pages/movies/upload.php" class="nav-link <?php if($_SERVER['SCRIPT_NAME'] == '/dashboard/pages/movies/upload.php'){echo 'active';};?>">
+                  <i class="far fa-circle nav-icon"></i>
+                  <p>Upload</p>
+                </a>
+              </li>            
+            </ul>   
+          </li>
         
         </ul>
       </nav>
