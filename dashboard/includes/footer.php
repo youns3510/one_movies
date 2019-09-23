@@ -13,7 +13,6 @@
 <!-- /.control-sidebar -->
 </div>
 <!-- ./wrapper -->
-
 <!-- jQuery -->
 <script src="<?php echo $host; ?>dashboard/includes/plugins/jquery/jquery.min.js"></script>
 <!-- Bootstrap 4 -->
@@ -22,7 +21,7 @@
 <script src="<?php echo $host; ?>dashboard/includes/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js"></script>
 <!-- AdminLTE App -->
 <script src="<?php echo $host; ?>dashboard/includes/dist/js/adminlte.js"></script>
-<script type="text/javascript" src="<?php echo $host; ?>/dashboard/includes/plugins/toastr/toastr.min.js"></script>
+<script type="text/javascript" src="<?php echo $host; ?>dashboard/includes/plugins/toastr/toastr.min.js"></script>
 <?php if (isset($_SESSION['action']) && $_SESSION['action'] == true) { ?>
   <script>
     toastr.options.closeButton = true;

@@ -24,25 +24,25 @@
 			<div class="col-md-7 w3ls_footer_grid1_right">
 				<ul>
 					<li>
-						<a href="<?php echo $host;?>partials/genres.html">Movies</a>
+						<a href="<?php echo $host;?>pages/genres.php">Movies</a>
 					</li>
 					<li>
-						<a href="<?php echo $host;?>partials/faq.html">FAQ</a>
+						<a href="<?php echo $host;?>pages/faq.php">FAQ</a>
 					</li>
 					<li>
-						<a href="<?php echo $host;?>partials/horror.html">Action</a>
+						<a href="<?php echo $host;?>pages/horror.php">Action</a>
 					</li>
 					<li>
-						<a href="<?php echo $host;?>partials/genres.html">Adventure</a>
+						<a href="<?php echo $host;?>pages/genres.php">Adventure</a>
 					</li>
 					<li>
-						<a href="<?php echo $host;?>partials/comedy.html">Comedy</a>
+						<a href="<?php echo $host;?>pages/comedy.php">Comedy</a>
 					</li>
 					<li>
-						<a href="<?php echo $host;?>partials/icons.html">Icons</a>
+						<a href="<?php echo $host;?>pages/icons.php">Icons</a>
 					</li>
 					<li>
-						<a href="<?php echo $host;?>partials/contact.html">Contact Us</a>
+						<a href="<?php echo $host;?>pages/contact.php">Contact Us</a>
 					</li>
 				</ul>
 			</div>

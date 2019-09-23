@@ -3,5 +3,8 @@ database
 membership panel
 
 todo:
-- there is a bug on display error on upload function try to think about new solution  if there is an error don't upload any thing
+solved - there is a bug on display error on upload function try to think about new solution  if there is an error don't upload any thing
 
+images on different sizes
+video preload 
+adding views

@@ -1,5 +1,5 @@
 <?php
-$host="http://localhost:8000/";
+$host="//".$_SERVER['HTTP_HOST']."/";
 ?>
 <!--
 author: W3layouts
@@ -75,7 +75,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	<div class="header">
 		<div class="container">
 			<div class="w3layouts_logo">
-				<a href="<?php echo $host;?>partials/index.html"><h1>One<span>Movies</span></h1></a>
+				<a href="/"><h1>One<span>Movies</span></h1></a>
 			</div>
 			<div class="w3_search">
 				<form action="#" method="post">
@@ -164,82 +164,82 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				<div class="collapse navbar-collapse navbar-right" id="bs-example-navbar-collapse-1">
 					<nav>
 						<ul class="nav navbar-nav">
-							<li class="active"><a href="<?php echo $host;?>partials/index.html">Home</a></li>
+							<li class="active"><a href="/">Home</a></li>
 							<li class="dropdown">
 								<a href="<?php echo $host;?>partials/#" class="dropdown-toggle" data-toggle="dropdown">Genres <b class="caret"></b></a>
 								<ul class="dropdown-menu multi-column columns-3">
 									<li>
 									<div class="col-sm-4">
 										<ul class="multi-column-dropdown">
-											<li><a href="<?php echo $host;?>partials/genres.html">Action</a></li>
-											<li><a href="<?php echo $host;?>partials/genres.html">Biography</a></li>
-											<li><a href="<?php echo $host;?>partials/genres.html">Crime</a></li>
-											<li><a href="<?php echo $host;?>partials/genres.html">Family</a></li>
-											<li><a href="<?php echo $host;?>partials/horror.html">Horror</a></li>
-											<li><a href="<?php echo $host;?>partials/genres.html">Romance</a></li>
-											<li><a href="<?php echo $host;?>partials/genres.html">Sports</a></li>
-											<li><a href="<?php echo $host;?>partials/genres.html">War</a></li>
+											<li><a href="<?php echo $host;?>pages/genres.php?p=action">Action</a></li>
+											<li><a href="<?php echo $host;?>pages/genres.php?p=biography">Biography</a></li>
+											<li><a href="<?php echo $host;?>pages/genres.php?p=crime">Crime</a></li>
+											<li><a href="<?php echo $host;?>pages/genres.php?p=family">Family</a></li>
+											<li><a href="<?php echo $host;?>pages/genres.php?p=horror">Horror</a></li>
+											<li><a href="<?php echo $host;?>pages/genres.php?p=romance">Romance</a></li>
+											<li><a href="<?php echo $host;?>pages/genres.php?p=sports">Sports</a></li>
+											<li><a href="<?php echo $host;?>pages/genres.php?p=war">War</a></li>
 										</ul>
 									</div>
 									<div class="col-sm-4">
 										<ul class="multi-column-dropdown">
-											<li><a href="<?php echo $host;?>partials/genres.html">Adventure</a></li>
-											<li><a href="<?php echo $host;?>partials/comedy.html">Comedy</a></li>
-											<li><a href="<?php echo $host;?>partials/genres.html">Documentary</a></li>
-											<li><a href="<?php echo $host;?>partials/genres.html">Fantasy</a></li>
-											<li><a href="<?php echo $host;?>partials/genres.html">Thriller</a></li>
+											<li><a href="<?php echo $host;?>pages/genres.php?p=adventure">Adventure</a></li>
+											<li><a href="<?php echo $host;?>pages/genres.php?p=comedy">Comedy</a></li>
+											<li><a href="<?php echo $host;?>pages/genres.php?p=documentary">Documentary</a></li>
+											<li><a href="<?php echo $host;?>pages/genres.php?p=fantasy">Fantasy</a></li>
+											<li><a href="<?php echo $host;?>pages/genres.php?p=thriller">Thriller</a></li>
 										</ul>
 									</div>
 									<div class="col-sm-4">
 										<ul class="multi-column-dropdown">
-											<li><a href="<?php echo $host;?>partials/genres.html">Animation</a></li>
-											<li><a href="<?php echo $host;?>partials/genres.html">Costume</a></li>
-											<li><a href="<?php echo $host;?>partials/genres.html">Drama</a></li>
-											<li><a href="<?php echo $host;?>partials/genres.html">History</a></li>
-											<li><a href="<?php echo $host;?>partials/genres.html">Musical</a></li>
-											<li><a href="<?php echo $host;?>partials/genres.html">Psychological</a></li>
+											<li><a href="<?php echo $host;?>pages/genres.php?p=animation">Animation</a></li>
+											<li><a href="<?php echo $host;?>pages/genres.php?p=costume">Costume</a></li>
+											<li><a href="<?php echo $host;?>pages/genres.php?p=drama">Drama</a></li>
+											<li><a href="<?php echo $host;?>pages/genres.php?p=history">History</a></li>
+											<li><a href="<?php echo $host;?>pages/genres.php?p=musical">Musical</a></li>
+											<li><a href="<?php echo $host;?>pages/genres.php?p=psychological">Psychological</a></li>
 										</ul>
 									</div>
 									<div class="clearfix"></div>
 									</li>
 								</ul>
 							</li>
-							<li><a href="<?php echo $host;?>partials/series.html">tv - series</a></li>
-							<li><a href="<?php echo $host;?>partials/news.html">news</a></li>
+							<li><a href="<?php echo $host;?>pages/series.php">tv - series</a></li>
+							<li><a href="<?php echo $host;?>pages/news.php">news</a></li>
 							<li class="dropdown">
 								<a href="<?php echo $host;?>partials/#" class="dropdown-toggle" data-toggle="dropdown">Country <b class="caret"></b></a>
 								<ul class="dropdown-menu multi-column columns-3">
 									<li>
 										<div class="col-sm-4">
 											<ul class="multi-column-dropdown">
-												<li><a href="<?php echo $host;?>partials/genres.html">Asia</a></li>
-												<li><a href="<?php echo $host;?>partials/genres.html">France</a></li>
-												<li><a href="<?php echo $host;?>partials/genres.html">Taiwan</a></li>
-												<li><a href="<?php echo $host;?>partials/genres.html">United States</a></li>
+												<li><a href="<?php echo $host;?>pages/genres.php">Asia</a></li>
+												<li><a href="<?php echo $host;?>pages/genres.php">France</a></li>
+												<li><a href="<?php echo $host;?>pages/genres.php">Taiwan</a></li>
+												<li><a href="<?php echo $host;?>pages/genres.php">United States</a></li>
 											</ul>
 										</div>
 										<div class="col-sm-4">
 											<ul class="multi-column-dropdown">
-												<li><a href="<?php echo $host;?>partials/genres.html">China</a></li>
-												<li><a href="<?php echo $host;?>partials/genres.html">HongCong</a></li>
-												<li><a href="<?php echo $host;?>partials/genres.html">Japan</a></li>
-												<li><a href="<?php echo $host;?>partials/genres.html">Thailand</a></li>
+												<li><a href="<?php echo $host;?>pages/genres.php">China</a></li>
+												<li><a href="<?php echo $host;?>pages/genres.php">HongCong</a></li>
+												<li><a href="<?php echo $host;?>pages/genres.php">Japan</a></li>
+												<li><a href="<?php echo $host;?>pages/genres.php">Thailand</a></li>
 											</ul>
 										</div>
 										<div class="col-sm-4">
 											<ul class="multi-column-dropdown">
-												<li><a href="<?php echo $host;?>partials/genres.html">Euro</a></li>
-												<li><a href="<?php echo $host;?>partials/genres.html">India</a></li>
-												<li><a href="<?php echo $host;?>partials/genres.html">Korea</a></li>
-												<li><a href="<?php echo $host;?>partials/genres.html">United Kingdom</a></li>
+												<li><a href="<?php echo $host;?>pages/genres.php">Euro</a></li>
+												<li><a href="<?php echo $host;?>pages/genres.php">India</a></li>
+												<li><a href="<?php echo $host;?>pages/genres.php">Korea</a></li>
+												<li><a href="<?php echo $host;?>pages/genres.php">United Kingdom</a></li>
 											</ul>
 										</div>
 										<div class="clearfix"></div>
 									</li>
 								</ul>
 							</li>
-							<li><a href="<?php echo $host;?>partials/short-codes.html">Short Codes</a></li>
-							<li><a href="<?php echo $host;?>partials/list.html">A - z list</a></li>
+							<li><a href="<?php echo $host;?>pages/short-codes.php">Short Codes</a></li>
+							<li><a href="<?php echo $host;?>pages/list.php">A - z list</a></li>
 						</ul>
 					</nav>
 				</div>

@@ -1,5 +1,5 @@
 <?php
-$host = "http://localhost:8000/";
+$host="//".$_SERVER['HTTP_HOST']."/";
 ?>
 <!DOCTYPE html>
 <html>
@@ -178,7 +178,7 @@ $host = "http://localhost:8000/";
             </a>
             <ul class="nav nav-treeview">
               <li class="nav-item">
-                <a href="./index.html" class="nav-link active">
+                <a href="/" class="nav-link active">
                   <i class="far fa-circle nav-icon"></i>
                   <p>Dashboard v1</p>
                 </a>

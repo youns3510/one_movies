@@ -1,12 +1,12 @@
 <?php
   require('../includes/db.php');
-$username = stripslashes('2one_movies_admin');
+$username = stripslashes('one_movies_admin');
 $username = mysqli_real_escape_string($con, $username);
-$name = stripslashes('2Admin Younes');
+$name = stripslashes('Admin Younes');
 $name = mysqli_real_escape_string($con, $name);
-$email = stripslashes('2youns3510@gmail.com');
+$email = stripslashes('youns3510@gmail.com');
 $email = mysqli_real_escape_string($con, $email);
-$password = stripslashes("2@one_movies_admin$2019");
+$password = stripslashes("@one_movies_admin$2019");
 $password = mysqli_real_escape_string($con, $password);
 
 $role = stripslashes('admin');

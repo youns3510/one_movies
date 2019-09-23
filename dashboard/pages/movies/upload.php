@@ -51,25 +51,13 @@ include('../../controllers/movieController.php');
             <div class="form-group">
               <label for="inputStatus">Genres</label>
                 <select id="example-getting-started" multiple="multiple" name="genres[]" required>   
-                  <option value="Action">Action</option>
-                  <option value="Biography">Biography</option>
-                  <option value="Crime">Crime</option>
-                  <option value="Family">Family</option>
-                  <option value="Horror">Horror</option>
-                  <option value="Romance">Romance</option>
-                  <option value="Sports">Sports</option>
-                  <option value="War">War</option>
-                  <option value="Adventure">Adventure</option>
-                  <option value="Comedy">Comedy</option>
-                  <option value="Documentary">Documentary</option>
-                  <option value="Fantasy">Fantasy</option>
-                  <option value="Thriller">Thriller</option>
-                  <option value="Animation">Animation</option>
-                  <option value="Costume">Costume</option>
-                  <option value="Drama">Drama</option>
-                  <option value="History">History</option>
-                  <option value="Musical">Musical</option>
-                  <option value="Psychological">Psychological</option>
+                <?php
+                                        $genres = array('action', 'biography', 'crime', 'family', 'horror', 'romance', 'sports', 'war', 'adventure', 'comedy', 'documentary', 'fantasy', 'thriller', 'animation', 'costume', 'drama', 'history', 'musical', 'psychological');
+
+                      foreach ($genres as $gen) {                              
+                       echo '<option value="'. $gen .'">' . $gen . '</option>';                                
+                            }
+                            ?>
               </select>
             </div>
             <div class="form-group">

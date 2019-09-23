@@ -24,7 +24,7 @@ $host = '//'.$_SERVER['HTTP_HOST'].'/';
   <!-- <link rel="stylesheet" href="<?php echo $host;?>dashboard/includes/plugins/summernote/summernote-bs4.css"> -->
   <!-- Google Font: Source Sans Pro -->
   <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700" rel="stylesheet">
-  <link rel="stylesheet" href="http://localhost:8000/dashboard/includes/plugins/toastr/toastr.min.css" type="text/css"/>
+  <link rel="stylesheet" href="<?php echo $host;?>dashboard/includes/plugins/toastr/toastr.min.css" type="text/css"/>
   <?php if(isset($styles)){
       echo $styles;
   };?>

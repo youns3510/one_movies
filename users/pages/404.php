@@ -179,7 +179,7 @@
             </a>
             <ul class="nav nav-treeview">
               <li class="nav-item">
-                <a href="../../index.html" class="nav-link">
+                <a href="/" class="nav-link">
                   <i class="far fa-circle nav-icon"></i>
                   <p>Dashboard v1</p>
                 </a>
@@ -300,7 +300,7 @@
                 </a>
               </li>
               <li class="nav-item">
-                <a href="../UI/icons.html" class="nav-link">
+                <a href="<?php echo $host;?>pages/icons.php" class="nav-link">
                   <i class="far fa-circle nav-icon"></i>
                   <p>Icons</p>
                 </a>
@@ -634,7 +634,7 @@
 
           <p>
             We could not find the page you were looking for.
-            Meanwhile, you may <a href="../../index.html">return to dashboard</a> or try using the search form.
+            Meanwhile, you may <a href="/">return to dashboard</a> or try using the search form.
           </p>
 
           <form class="search-form">
