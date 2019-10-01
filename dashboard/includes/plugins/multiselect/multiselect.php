@@ -1,24 +1,24 @@
 <html>
-  <head>
+<head>
     <title></title>
     <meta content="">
-<!-- احذف app.css and app.js وضيف دول-->
+    <!-- احذف app.css and app.js وضيف دول-->
     <link rel="stylesheet" href="dashboard/includes/plugins/multiselect/bootstrap-multiselect.css" type="text/css"/>
-<link rel="stylesheet" href="bootstrap.min.css" type="text/css"/>
+    <link rel="stylesheet" href="bootstrap.min.css" type="text/css"/>
 
-<script type="text/javascript" src="jquery.min.js"></script>
-<script type="text/javascript" src="bootstrap.min.js"></script>
-<script type="text/javascript" src="dashboard/includes/plugins/multiselect/bootstrap-multiselect.js"></script>
+    <script type="text/javascript" src="jquery.min.js"></script>
+    <script type="text/javascript" src="bootstrap.min.js"></script>
+    <script type="text/javascript" src="dashboard/includes/plugins/multiselect/bootstrap-multiselect.js"></script>
 
-  </head>
-  <body>
-  <h3>اختيار اكثر من واحده</h3>
-  <script type="text/javascript">
-    $(document).ready(function() {
+</head>
+<body>
+<h3>اختيار اكثر من واحده</h3>
+<script type="text/javascript">
+    $(document).ready(function () {
         $('#example-getting-started').multiselect();
     });
 </script>
-  <select id="example-getting-started" multiple="multiple">
+<select id="example-getting-started" multiple="multiple">
     <option value="cheese">Cheese</option>
     <option value="tomatoes">Tomatoes</option>
     <option value="mozarella">Mozzarella</option>
@@ -31,11 +31,11 @@
 
 <div class="example">
     <script type="text/javascript">
-        $(document).ready(function() {
+        $(document).ready(function () {
             $('#example-simulate-single').multiselect({
-                onChange: function(option, checked) {
+                onChange: function (option, checked) {
                     var values = [];
-                    $('#example-simulate-single option').each(function() {
+                    $('#example-simulate-single option').each(function () {
                         if ($(this).val() !== option.val()) {
                             values.push($(this).val());
                         }
@@ -57,5 +57,5 @@
 </div>
 
 
-  </body>
+</body>
 </html>

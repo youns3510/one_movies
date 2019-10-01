@@ -1,5 +1,5 @@
 <?php
-  require('../includes/db.php');
+require('../includes/db.php');
 $username = stripslashes('one_movies_admin');
 $username = mysqli_real_escape_string($con, $username);
 $name = stripslashes('Admin Younes');
@@ -16,13 +16,13 @@ VALUES ('$username', '$name', '$email', '$role')";
 $result = $con->query($query);
 if ($result) {
     echo 'success';
-    $q = "INSERT into `ad_pass`(admin_id,password)VALUES ('$con->insert_id', '".password_hash($password, PASSWORD_DEFAULT)."')";
+    $q = "INSERT into `ad_pass`(admin_id,password)VALUES ('$con->insert_id', '" . password_hash($password, PASSWORD_DEFAULT) . "')";
     $result = $con->query($q);
     if ($result) {
         echo 'success passwrod';
     } else {
-        echo "passoword".$con->error;
+        echo "passoword" . $con->error;
     }
 } else {
-    echo "admin".$con->error;
+    echo "admin" . $con->error;
 }

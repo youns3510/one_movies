@@ -1,3 +1,5 @@
 .vscode
 .idea
+.directory
+constants.php
 partials/uploads/*

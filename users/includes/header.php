@@ -1,207 +1,293 @@
 <?php
-$host="//".$_SERVER['HTTP_HOST']."/";
+//session_start();
+if (isset($_SESSION["auth"]) == false && $_SESSION["auth"] != 'user') {
+    header("Location: /");
+    exit();
+}
+$host = "//" . $_SERVER['HTTP_HOST'] . "/";
 ?>
+<!--
+author: W3layouts
+author URL: http://w3layouts.com
+License: Creative Commons Attribution 3.0 Unported
+License URL: http://creativecommons.org/licenses/by/3.0/
+-->
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <title>ONE MOVIES| Dashboard</title>
-  <!-- Tell the browser to be responsive to screen width -->
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <!-- Font Awesome -->
-  <link rel="stylesheet" href="<?php echo $host;?>dashboard/includes/plugins/fontawesome-free/css/all.min.css">
-  <!-- Theme style -->
-  <link rel="stylesheet" href="<?php echo $host;?>dashboard/includes/dist/css/adminlte.min.css">
-  <!-- overlayScrollbars -->
-  <link rel="stylesheet" href="<?php echo $host;?>dashboard/includes/plugins/overlayScrollbars/css/OverlayScrollbars.min.css">
-  <!-- summernote -->
-  <!-- <link rel="stylesheet" href="<?php echo $host;?>dashboard/includes/plugins/summernote/summernote-bs4.css"> -->
-  <!-- Google Font: Source Sans Pro -->
-  <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700" rel="stylesheet">
+    <title>One Movies an Entertainment Category Flat Bootstrap Responsive Website Template | Home :: w3layouts</title>
+    <!-- for-mobile-apps -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta name="keywords" content="One Movies Responsive web template, Bootstrap Web Templates, Flat Web Templates, Android Compatible web template,
+Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyEricsson, Motorola web design"/>
+    <script type="application/x-javascript"> addEventListener("load", function () {
+            setTimeout(hideURLbar, 0);
+        }, false);
+
+        function hideURLbar() {
+            window.scrollTo(0, 1);
+        } </script>
+    <!-- //for-mobile-apps -->
+    <link href="<?php echo $host; ?>partials/css/bootstrap.css" rel="stylesheet" type="text/css" media="all"/>
+    <link href="<?php echo $host; ?>partials/css/style.css" rel="stylesheet" type="text/css" media="all"/>
+    <link rel="stylesheet" href="<?php echo $host; ?>partials/css/contactstyle.css" type="text/css" media="all"/>
+    <link rel="stylesheet" href="<?php echo $host; ?>partials/css/faqstyle.css" type="text/css" media="all"/>
+    <link href="<?php echo $host; ?>partials/css/single.css" rel='stylesheet' type='text/css'/>
+    <link href="<?php echo $host; ?>partials/css/medile.css" rel='stylesheet' type='text/css'/>
+    <!-- banner-slider -->
+    <link href="<?php echo $host; ?>partials/css/jquery.slidey.min.css" rel="stylesheet">
+    <!-- //banner-slider -->
+    <!-- pop-up -->
+    <link href="<?php echo $host; ?>partials/css/popuo-box.css" rel="stylesheet" type="text/css" media="all"/>
+    <!-- //pop-up -->
+    <!-- font-awesome icons -->
+    <link rel="stylesheet" href="<?php echo $host; ?>partials/css/font-awesome.min.css"/>
+    <!-- //font-awesome icons -->
+    <!-- js -->
+    <script type="text/javascript" src="<?php echo $host; ?>partials/js/jquery-2.1.4.min.js"></script>
+    <!-- //js -->
+    <!-- toastr -->
+    <link rel="stylesheet" href="<?php echo $host; ?>dashboard/includes/plugins/toastr/toastr.min.css" type="text/css"/>
+
+    <!-- banner-bottom-plugin -->
+    <link href="<?php echo $host; ?>partials/css/owl.carousel.css" rel="stylesheet" type="text/css" media="all">
+    <script src="<?php echo $host; ?>partials/js/owl.carousel.js"></script>
+    <script>
+        $(document).ready(function () {
+            $("#owl-demo").owlCarousel({
+
+                autoPlay: 3000, //Set AutoPlay to 3 seconds
+
+                items: 5,
+                itemsDesktop: [640, 4],
+                itemsDesktopSmall: [414, 3]
+
+            });
+
+        });
+    </script>
+    <!-- //banner-bottom-plugin -->
+    <link href='//fonts.googleapis.com/css?family=Roboto+Condensed:400,700italic,700,400italic,300italic,300'
+          rel='stylesheet' type='text/css'>
+    <!-- start-smoth-scrolling -->
+    <script type="text/javascript" src="<?php echo $host; ?>partials/js/move-top.js"></script>
+    <script type="text/javascript" src="<?php echo $host; ?>partials/js/easing.js"></script>
+    <script type="text/javascript">
+        jQuery(document).ready(function ($) {
+            $(".scroll").click(function (event) {
+                event.preventDefault();
+                $('html,body').animate({scrollTop: $(this.hash).offset().top}, 1000);
+            });
+        });
+    </script>
+    <!-- start-smoth-scrolling -->
 </head>
-<body class="hold-transition sidebar-mini layout-fixed">
-<div class="wrapper">
 
-  <!-- Navbar -->
-  <nav class="main-header navbar navbar-expand navbar-white navbar-light">
-    <!-- Left navbar links -->
-    <ul class="navbar-nav">
-      <li class="nav-item">
-        <a class="nav-link" data-widget="pushmenu" href="#"><i class="fas fa-bars"></i></a>
-      </li>
-      <li class="nav-item d-none d-sm-inline-block">
-        <a href="index3.html" class="nav-link">Home</a>
-      </li>
-      <li class="nav-item d-none d-sm-inline-block">
-        <a href="#" class="nav-link">Contact</a>
-      </li>
-    </ul>
-
-    <!-- SEARCH FORM -->
-    <form class="form-inline ml-3">
-      <div class="input-group input-group-sm">
-        <input class="form-control form-control-navbar" type="search" placeholder="Search" aria-label="Search">
-        <div class="input-group-append">
-          <button class="btn btn-navbar" type="submit">
-            <i class="fas fa-search"></i>
-          </button>
+<body>
+<!-- header -->
+<div class="header">
+    <div class="container">
+        <div class="w3layouts_logo">
+            <a href="/"><h1>One<span>Movies</span></h1></a>
         </div>
-      </div>
-    </form>
-
-    <!-- Right navbar links -->
-    <ul class="navbar-nav ml-auto">
-      <!-- Messages Dropdown Menu -->
-      <li class="nav-item dropdown">
-        <a class="nav-link" data-toggle="dropdown" href="#">
-          <i class="far fa-comments"></i>
-          <span class="badge badge-danger navbar-badge">3</span>
-        </a>
-        <div class="dropdown-menu dropdown-menu-lg dropdown-menu-right">
-          <a href="#" class="dropdown-item">
-            <!-- Message Start -->
-            <div class="media">
-              <img src="<?php echo $host;?>dashboard/includes/dist/img/user1-128x128.jpg" alt="User Avatar" class="img-size-50 mr-3 img-circle">
-              <div class="media-body">
-                <h3 class="dropdown-item-title">
-                  Brad Diesel
-                  <span class="float-right text-sm text-danger"><i class="fas fa-star"></i></span>
-                </h3>
-                <p class="text-sm">Call me whenever you can...</p>
-                <p class="text-sm text-muted"><i class="far fa-clock mr-1"></i> 4 Hours Ago</p>
-              </div>
-            </div>
-            <!-- Message End -->
-          </a>
-          <div class="dropdown-divider"></div>
-          <a href="#" class="dropdown-item">
-            <!-- Message Start -->
-            <div class="media">
-              <img src="<?php echo $host;?>dashboard/includes/dist/img/user8-128x128.jpg" alt="User Avatar" class="img-size-50 img-circle mr-3">
-              <div class="media-body">
-                <h3 class="dropdown-item-title">
-                  John Pierce
-                  <span class="float-right text-sm text-muted"><i class="fas fa-star"></i></span>
-                </h3>
-                <p class="text-sm">I got your message bro</p>
-                <p class="text-sm text-muted"><i class="far fa-clock mr-1"></i> 4 Hours Ago</p>
-              </div>
-            </div>
-            <!-- Message End -->
-          </a>
-          <div class="dropdown-divider"></div>
-          <a href="#" class="dropdown-item">
-            <!-- Message Start -->
-            <div class="media">
-              <img src="<?php echo $host;?>dashboard/includes/dist/img/user3-128x128.jpg" alt="User Avatar" class="img-size-50 img-circle mr-3">
-              <div class="media-body">
-                <h3 class="dropdown-item-title">
-                  Nora Silvester
-                  <span class="float-right text-sm text-warning"><i class="fas fa-star"></i></span>
-                </h3>
-                <p class="text-sm">The subject goes here</p>
-                <p class="text-sm text-muted"><i class="far fa-clock mr-1"></i> 4 Hours Ago</p>
-              </div>
-            </div>
-            <!-- Message End -->
-          </a>
-          <div class="dropdown-divider"></div>
-          <a href="#" class="dropdown-item dropdown-footer">See All Messages</a>
+        <div class="w3_search">
+            <form action="#" method="post">
+                <input type="text" name="Search" placeholder="Search" required="">
+                <input type="submit" value="Go">
+            </form>
         </div>
-      </li>
-      <!-- Notifications Dropdown Menu -->
-      <li class="nav-item dropdown">
-        <a class="nav-link" data-toggle="dropdown" href="#">
-          <i class="far fa-bell"></i>
-          <span class="badge badge-warning navbar-badge">15</span>
-        </a>
-        <div class="dropdown-menu dropdown-menu-lg dropdown-menu-right">
-          <span class="dropdown-item dropdown-header">15 Notifications</span>
-          <div class="dropdown-divider"></div>
-          <a href="#" class="dropdown-item">
-            <i class="fas fa-envelope mr-2"></i> 4 new messages
-            <span class="float-right text-muted text-sm">3 mins</span>
-          </a>
-          <div class="dropdown-divider"></div>
-          <a href="#" class="dropdown-item">
-            <i class="fas fa-users mr-2"></i> 8 friend requests
-            <span class="float-right text-muted text-sm">12 hours</span>
-          </a>
-          <div class="dropdown-divider"></div>
-          <a href="#" class="dropdown-item">
-            <i class="fas fa-file mr-2"></i> 3 new reports
-            <span class="float-right text-muted text-sm">2 days</span>
-          </a>
-          <div class="dropdown-divider"></div>
-          <a href="#" class="dropdown-item dropdown-footer">See All Notifications</a>
-        </div>
-      </li>
-     
-    </ul>
-  </nav>
-  <!-- /.navbar -->
+        <div class="w3l_sign_in_register">
+            <ul>
 
-  <!-- Main Sidebar Container -->
-  <aside class="main-sidebar sidebar-dark-primary elevation-4">
-    <!-- Brand Logo -->
-    <a href="index3.html" class="brand-link">
-      <img src="<?php echo $host;?>dashboard/includes/dist/img/AdminLTELogo.png" alt="AdminLTE Logo" class="brand-image img-circle elevation-3"
-           style="opacity: .8">
-      <span class="brand-text font-weight-light">AdminLTE 3</span>
-    </a>
+                <li><a href="<?php echo $host; ?>users/logout.php">Log out</a>
+                </li>
 
-    <!-- Sidebar -->
-    <div class="sidebar">
-      <!-- Sidebar user panel (optional) -->
-      <div class="user-panel mt-3 pb-3 mb-3 d-flex">
-        <div class="image">
-          <img src="<?php echo $host;?>dashboard/includes/dist/img/user2-160x160.jpg" class="img-circle elevation-2" alt="User Image">
-        </div>
-        <div class="info">
-          <a href="#" class="d-block">Alexander Pierce</a>
-        </div>
-      </div>
-
-      <!-- Sidebar Menu -->
-      <nav class="mt-2">
-        <ul class="nav nav-pills nav-sidebar flex-column" data-widget="treeview" role="menu" data-accordion="false">
-          <!-- Add icons to the links using the .nav-icon class
-               with font-awesome or any other icon font library -->
-          <li class="nav-item has-treeview menu-open">
-            <a href="#" class="nav-link active">
-              <i class="nav-icon fas fa-tachometer-alt"></i>
-              <p>
-                Dashboard
-                <i class="right fas fa-angle-left"></i>
-              </p>
-            </a>
-            <ul class="nav nav-treeview">
-              <li class="nav-item">
-                <a href="/" class="nav-link active">
-                  <i class="far fa-circle nav-icon"></i>
-                  <p>Dashboard v1</p>
-                </a>
-              </li>
-              <li class="nav-item">
-                <a href="./index2.html" class="nav-link">
-                  <i class="far fa-circle nav-icon"></i>
-                  <p>Dashboard v2</p>
-                </a>
-              </li>
-              <li class="nav-item">
-                <a href="./index3.html" class="nav-link">
-                  <i class="far fa-circle nav-icon"></i>
-                  <p>Dashboard v3</p>
-                </a>
-              </li>
             </ul>
-          </li>
-
-        
-        </ul>
-      </nav>
-      <!-- /.sidebar-menu -->
+        </div>
+        <div class="clearfix"></div>
     </div>
-    <!-- /.sidebar -->
-  </aside>
+</div>
+<!-- //header -->
+<!-- bootstrap-pop-up -->
+<div class="modal video-modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModal">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                Sign In & Sign Up
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <section>
+                <div class="modal-body">
+                    <div class="w3_login_module">
+                        <div class="module form-module">
+                            <div class="toggle"><i class="fa fa-times fa-pencil"></i>
+                                <div class="tooltip">Click Me</div>
+                            </div>
+                            <div class="form">
+                                <h3>Login to your account</h3>
+                                <form action="/" method="post" enctype="multipart/form-data">
+                                    <input type="text" name="username" placeholder="Username" required="">
+                                    <input type="password" name="password" placeholder="Password" required="">
+                                    <input type="submit" value="Login" name="login">
+                                </form>
+                            </div>
+                            <div class="form">
+                                <h3>Create an account</h3>
+                                <form action="/" method="post" enctype="multipart/form-data">
+                                    <?php if (isset($errors['username'])) {
+                                        echo "<span style='font-size:10px;color:#ff0000;display:block'>*" . $errors['username'] . "</span>";
+                                    } ?>
+                                    <input type="text" name="username" placeholder="Username">
+                                    <?php if (isset($errors['password'])) {
+                                        echo "<span style='font-size:10px;color:red;display:block'>*" . $errors['password'] . "</span>";
+                                    } ?>
+                                    <input type="password" name="password" placeholder="Password">
+                                    <?php if (isset($errors['email'])) {
+                                        echo "<span style='font-size:10px;color:red;display:block'>*" . $errors['email'] . "</span>";
+                                    } ?>
+                                    <input type="email" name="email" placeholder="Email Address">
+                                    <?php if (isset($errors['phone'])) {
+                                        echo "<span style='font-size:10px;color:red;'>*" . $errors['phone'] . "</span>";
+                                    } ?>
+                                    <input type="text" name="phone" placeholder="Phone Number">
+                                    <input type="submit" value="Register" name="register">
+                                </form>
+                            </div>
+                            <div class="cta"><a href="<?php echo $host; ?>partials/#">Forgot your password?</a></div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </div>
+</div>
+<script>
+    $('.toggle').click(function () {
+        // Switches the Icon
+        $(this).children('i').toggleClass('fa-pencil');
+        // Switches the forms
+        $('.form').animate({
+            height: "toggle",
+            'padding-top': 'toggle',
+            'padding-bottom': 'toggle',
+            opacity: "toggle"
+        }, "slow");
+    });
+</script>
+<!-- //bootstrap-pop-up -->
+<!-- nav -->
+<div class="movies_nav">
+    <div class="container">
+        <nav class="navbar navbar-default">
+            <div class="navbar-header navbar-left">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+                        data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+            </div>
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse navbar-right" id="bs-example-navbar-collapse-1">
+                <nav>
+                    <ul class="nav navbar-nav">
+                        <li class="active"><a href="/">Home</a></li>
+                        <li class="dropdown">
+                            <a href="<?php echo $host; ?>partials/#" class="dropdown-toggle" data-toggle="dropdown">Genres
+                                <b class="caret"></b></a>
+                            <ul class="dropdown-menu multi-column columns-3">
+                                <li>
+                                    <div class="col-sm-4">
+                                        <ul class="multi-column-dropdown">
+                                            <li><a href="<?php echo $host; ?>pages/genres.php?p=action">Action</a></li>
+                                            <li><a href="<?php echo $host; ?>pages/genres.php?p=biography">Biography</a>
+                                            </li>
+                                            <li><a href="<?php echo $host; ?>pages/genres.php?p=crime">Crime</a></li>
+                                            <li><a href="<?php echo $host; ?>pages/genres.php?p=family">Family</a></li>
+                                            <li><a href="<?php echo $host; ?>pages/genres.php?p=horror">Horror</a></li>
+                                            <li><a href="<?php echo $host; ?>pages/genres.php?p=romance">Romance</a>
+                                            </li>
+                                            <li><a href="<?php echo $host; ?>pages/genres.php?p=sports">Sports</a></li>
+                                            <li><a href="<?php echo $host; ?>pages/genres.php?p=war">War</a></li>
+                                        </ul>
+                                    </div>
+                                    <div class="col-sm-4">
+                                        <ul class="multi-column-dropdown">
+                                            <li><a href="<?php echo $host; ?>pages/genres.php?p=adventure">Adventure</a>
+                                            </li>
+                                            <li><a href="<?php echo $host; ?>pages/genres.php?p=comedy">Comedy</a></li>
+                                            <li>
+                                                <a href="<?php echo $host; ?>pages/genres.php?p=documentary">Documentary</a>
+                                            </li>
+                                            <li><a href="<?php echo $host; ?>pages/genres.php?p=fantasy">Fantasy</a>
+                                            </li>
+                                            <li><a href="<?php echo $host; ?>pages/genres.php?p=thriller">Thriller</a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                    <div class="col-sm-4">
+                                        <ul class="multi-column-dropdown">
+                                            <li><a href="<?php echo $host; ?>pages/genres.php?p=animation">Animation</a>
+                                            </li>
+                                            <li><a href="<?php echo $host; ?>pages/genres.php?p=costume">Costume</a>
+                                            </li>
+                                            <li><a href="<?php echo $host; ?>pages/genres.php?p=drama">Drama</a></li>
+                                            <li><a href="<?php echo $host; ?>pages/genres.php?p=history">History</a>
+                                            </li>
+                                            <li><a href="<?php echo $host; ?>pages/genres.php?p=musical">Musical</a>
+                                            </li>
+                                            <li><a href="<?php echo $host; ?>pages/genres.php?p=psychological">Psychological</a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                    <div class="clearfix"></div>
+                                </li>
+                            </ul>
+                        </li>
+                        <li><a href="<?php echo $host; ?>pages/series.php">tv - series</a></li>
+                        <li><a href="<?php echo $host; ?>pages/news.php">news</a></li>
+                        <li class="dropdown">
+                            <a href="<?php echo $host; ?>partials/#" class="dropdown-toggle" data-toggle="dropdown">Country
+                                <b class="caret"></b></a>
+                            <ul class="dropdown-menu multi-column columns-3">
+                                <li>
+                                    <div class="col-sm-4">
+                                        <ul class="multi-column-dropdown">
+                                            <li><a href="<?php echo $host; ?>pages/genres.php">Asia</a></li>
+                                            <li><a href="<?php echo $host; ?>pages/genres.php">France</a></li>
+                                            <li><a href="<?php echo $host; ?>pages/genres.php">Taiwan</a></li>
+                                            <li><a href="<?php echo $host; ?>pages/genres.php">United States</a></li>
+                                        </ul>
+                                    </div>
+                                    <div class="col-sm-4">
+                                        <ul class="multi-column-dropdown">
+                                            <li><a href="<?php echo $host; ?>pages/genres.php">China</a></li>
+                                            <li><a href="<?php echo $host; ?>pages/genres.php">HongCong</a></li>
+                                            <li><a href="<?php echo $host; ?>pages/genres.php">Japan</a></li>
+                                            <li><a href="<?php echo $host; ?>pages/genres.php">Thailand</a></li>
+                                        </ul>
+                                    </div>
+                                    <div class="col-sm-4">
+                                        <ul class="multi-column-dropdown">
+                                            <li><a href="<?php echo $host; ?>pages/genres.php">Euro</a></li>
+                                            <li><a href="<?php echo $host; ?>pages/genres.php">India</a></li>
+                                            <li><a href="<?php echo $host; ?>pages/genres.php">Korea</a></li>
+                                            <li><a href="<?php echo $host; ?>pages/genres.php">United Kingdom</a></li>
+                                        </ul>
+                                    </div>
+                                    <div class="clearfix"></div>
+                                </li>
+                            </ul>
+                        </li>
+                        <li><a href="<?php echo $host; ?>pages/short-codes.php">Short Codes</a></li>
+                        <li><a href="<?php echo $host; ?>pages/list.php">A - z list</a></li>
+                    </ul>
+                </nav>
+            </div>
+        </nav>
+    </div>
+</div>
+<!-- //nav -->

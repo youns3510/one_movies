@@ -6,8 +6,8 @@ if (isset($_POST['upload_btn'])) {
     $story = htmlspecialchars($_POST['story']);
     $genres = array_filter($_POST['genres']);
 
-    $_POST['release_date'] ? $release_date = htmlspecialchars($_POST['release_date']) : $release_date ='';
-   
+    $_POST['release_date'] ? $release_date = htmlspecialchars($_POST['release_date']) : $release_date = '';
+
     $star_rating = htmlspecialchars($_POST['star_rating']);
     $image = array_filter($_FILES['image']);
     $video = array_filter($_FILES['video']);
@@ -19,7 +19,7 @@ if (isset($_POST['upload_btn'])) {
         $_SESSION['action'] = true;
         $_SESSION['option'] = 'error';
         foreach ($errors as $error) {
-            $err .= $error . '</br>'; 
+            $err .= $error . '</br>';
         }
         $_SESSION['message'] = '!Opps..<br>' . $err;
     }
@@ -57,7 +57,6 @@ function upload($name, $story, $genres, $release_date, $star_rating, $image, $vi
     // echo gettype($genres) . '<br>';
     // $date = date("Y-m", strtotime($release_date));
     // echo $date . '<br>' . $star_rating . '<br>';
-
 
 
     // $name
@@ -163,7 +162,6 @@ function upload($name, $story, $genres, $release_date, $star_rating, $image, $vi
                 $con->query($qeury_gen);
 
 
-
                 $_SESSION['action'] = true;
                 $_SESSION['option'] = 'success';
                 $_SESSION['message'] = 'movies successfully uploades';
@@ -198,10 +196,11 @@ function upload($name, $story, $genres, $release_date, $star_rating, $image, $vi
     }
     // ==========================================================================
 }
+
 function update($name, $story, $genres, $release_date, $star_rating, $image, $video)
 {
-    global $errors, $con;   
-    $id = (int) $_GET['id'];
+    global $errors, $con;
+    $id = (int)$_GET['id'];
     $admin_id = $_SESSION['admin_id'];
     $targetDir = "../../../partials/uploads/";
     $yeardir = '' . date("Y", strtotime($release_date)) . '';
@@ -209,7 +208,7 @@ function update($name, $story, $genres, $release_date, $star_rating, $image, $vi
     if (!is_dir($targetDir)) {
         mkdir($targetDir, 0777, true);
     }
-   // var_dump($_FILES['image']['name']);
+    // var_dump($_FILES['image']['name']);
     if (!empty($_FILES['image']['name'])) {
         //echo 'immm';
         //=========================================== upload image============================
@@ -224,9 +223,9 @@ function update($name, $story, $genres, $release_date, $star_rating, $image, $vi
         if (in_array($fileType, $allowTypes)) {
             if (count($errors) == 0 && move_uploaded_file($image['tmp_name'], $targetFilePath)) {
                 $image_SQL .= "partials/uploads/" . $yeardir . '/' . $name . '/' . $fileName;
-                $img_q= "UPDATE `movies`  SET `image`='$image_SQL' WHERE `id`='$id';";
+                $img_q = "UPDATE `movies`  SET `image`='$image_SQL' WHERE `id`='$id';";
                 $con->query($img_q);
-               // echo 'update img '.$con->error.'<br><br>';
+                // echo 'update img '.$con->error.'<br><br>';
             } else {
                 $errors['image'] = "error while uploading image";
             }
@@ -237,8 +236,8 @@ function update($name, $story, $genres, $release_date, $star_rating, $image, $vi
     // ===================================================================================
     // ======================================upload video==================================
     if (!empty($_FILES['video']['name'])) {
-    //   echo 'viddddddddddd';
-        $video_allowTypes = array("mp4", "avi", "mov", "mpeg","MP4", "AVI", "MOV", "MPEG");
+        //   echo 'viddddddddddd';
+        $video_allowTypes = array("mp4", "avi", "mov", "mpeg", "MP4", "AVI", "MOV", "MPEG");
         $video_fileName = basename($video['name']);
         $video_targetFilePath = $targetDir . '/' . $video_fileName;
         $video_SQL = "";
@@ -250,9 +249,9 @@ function update($name, $story, $genres, $release_date, $star_rating, $image, $vi
         if (in_array($video_fileType, $video_allowTypes)) {
             if (count($errors) == 0 && move_uploaded_file($video['tmp_name'], $video_targetFilePath)) {
                 $video_SQL .= "partials/uploads/" . $yeardir . '/' . $name . '/' . $video_fileName;
-                $vid_q= "UPDATE `movies`  SET `video`='$video_SQL' WHERE `id`='$id';";
+                $vid_q = "UPDATE `movies`  SET `video`='$video_SQL' WHERE `id`='$id';";
                 $con->query($vid_q);
-         //       echo 'update vid '.$con->error.'<br><br>';
+                //       echo 'update vid '.$con->error.'<br><br>';
             } else {
                 $errors['video'] = "error while uploading video";
             }
@@ -276,11 +275,11 @@ function update($name, $story, $genres, $release_date, $star_rating, $image, $vi
 
         $result = $con->query($update);
 
-       // echo 'update name ,story,release '.$con->error.'<br><br>';
+        // echo 'update name ,story,release '.$con->error.'<br><br>';
         if (!empty($star_rating)) {
             $q0 = "SELECT * FROM  `star_rating` WHERE `movie_id`='$id';";
             $result = $con->query($q0);
-         //   echo 'select star_rating'.$con->error.'<br><br>';
+            //   echo 'select star_rating'.$con->error.'<br><br>';
             if ($result->num_rows > 0) {
                 while ($row = $result->fetch_assoc()) {
                     // echo ($row['one'])."<br>";
@@ -316,7 +315,7 @@ function update($name, $story, $genres, $release_date, $star_rating, $image, $vi
             }
 
             $con->query($q);
-        //    echo 'update star_rating'.$con->error.'<br><br>';
+            //    echo 'update star_rating'.$con->error.'<br><br>';
         }
 
         // ==================================================
@@ -335,12 +334,12 @@ function update($name, $story, $genres, $release_date, $star_rating, $image, $vi
         for ($i = 0; $i < count($genresAll) - 1; $i++) {
             $g_sql .= '`' . $genresAll[$i] . '` = "' . $one[$i] . '",';
         }
-        $g_sql .= '`' . $genresAll[count($genresAll) - 1] . '` = "' . $one[count($one) -1 ] . '"';
-      //  echo $g_sql;
+        $g_sql .= '`' . $genresAll[count($genresAll) - 1] . '` = "' . $one[count($one) - 1] . '"';
+        //  echo $g_sql;
 
         $qeury_gen = "UPDATE `genres` SET  " . $g_sql . " WHERE `movie_id` = '$id';";
         $con->query($qeury_gen);
-       // echo 'update genres'.$con->error.'<br><br>';
+        // echo 'update genres'.$con->error.'<br><br>';
 
         $_SESSION['action'] = true;
         $_SESSION['option'] = 'success';
@@ -384,8 +383,6 @@ function data_validate($func, $name, $story, $genres, $release_date, $star_ratin
             $errors['video'] = "* video is required";
         }
     }
-
-  
 
 
     return $errors;

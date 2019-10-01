@@ -3,8 +3,9 @@ database
 membership panel
 
 todo:
-solved - there is a bug on display error on upload function try to think about new solution  if there is an error don't upload any thing
 
+solved - there is a bug on display error on upload function try to think about new solution  if there is an error don't upload any thing
+security enter email check then enter password then login 
 images on different sizes
 video preload 
 adding views
