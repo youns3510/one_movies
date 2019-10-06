@@ -1,3 +1,12 @@
+<!-- sidebar -->
+<div class="col-xs-12 col-sm-12 col-md-4">
+          <div class="text-center" style="padding:10px;background-color:#ff8d1b;width:100%;height:400px">Tags and Ads</div>
+        </div>
+     </div>
+     <!-- end sidebar -->
+ </div>
+ <!-- end main -->
+
 <!-- footer -->
 <div class="footer">
     <div class="container">

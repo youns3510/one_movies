@@ -1,9 +1,15 @@
 <?php
-//session_start();
+ if (!isset($_SESSION)) {
+     session_start([
+    'cookie_httponly' => true,
+    'cookie_secure' => true
+]);
+ }
 if (isset($_SESSION["auth"]) == false && $_SESSION["auth"] != 'user') {
-    header("Location: /");
+    header("Location: /");  
     exit();
 }
+
 $host = "//" . $_SERVER['HTTP_HOST'] . "/";
 ?>
 <!--
@@ -50,6 +56,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
     <!-- toastr -->
     <link rel="stylesheet" href="<?php echo $host; ?>dashboard/includes/plugins/toastr/toastr.min.css" type="text/css"/>
 
+
+
     <!-- banner-bottom-plugin -->
     <link href="<?php echo $host; ?>partials/css/owl.carousel.css" rel="stylesheet" type="text/css" media="all">
     <script src="<?php echo $host; ?>partials/js/owl.carousel.js"></script>
@@ -82,6 +90,10 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
         });
     </script>
     <!-- start-smoth-scrolling -->
+
+    <?php
+     if(isset($styles)) echo $styles;
+    if(isset($scripts)) echo $scripts;?>
 </head>
 
 <body>
@@ -291,3 +303,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
     </div>
 </div>
 <!-- //nav -->
+
+<!-- main content -->
+
+  

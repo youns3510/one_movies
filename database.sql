@@ -3,7 +3,6 @@ CREATE TABLE IF NOT EXISTS `admins`
 (
     `id`         INT UNSIGNED NOT NULL AUTO_INCREMENT,
     `username`   VARCHAR(255) NOT NULL,
-    `name`       VARCHAR(255) NOT NULL,
     `email`      VARCHAR(255) NOT NULL,
     `role`       VARCHAR(255) NOT NULL,
     `created_at` TIMESTAMP,
@@ -77,6 +76,17 @@ CREATE TABLE IF NOT EXISTS `usr_pass`
     UNIQUE KEY `UK_user_id` (`user_id`),
     FOREIGN KEY (`user_id`) REFERENCES users (`id`) ON DELETE CASCADE ON UPDATE CASCADE
 );
+
+CREATE TABLE IF NOT EXISTS `history`(
+    `id` INT UNSIGNED NOT NULL AUTO_INCREMENT,
+    `user_id` INT UNSIGNED NOT NULL,
+    `movie_id` INT UNSIGNED NOT NULL,
+    `last_watch` TIMESTAMP,
+    PRIMARY KEY `pk_id`(`id`),
+    FOREIGN KEY(`user_id`) REFERENCES users(`id`) ON DELETE CASCADE ON UPDATE CASCADE,
+    FOREIGN KEY(`movie_id`) REFERENCES `movies`(`id`) ON DELETE CASCADE ON UPDATE CASCADE
+)
+
 
 -- =================================================================
 -- comments table  user && movie

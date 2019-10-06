@@ -1,6 +1,11 @@
 <?php
 $host = '//' . $_SERVER['HTTP_HOST'] . '/';
-session_start();
+ if (!isset($_SESSION)) {
+     session_start([
+    'cookie_httponly' => true,
+    'cookie_secure' => true
+]);
+ }
 if (isset($_SESSION["auth"]) && $_SESSION["auth"] = 'admin') {
     header("Location: /dashboard/");
     exit();

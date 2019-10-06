@@ -1,9 +1,15 @@
 <?php
-//session_start();
-if (isset($_SESSION["auth"]) && $_SESSION["auth"] == 'user') {
-    header("Location: /users/myaccount.php");
+ if (!isset($_SESSION)) {      
+     session_start([
+    'cookie_httponly' => true,
+    'cookie_secure' => true
+]);
+ }
+if ($_SERVER['SCRIPT_NAME'] == '/index.php' && isset($_SESSION["auth"]) == true && $_SESSION["auth"] == 'user') {    
+    header("Location: /users/myaccount.php"); 
     exit();
 }
+
 $host = "//" . $_SERVER['HTTP_HOST'] . "/";
 ?>
 <!--
@@ -99,9 +105,16 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
         </div>
         <div class="w3l_sign_in_register">
             <ul>
+        <?php 
+            if (isset($_SESSION["auth"]) == true && $_SESSION["auth"] == 'user') {    
+            
+        ?>
+           <li><a href="<?php echo $host; ?>users/logout.php">Log out</a>
+                </li>
+            <?php }else{?>
                 <li><i class="fa fa-phone" aria-hidden="true"></i> (+000) 123 345 653</li>
                 <li><a href="<?php echo $host; ?>partials/#" data-toggle="modal" data-target="#myModal">Login</a>
-
+            <?php }?>
             </ul>
         </div>
         <div class="clearfix"></div>

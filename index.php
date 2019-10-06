@@ -38,8 +38,8 @@ $result = $con->query($slid_query); ?>
                 <div id="owl-demo" class="owl-carousel owl-theme">
                     <div class="item">
                         <div class="w3l-movie-gride-agile w3l-movie-gride-agile1">
-                            <a href="<?php echo $host; ?>pages/single.php" class="hvr-shutter-out-horizontal"><img
-                                        src="<?php echo $host; ?>partials/images/m13.jpg" title="album-name"
+                            <a href="<?php echo $host; ?>pages/single.php" class="hvr-shutter-out-horizontal">
+                            <img src="<?php echo $host; ?>partials/images/m13.jpg" title="album-name"
                                         class="img-responsive" alt=" "/>
                                 <div class="w3l-action-icon"><i class="fa fa-play-circle" aria-hidden="true"></i></div>
                             </a>

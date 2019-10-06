@@ -1,5 +1,10 @@
 <?php
-session_start();
+if (!isset($_SESSION)) {
+    session_start([
+        'cookie_httponly' => true,
+        'cookie_secure' => true
+    ]);
+}
 // echo "++++----------------------------------------------------------<br>".$_SERVER['DOCUMENT_ROOT'];
 // echo "++++----------------------------------------------------------<br>".realpath(__DIR__.'/../includes/db.php');
 
@@ -112,32 +117,27 @@ if (isset($_GET['v_token']) && !empty($_GET['v_token'])) {
 if (isset($_POST['login'])) {
     $username = test_input($_POST['username']);
     $password = test_input($_POST['password']);
-// echo $username.'<br>'.$password;
+    // echo $username.'<br>'.$password;
     $query = "SELECT * FROM `users` WHERE username='$username';";
     $result = $con->query($query);
     if ($result->num_rows == 1) {
         $row = $result->fetch_assoc();
         $user_id = $row['id'];
-        $name = $row['name'];
 
         $query = "SELECT * FROM `usr_pass` WHERE `user_id`='$user_id';";
         $res = $con->query($query);
         if ($res->num_rows == 1) {
             $r = $res->fetch_assoc();
             if (password_verify($password, $r['password'])) {
-
                 $_SESSION["auth"] = 'user';
-//          $_SESSION['user_id'] = $user_id;
                 $_SESSION['username'] = $username;
-                $_SESSION['name'] = $name;
+
 
                 header("Location: /users/myaccount.php");
 
                 $_SESSION['action'] = true;
                 $_SESSION['option'] = 'success';
                 $_SESSION['message'] = 'successfully Login';
-
-
             } else {
                 $_SESSION['action'] = true;
                 $_SESSION['option'] = 'error';
