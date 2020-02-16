@@ -2,8 +2,8 @@
 require('../includes/db.php');
 $username = stripslashes('one_movies_admin');
 $username = mysqli_real_escape_string($con, $username);
-$name = stripslashes('Admin Younes');
-$name = mysqli_real_escape_string($con, $name);
+// $name = stripslashes('Admin Younes');
+// $name = mysqli_real_escape_string($con, $name);
 $email = stripslashes('youns3510@gmail.com');
 $email = mysqli_real_escape_string($con, $email);
 $password = stripslashes("@one_movies_admin$2019");
@@ -11,12 +11,12 @@ $password = mysqli_real_escape_string($con, $password);
 
 $role = stripslashes('admin');
 $role = mysqli_real_escape_string($con, $role);
-$query = "INSERT into `admins` (username, name, email, role)
-VALUES ('$username', '$name', '$email', '$role')";
+$query = "INSERT into `one_movies`.`admins` (`username`, `email`, `role`)
+VALUES ('$username', '$email', '$role')";
 $result = $con->query($query);
 if ($result) {
     echo 'success';
-    $q = "INSERT into `ad_pass`(admin_id,password)VALUES ('$con->insert_id', '" . password_hash($password, PASSWORD_DEFAULT) . "')";
+    $q = "INSERT into `one_movies`.`ad_pass`(`admin_id`,`password`)VALUES ('$con->insert_id', '" . password_hash($password, PASSWORD_DEFAULT) . "')";
     $result = $con->query($q);
     if ($result) {
         echo 'success passwrod';

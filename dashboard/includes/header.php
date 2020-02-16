@@ -1,9 +1,7 @@
 <?php
+require_once(__DIR__ . '/../../constants.php');
  if (!isset($_SESSION)) {
-     session_start([
-    'cookie_httponly' => true,
-    'cookie_secure' => true
-]);
+     session_start();
  }
 if (!isset($_SESSION["auth"]) && $_SESSION["auth"] !== 'admin') {
     header("Location: /dashboard/pages/login.php");
@@ -11,7 +9,7 @@ if (!isset($_SESSION["auth"]) && $_SESSION["auth"] !== 'admin') {
 }
 
 
-$host = '//' . $_SERVER['HTTP_HOST'] . '/';
+//$host = '//' . $_SERVER['HTTP_HOST'] . '/';
 ?>
 <!DOCTYPE html>
 <html>
@@ -22,17 +20,18 @@ $host = '//' . $_SERVER['HTTP_HOST'] . '/';
     <!-- Tell the browser to be responsive to screen width -->
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- Font Awesome -->
-    <link rel="stylesheet" href="<?php echo $host; ?>dashboard/includes/plugins/fontawesome-free/css/all.min.css">
+    <link rel="stylesheet" href="<?php echo HOST; ?>dashboard/includes/plugins/fontawesome-free/css/all.min.css">
     <!-- Theme style -->
-    <link rel="stylesheet" href="<?php echo $host; ?>dashboard/includes/dist/css/adminlte.min.css">
+    <link rel="stylesheet" href="<?php echo HOST; ?>dashboard/includes/dist/css/adminlte.min.css">
     <!-- overlayScrollbars -->
     <link rel="stylesheet"
-          href="<?php echo $host; ?>dashboard/includes/plugins/overlayScrollbars/css/OverlayScrollbars.min.css">
+          href="<?php echo HOST; ?>dashboard/includes/plugins/overlayScrollbars/css/OverlayScrollbars.min.css">
     <!-- summernote -->
-    <!-- <link rel="stylesheet" href="<?php echo $host; ?>dashboard/includes/plugins/summernote/summernote-bs4.css"> -->
+    <!-- <link rel="stylesheet" href="<?php echo HOST; ?>dashboard/includes/plugins/summernote/summernote-bs4.css"> -->
     <!-- Google Font: Source Sans Pro -->
     <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700" rel="stylesheet">
-    <link rel="stylesheet" href="<?php echo $host; ?>dashboard/includes/plugins/toastr/toastr.min.css" type="text/css"/>
+    <link rel="stylesheet" href="<?php echo HOST; ?>dashboard/includes/plugins/toastr/toastr.min.css" type="text/css"/>
+
     <?php if (isset($styles)) {
         echo $styles;
     }; ?>
@@ -80,7 +79,7 @@ $host = '//' . $_SERVER['HTTP_HOST'] . '/';
                     <a href="#" class="dropdown-item">
                         <!-- Message Start -->
                         <div class="media">
-                            <img src="<?php echo $host; ?>dashboard/includes/dist/img/user1-128x128.jpg"
+                            <img src="<?php echo HOST; ?>dashboard/includes/dist/img/user1-128x128.jpg"
                                  alt="User Avatar" class="img-size-50 mr-3 img-circle">
                             <div class="media-body">
                                 <h3 class="dropdown-item-title">
@@ -97,7 +96,7 @@ $host = '//' . $_SERVER['HTTP_HOST'] . '/';
                     <a href="#" class="dropdown-item">
                         <!-- Message Start -->
                         <div class="media">
-                            <img src="<?php echo $host; ?>dashboard/includes/dist/img/user8-128x128.jpg"
+                            <img src="<?php echo HOST; ?>dashboard/includes/dist/img/user8-128x128.jpg"
                                  alt="User Avatar" class="img-size-50 img-circle mr-3">
                             <div class="media-body">
                                 <h3 class="dropdown-item-title">
@@ -114,7 +113,7 @@ $host = '//' . $_SERVER['HTTP_HOST'] . '/';
                     <a href="#" class="dropdown-item">
                         <!-- Message Start -->
                         <div class="media">
-                            <img src="<?php echo $host; ?>dashboard/includes/dist/img/user3-128x128.jpg"
+                            <img src="<?php echo HOST; ?>dashboard/includes/dist/img/user3-128x128.jpg"
                                  alt="User Avatar" class="img-size-50 img-circle mr-3">
                             <div class="media-body">
                                 <h3 class="dropdown-item-title">
@@ -167,7 +166,7 @@ $host = '//' . $_SERVER['HTTP_HOST'] . '/';
     <aside class="main-sidebar sidebar-dark-primary elevation-4">
         <!-- Brand Logo -->
         <a href="/dashboard/" class="brand-link">
-            <img src="<?php echo $host; ?>dashboard/includes/dist/img/AdminLTELogo.png" alt="AdminLTE Logo"
+            <img src="<?php echo HOST; ?>dashboard/includes/dist/img/AdminLTELogo.png" alt="AdminLTE Logo"
                  class="brand-image img-circle elevation-3"
                  style="opacity: .8">
             <span class="brand-text font-weight-light">ONE MOVIES| Panel</span>
@@ -181,7 +180,7 @@ $host = '//' . $_SERVER['HTTP_HOST'] . '/';
             <div class="dropdown mb-5" style="width:100px">
                 <a class="btn btn-danger dropdown-toggle" href="#" role="button" id="dropdownMenuLink"
                    data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                    <img style="width:50px" src="<?php echo $host; ?>dashboard/includes/dist/img/user2-160x160.jpg"
+                    <img style="width:50px" src="<?php echo HOST; ?>dashboard/includes/dist/img/user2-160x160.jpg"
                          class="img-circle" alt="User Image">
                     <span class="ml-2">
             <?php if (isset($_SESSION['username'])) {

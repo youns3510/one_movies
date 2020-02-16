@@ -1,6 +1,6 @@
 <?php
 
-
+require_once(__DIR__ . '/../../constants.php');
 // echo  __FILE__.'<br>';
 // echo dirname(__FILE__).'<br>==================<br>';
 // echo __DIR__.'<br>';
@@ -13,7 +13,7 @@ require __DIR__ . '/../../vendor/autoload.php';
 require __DIR__ . "/../../constants.php";
 
 // Create the Transport
-$transport = (new Swift_SmtpTransport(HOST, PORT, 'ssl'))
+$transport = (new Swift_SmtpTransport(EMAIL_HOST, EMAIL_PORT, 'ssl'))
     ->setUsername(EMAIL)
     ->setPassword(PASSWORD);
 

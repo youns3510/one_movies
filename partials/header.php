@@ -1,16 +1,14 @@
 <?php
+require_once(__DIR__ . '/../constants.php');
  if (!isset($_SESSION)) {      
-     session_start([
-    'cookie_httponly' => true,
-    'cookie_secure' => true
-]);
+     session_start();
  }
 if ($_SERVER['SCRIPT_NAME'] == '/index.php' && isset($_SESSION["auth"]) == true && $_SESSION["auth"] == 'user') {    
     header("Location: /users/myaccount.php"); 
     exit();
 }
 
-$host = "//" . $_SERVER['HTTP_HOST'] . "/";
+// $host = "//" . $_SERVER['HTTP_HOST'] . "/";
 ?>
 <!--
 author: W3layouts
@@ -35,30 +33,30 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
             window.scrollTo(0, 1);
         } </script>
     <!-- //for-mobile-apps -->
-    <link href="<?php echo $host; ?>partials/css/bootstrap.css" rel="stylesheet" type="text/css" media="all"/>
-    <link href="<?php echo $host; ?>partials/css/style.css" rel="stylesheet" type="text/css" media="all"/>
-    <link rel="stylesheet" href="<?php echo $host; ?>partials/css/contactstyle.css" type="text/css" media="all"/>
-    <link rel="stylesheet" href="<?php echo $host; ?>partials/css/faqstyle.css" type="text/css" media="all"/>
-    <link href="<?php echo $host; ?>partials/css/single.css" rel='stylesheet' type='text/css'/>
-    <link href="<?php echo $host; ?>partials/css/medile.css" rel='stylesheet' type='text/css'/>
+    <link href="<?php echo HOST; ?>partials/css/bootstrap.css" rel="stylesheet" type="text/css" media="all"/>
+    <link href="<?php echo HOST; ?>partials/css/style.css" rel="stylesheet" type="text/css" media="all"/>
+    <link rel="stylesheet" href="<?php echo HOST; ?>partials/css/contactstyle.css" type="text/css" media="all"/>
+    <link rel="stylesheet" href="<?php echo HOST; ?>partials/css/faqstyle.css" type="text/css" media="all"/>
+    <link href="<?php echo HOST; ?>partials/css/single.css" rel='stylesheet' type='text/css'/>
+    <link href="<?php echo HOST; ?>partials/css/medile.css" rel='stylesheet' type='text/css'/>
     <!-- banner-slider -->
-    <link href="<?php echo $host; ?>partials/css/jquery.slidey.min.css" rel="stylesheet">
+    <link href="<?php echo HOST; ?>partials/css/jquery.slidey.min.css" rel="stylesheet">
     <!-- //banner-slider -->
     <!-- pop-up -->
-    <link href="<?php echo $host; ?>partials/css/popuo-box.css" rel="stylesheet" type="text/css" media="all"/>
+    <link href="<?php echo HOST; ?>partials/css/popuo-box.css" rel="stylesheet" type="text/css" media="all"/>
     <!-- //pop-up -->
     <!-- font-awesome icons -->
-    <link rel="stylesheet" href="<?php echo $host; ?>partials/css/font-awesome.min.css"/>
+    <link rel="stylesheet" href="<?php echo HOST; ?>partials/css/font-awesome.min.css"/>
     <!-- //font-awesome icons -->
     <!-- js -->
-    <script type="text/javascript" src="<?php echo $host; ?>partials/js/jquery-2.1.4.min.js"></script>
+    <script type="text/javascript" src="<?php echo HOST; ?>partials/js/jquery-2.1.4.min.js"></script>
     <!-- //js -->
     <!-- toastr -->
-    <link rel="stylesheet" href="<?php echo $host; ?>dashboard/includes/plugins/toastr/toastr.min.css" type="text/css"/>
+    <link rel="stylesheet" href="<?php echo HOST; ?>dashboard/includes/plugins/toastr/toastr.min.css" type="text/css"/>
 
     <!-- banner-bottom-plugin -->
-    <link href="<?php echo $host; ?>partials/css/owl.carousel.css" rel="stylesheet" type="text/css" media="all">
-    <script src="<?php echo $host; ?>partials/js/owl.carousel.js"></script>
+    <link href="<?php echo HOST; ?>partials/css/owl.carousel.css" rel="stylesheet" type="text/css" media="all">
+    <script src="<?php echo HOST; ?>partials/js/owl.carousel.js"></script>
     <script>
         $(document).ready(function () {
             $("#owl-demo").owlCarousel({
@@ -77,8 +75,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
     <link href='//fonts.googleapis.com/css?family=Roboto+Condensed:400,700italic,700,400italic,300italic,300'
           rel='stylesheet' type='text/css'>
     <!-- start-smoth-scrolling -->
-    <script type="text/javascript" src="<?php echo $host; ?>partials/js/move-top.js"></script>
-    <script type="text/javascript" src="<?php echo $host; ?>partials/js/easing.js"></script>
+    <script type="text/javascript" src="<?php echo HOST; ?>partials/js/move-top.js"></script>
+    <script type="text/javascript" src="<?php echo HOST; ?>partials/js/easing.js"></script>
     <script type="text/javascript">
         jQuery(document).ready(function ($) {
             $(".scroll").click(function (event) {
@@ -88,9 +86,44 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
         });
     </script>
     <!-- start-smoth-scrolling -->
+
+    <link rel="stylesheet" href="<?php echo HOST; ?>partials/css/custom.css" type="text/css"/>
+    <style>
+/* Paste this css to your style sheet file or under head tag */
+/* This only works with JavaScript, 
+if it's not present, don't show loader */
+.no-js #loader { display: none;  }
+.js #loader { display: block; position: absolute; left: 100px; top: 0; }
+.se-pre-con {
+	position: fixed;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	z-index: 9999;
+	background: url(/partials/images/loading.gif) center no-repeat #fff;
+}
+</style>
+
+<!-- <script src="<?php echo HOST; ?>partials/js/jquery.min.js"></script> -->
+<script src="<?php echo HOST; ?>partials/js/modernizr.js"></script>
+<script>
+	//paste this code under head tag or in a seperate js file.
+	// Wait for window load
+	$(window).load(function() {
+		// Animate loader off screen
+		$(".se-pre-con").fadeOut("slow");;
+	});
+</script>
+
+</head>
+
 </head>
 
 <body>
+<!-- Paste this code after body tag -->
+<div class="se-pre-con"></div>
+<!-- Ends -->
 <!-- header -->
 <div class="header">
     <div class="container">
@@ -109,11 +142,11 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
             if (isset($_SESSION["auth"]) == true && $_SESSION["auth"] == 'user') {    
             
         ?>
-           <li><a href="<?php echo $host; ?>users/logout.php">Log out</a>
+           <li><a href="<?php echo HOST; ?>users/logout.php">Log out</a>
                 </li>
             <?php }else{?>
                 <li><i class="fa fa-phone" aria-hidden="true"></i> (+000) 123 345 653</li>
-                <li><a href="<?php echo $host; ?>partials/#" data-toggle="modal" data-target="#myModal">Login</a>
+                <li><a href="<?php echo HOST; ?>partials/#" data-toggle="modal" data-target="#myModal">Login</a>
             <?php }?>
             </ul>
         </div>
@@ -167,7 +200,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
                                     <input type="submit" value="Register" name="register">
                                 </form>
                             </div>
-                            <div class="cta"><a href="<?php echo $host; ?>partials/#">Forgot your password?</a></div>
+                            <div class="cta"><a href="<?php echo HOST; ?>partials/#">Forgot your password?</a></div>
                         </div>
                     </div>
                 </div>
@@ -208,50 +241,50 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
                     <ul class="nav navbar-nav">
                         <li class="active"><a href="/">Home</a></li>
                         <li class="dropdown">
-                            <a href="<?php echo $host; ?>partials/#" class="dropdown-toggle" data-toggle="dropdown">Genres
+                            <a href="<?php echo HOST; ?>partials/#" class="dropdown-toggle" data-toggle="dropdown">Genres
                                 <b class="caret"></b></a>
                             <ul class="dropdown-menu multi-column columns-3">
                                 <li>
                                     <div class="col-sm-4">
                                         <ul class="multi-column-dropdown">
-                                            <li><a href="<?php echo $host; ?>pages/genres.php?p=action">Action</a></li>
-                                            <li><a href="<?php echo $host; ?>pages/genres.php?p=biography">Biography</a>
+                                            <li><a href="<?php echo HOST; ?>pages/genres.php?p=action">Action</a></li>
+                                            <li><a href="<?php echo HOST; ?>pages/genres.php?p=biography">Biography</a>
                                             </li>
-                                            <li><a href="<?php echo $host; ?>pages/genres.php?p=crime">Crime</a></li>
-                                            <li><a href="<?php echo $host; ?>pages/genres.php?p=family">Family</a></li>
-                                            <li><a href="<?php echo $host; ?>pages/genres.php?p=horror">Horror</a></li>
-                                            <li><a href="<?php echo $host; ?>pages/genres.php?p=romance">Romance</a>
+                                            <li><a href="<?php echo HOST; ?>pages/genres.php?p=crime">Crime</a></li>
+                                            <li><a href="<?php echo HOST; ?>pages/genres.php?p=family">Family</a></li>
+                                            <li><a href="<?php echo HOST; ?>pages/genres.php?p=horror">Horror</a></li>
+                                            <li><a href="<?php echo HOST; ?>pages/genres.php?p=romance">Romance</a>
                                             </li>
-                                            <li><a href="<?php echo $host; ?>pages/genres.php?p=sports">Sports</a></li>
-                                            <li><a href="<?php echo $host; ?>pages/genres.php?p=war">War</a></li>
+                                            <li><a href="<?php echo HOST; ?>pages/genres.php?p=sports">Sports</a></li>
+                                            <li><a href="<?php echo HOST; ?>pages/genres.php?p=war">War</a></li>
                                         </ul>
                                     </div>
                                     <div class="col-sm-4">
                                         <ul class="multi-column-dropdown">
-                                            <li><a href="<?php echo $host; ?>pages/genres.php?p=adventure">Adventure</a>
+                                            <li><a href="<?php echo HOST; ?>pages/genres.php?p=adventure">Adventure</a>
                                             </li>
-                                            <li><a href="<?php echo $host; ?>pages/genres.php?p=comedy">Comedy</a></li>
+                                            <li><a href="<?php echo HOST; ?>pages/genres.php?p=comedy">Comedy</a></li>
                                             <li>
-                                                <a href="<?php echo $host; ?>pages/genres.php?p=documentary">Documentary</a>
+                                                <a href="<?php echo HOST; ?>pages/genres.php?p=documentary">Documentary</a>
                                             </li>
-                                            <li><a href="<?php echo $host; ?>pages/genres.php?p=fantasy">Fantasy</a>
+                                            <li><a href="<?php echo HOST; ?>pages/genres.php?p=fantasy">Fantasy</a>
                                             </li>
-                                            <li><a href="<?php echo $host; ?>pages/genres.php?p=thriller">Thriller</a>
+                                            <li><a href="<?php echo HOST; ?>pages/genres.php?p=thriller">Thriller</a>
                                             </li>
                                         </ul>
                                     </div>
                                     <div class="col-sm-4">
                                         <ul class="multi-column-dropdown">
-                                            <li><a href="<?php echo $host; ?>pages/genres.php?p=animation">Animation</a>
+                                            <li><a href="<?php echo HOST; ?>pages/genres.php?p=animation">Animation</a>
                                             </li>
-                                            <li><a href="<?php echo $host; ?>pages/genres.php?p=costume">Costume</a>
+                                            <li><a href="<?php echo HOST; ?>pages/genres.php?p=costume">Costume</a>
                                             </li>
-                                            <li><a href="<?php echo $host; ?>pages/genres.php?p=drama">Drama</a></li>
-                                            <li><a href="<?php echo $host; ?>pages/genres.php?p=history">History</a>
+                                            <li><a href="<?php echo HOST; ?>pages/genres.php?p=drama">Drama</a></li>
+                                            <li><a href="<?php echo HOST; ?>pages/genres.php?p=history">History</a>
                                             </li>
-                                            <li><a href="<?php echo $host; ?>pages/genres.php?p=musical">Musical</a>
+                                            <li><a href="<?php echo HOST; ?>pages/genres.php?p=musical">Musical</a>
                                             </li>
-                                            <li><a href="<?php echo $host; ?>pages/genres.php?p=psychological">Psychological</a>
+                                            <li><a href="<?php echo HOST; ?>pages/genres.php?p=psychological">Psychological</a>
                                             </li>
                                         </ul>
                                     </div>
@@ -259,43 +292,43 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
                                 </li>
                             </ul>
                         </li>
-                        <li><a href="<?php echo $host; ?>pages/series.php">tv - series</a></li>
-                        <li><a href="<?php echo $host; ?>pages/news.php">news</a></li>
+                        <li><a href="<?php echo HOST; ?>pages/series.php">tv - series</a></li>
+                        <li><a href="<?php echo HOST; ?>pages/news.php">news</a></li>
                         <li class="dropdown">
-                            <a href="<?php echo $host; ?>partials/#" class="dropdown-toggle" data-toggle="dropdown">Country
+                            <a href="<?php echo HOST; ?>partials/#" class="dropdown-toggle" data-toggle="dropdown">Country
                                 <b class="caret"></b></a>
                             <ul class="dropdown-menu multi-column columns-3">
                                 <li>
                                     <div class="col-sm-4">
                                         <ul class="multi-column-dropdown">
-                                            <li><a href="<?php echo $host; ?>pages/genres.php">Asia</a></li>
-                                            <li><a href="<?php echo $host; ?>pages/genres.php">France</a></li>
-                                            <li><a href="<?php echo $host; ?>pages/genres.php">Taiwan</a></li>
-                                            <li><a href="<?php echo $host; ?>pages/genres.php">United States</a></li>
+                                            <li><a href="<?php echo HOST; ?>pages/genres.php">Asia</a></li>
+                                            <li><a href="<?php echo HOST; ?>pages/genres.php">France</a></li>
+                                            <li><a href="<?php echo HOST; ?>pages/genres.php">Taiwan</a></li>
+                                            <li><a href="<?php echo HOST; ?>pages/genres.php">United States</a></li>
                                         </ul>
                                     </div>
                                     <div class="col-sm-4">
                                         <ul class="multi-column-dropdown">
-                                            <li><a href="<?php echo $host; ?>pages/genres.php">China</a></li>
-                                            <li><a href="<?php echo $host; ?>pages/genres.php">HongCong</a></li>
-                                            <li><a href="<?php echo $host; ?>pages/genres.php">Japan</a></li>
-                                            <li><a href="<?php echo $host; ?>pages/genres.php">Thailand</a></li>
+                                            <li><a href="<?php echo HOST; ?>pages/genres.php">China</a></li>
+                                            <li><a href="<?php echo HOST; ?>pages/genres.php">HongCong</a></li>
+                                            <li><a href="<?php echo HOST; ?>pages/genres.php">Japan</a></li>
+                                            <li><a href="<?php echo HOST; ?>pages/genres.php">Thailand</a></li>
                                         </ul>
                                     </div>
                                     <div class="col-sm-4">
                                         <ul class="multi-column-dropdown">
-                                            <li><a href="<?php echo $host; ?>pages/genres.php">Euro</a></li>
-                                            <li><a href="<?php echo $host; ?>pages/genres.php">India</a></li>
-                                            <li><a href="<?php echo $host; ?>pages/genres.php">Korea</a></li>
-                                            <li><a href="<?php echo $host; ?>pages/genres.php">United Kingdom</a></li>
+                                            <li><a href="<?php echo HOST; ?>pages/genres.php">Euro</a></li>
+                                            <li><a href="<?php echo HOST; ?>pages/genres.php">India</a></li>
+                                            <li><a href="<?php echo HOST; ?>pages/genres.php">Korea</a></li>
+                                            <li><a href="<?php echo HOST; ?>pages/genres.php">United Kingdom</a></li>
                                         </ul>
                                     </div>
                                     <div class="clearfix"></div>
                                 </li>
                             </ul>
                         </li>
-                        <li><a href="<?php echo $host; ?>pages/short-codes.php">Short Codes</a></li>
-                        <li><a href="<?php echo $host; ?>pages/list.php">A - z list</a></li>
+                        <li><a href="<?php echo HOST; ?>pages/short-codes.php">Short Codes</a></li>
+                        <li><a href="<?php echo HOST; ?>pages/list.php">A - z list</a></li>
                     </ul>
                 </nav>
             </div>

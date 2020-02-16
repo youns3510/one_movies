@@ -23,36 +23,36 @@
                 </div>
             </div>
             <div class="col-md-6 w3ls_footer_grid_right">
-                <a href="<?php echo $host; ?>"><h2>One<span>Movies</span></h2></a>
+                <a href="<?php echo HOST; ?>"><h2>One<span>Movies</span></h2></a>
             </div>
             <div class="clearfix"></div>
         </div>
         <div class="col-md-5 w3ls_footer_grid1_left">
             <p>&copy; 2016 One Movies. All rights reserved | Design by <a
-                        href="<?php echo $host; ?>partials/http://w3layouts.com/">W3layouts</a></p>
+                        href="<?php echo HOST; ?>partials/http://w3layouts.com/">W3layouts</a></p>
         </div>
         <div class="col-md-7 w3ls_footer_grid1_right">
             <ul>
                 <li>
-                    <a href="<?php echo $host; ?>pages/genres.php">Movies</a>
+                    <a href="<?php echo HOST; ?>pages/genres.php">Movies</a>
                 </li>
                 <li>
-                    <a href="<?php echo $host; ?>pages/faq.php">FAQ</a>
+                    <a href="<?php echo HOST; ?>pages/faq.php">FAQ</a>
                 </li>
                 <li>
-                    <a href="<?php echo $host; ?>pages/horror.php">Action</a>
+                    <a href="<?php echo HOST; ?>pages/horror.php">Action</a>
                 </li>
                 <li>
-                    <a href="<?php echo $host; ?>pages/genres.php">Adventure</a>
+                    <a href="<?php echo HOST; ?>pages/genres.php">Adventure</a>
                 </li>
                 <li>
-                    <a href="<?php echo $host; ?>pages/comedy.php">Comedy</a>
+                    <a href="<?php echo HOST; ?>pages/comedy.php">Comedy</a>
                 </li>
                 <li>
-                    <a href="<?php echo $host; ?>pages/icons.php">Icons</a>
+                    <a href="<?php echo HOST; ?>pages/icons.php">Icons</a>
                 </li>
                 <li>
-                    <a href="<?php echo $host; ?>pages/contact.php">Contact Us</a>
+                    <a href="<?php echo HOST; ?>pages/contact.php">Contact Us</a>
                 </li>
             </ul>
         </div>
@@ -61,8 +61,8 @@
 </div>
 <!-- //footer -->
 <!-- Bootstrap Core JavaScript -->
-<script src="<?php echo $host; ?>partials/js/bootstrap.min.js"></script>
-<script type="text/javascript" src="<?php echo $host; ?>dashboard/includes/plugins/toastr/toastr.min.js"></script>
+<script src="<?php echo HOST; ?>partials/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="<?php echo HOST; ?>dashboard/includes/plugins/toastr/toastr.min.js"></script>
 <?php if (isset($_SESSION['action']) && $_SESSION['action'] == true) { ?>
     <script>
         toastr.options.closeButton = true;

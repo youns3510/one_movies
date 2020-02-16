@@ -29,13 +29,13 @@
                             <div class="card-body box-profile">
                                 <div class="text-center">
                                     <img class="profile-user-img img-fluid img-circle"
-                                         src="<?php echo $host; ?>dashboard/includes/dist/img/user2-160x160.jpg"
+                                         src="<?php echo HOST; ?>dashboard/includes/dist/img/user2-160x160.jpg"
                                          alt="User profile picture">
                                 </div>
 
                                 <h3 class="profile-username text-center">
                                     <?php if (isset($_SESSION['username'])) {
-                                        echo $_SESSION['name'];
+                                        echo $_SESSION['username'];
                                     } ?></h3>
 
                                 <p class="text-muted text-center">Software Engineer</p>

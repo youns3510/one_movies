@@ -8,4 +8,5 @@ solved - there is a bug on display error on upload function try to think about n
 security enter email check then enter password then login 
 images on different sizes
 video preload 
-adding views working on history 
+adding views working on history
+check if email is verirfied or not before signin

@@ -97,326 +97,326 @@
                                 <tbody>
                                 <tr>
                                     <td>1</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n1.jpg" alt=""/> <span>01 Ben-Hur</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n1.jpg" alt=""/> <span>01 Ben-Hur</span></a>
                                     </td>
                                     <td>2013</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/comedy.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/comedy.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
                                 <tr>
                                     <td>2</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n2.jpg" alt=""/> <span>001 Southside with you</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n2.jpg" alt=""/> <span>001 Southside with you</span></a>
                                     </td>
                                     <td>2011</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Korea</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Korea</a>
                                     </td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Drama</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Drama</a>
                                     </td>
                                     <td>7.5</td>
                                 </tr>
                                 <tr>
                                     <td>3</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n11.jpg" alt=""/> <span>12 Bad Moms</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n11.jpg" alt=""/> <span>12 Bad Moms</span></a>
                                     </td>
                                     <td>2010</td>
                                     <td>SD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/comedy.php">Comedy</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/comedy.php">Comedy</a>
                                     </td>
                                     <td>6.5</td>
                                 </tr>
                                 <tr>
                                     <td>4</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n3.jpg" alt=""/> <span>2 Sausage Party</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n3.jpg" alt=""/> <span>2 Sausage Party</span></a>
                                     </td>
                                     <td>2013</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/comedy.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/comedy.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
                                 <tr>
                                     <td>5</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n4.jpg" alt=""/> <span>2.0 Morgan</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n4.jpg" alt=""/> <span>2.0 Morgan</span></a>
                                     </td>
                                     <td>2014</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             States</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Action</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Action</a>
                                     </td>
                                     <td>7.1</td>
                                 </tr>
                                 <tr>
                                     <td>6</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n5.jpg" alt=""/>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n5.jpg" alt=""/>
                                             <span>24</span></a></td>
                                     <td>2016</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">India</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">India</a>
                                     </td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Thriller,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Thriller,
                                             Drama</a></td>
                                     <td>9.0</td>
                                 </tr>
                                 <tr>
                                     <td>7</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n6.jpg" alt=""/> <span>001 The Secret Life of Pets</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n6.jpg" alt=""/> <span>001 The Secret Life of Pets</span></a>
                                     </td>
                                     <td>2012</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Euro,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Euro,
                                             France</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Thriller,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Thriller,
                                             Crime, Drama</a></td>
                                     <td>8.2</td>
                                 </tr>
                                 <tr>
                                     <td>8</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n7.jpg" alt=""/> <span>12 Hell or High Water</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n7.jpg" alt=""/> <span>12 Hell or High Water</span></a>
                                     </td>
                                     <td>2010</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">China</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">China</a>
                                     </td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/comedy.php">Comedy</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/comedy.php">Comedy</a>
                                     </td>
                                     <td>8.9</td>
                                 </tr>
                                 <tr>
                                     <td>9</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n8.jpg" alt=""/> <span>2 Central Intelligence</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n8.jpg" alt=""/> <span>2 Central Intelligence</span></a>
                                     </td>
                                     <td>2010</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/comedy.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/comedy.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
                                 <tr>
                                     <td>10</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n9.jpg" alt=""/> <span>3 The Jungle Book</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n9.jpg" alt=""/> <span>3 The Jungle Book</span></a>
                                     </td>
                                     <td>2014</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Japan</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Japan</a>
                                     </td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Action</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Action</a>
                                     </td>
                                     <td>7.1</td>
                                 </tr>
                                 <tr>
                                     <td>11</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n10.jpg" alt=""/> <span>01 Independence Day</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n10.jpg" alt=""/> <span>01 Independence Day</span></a>
                                     </td>
                                     <td>2013</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/comedy.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/comedy.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
                                 <tr>
                                     <td>12</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n1.jpg" alt=""/> <span>01 Ben-Hur</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n1.jpg" alt=""/> <span>01 Ben-Hur</span></a>
                                     </td>
                                     <td>2013</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/comedy.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/comedy.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
                                 <tr>
                                     <td>13</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n2.jpg" alt=""/> <span>001 Southside with you</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n2.jpg" alt=""/> <span>001 Southside with you</span></a>
                                     </td>
                                     <td>2011</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Korea</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Korea</a>
                                     </td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Drama</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Drama</a>
                                     </td>
                                     <td>7.5</td>
                                 </tr>
                                 <tr>
                                     <td>14</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n11.jpg" alt=""/> <span>12 Bad Moms</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n11.jpg" alt=""/> <span>12 Bad Moms</span></a>
                                     </td>
                                     <td>2010</td>
                                     <td>SD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/comedy.php">Comedy</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/comedy.php">Comedy</a>
                                     </td>
                                     <td>6.5</td>
                                 </tr>
                                 <tr>
                                     <td>15</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n3.jpg" alt=""/> <span>2 Sausage Party</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n3.jpg" alt=""/> <span>2 Sausage Party</span></a>
                                     </td>
                                     <td>2013</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/comedy.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/comedy.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
                                 <tr>
                                     <td>16</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n4.jpg" alt=""/> <span>2.0 Morgan</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n4.jpg" alt=""/> <span>2.0 Morgan</span></a>
                                     </td>
                                     <td>2014</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             States</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/horror.php">Horror</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/horror.php">Horror</a>
                                     </td>
                                     <td>7.1</td>
                                 </tr>
                                 <tr>
                                     <td>17</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n5.jpg" alt=""/>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n5.jpg" alt=""/>
                                             <span>24</span></a></td>
                                     <td>2016</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">India</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">India</a>
                                     </td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Thriller,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Thriller,
                                             Drama</a></td>
                                     <td>9.0</td>
                                 </tr>
                                 <tr>
                                     <td>18</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n6.jpg" alt=""/> <span>001 The Secret Life of Pets</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n6.jpg" alt=""/> <span>001 The Secret Life of Pets</span></a>
                                     </td>
                                     <td>2012</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Euro,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Euro,
                                             France</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Thriller,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Thriller,
                                             Crime, Drama</a></td>
                                     <td>8.2</td>
                                 </tr>
                                 <tr>
                                     <td>19</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n7.jpg" alt=""/> <span>12 Hell or High Water</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n7.jpg" alt=""/> <span>12 Hell or High Water</span></a>
                                     </td>
                                     <td>2010</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">China</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">China</a>
                                     </td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/comedy.php">Comedy</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/comedy.php">Comedy</a>
                                     </td>
                                     <td>8.9</td>
                                 </tr>
                                 <tr>
                                     <td>20</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n8.jpg" alt=""/> <span>2 Central Intelligence</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n8.jpg" alt=""/> <span>2 Central Intelligence</span></a>
                                     </td>
                                     <td>2010</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/comedy.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/comedy.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
                                 <tr>
                                     <td>21</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n9.jpg" alt=""/> <span>3 The Jungle Book</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n9.jpg" alt=""/> <span>3 The Jungle Book</span></a>
                                     </td>
                                     <td>2014</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Japan</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Japan</a>
                                     </td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Action</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Action</a>
                                     </td>
                                     <td>7.1</td>
                                 </tr>
                                 <tr>
                                     <td>22</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n10.jpg" alt=""/> <span>01 Independence Day</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n10.jpg" alt=""/> <span>01 Independence Day</span></a>
                                     </td>
                                     <td>2013</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/comedy.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/comedy.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
                                 <tr>
                                     <td>23</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n1.jpg" alt=""/> <span>01 Ben-Hur</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n1.jpg" alt=""/> <span>01 Ben-Hur</span></a>
                                     </td>
                                     <td>2013</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/comedy.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/comedy.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
                                 <tr>
                                     <td>24</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n2.jpg" alt=""/> <span>001 Southside with you</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n2.jpg" alt=""/> <span>001 Southside with you</span></a>
                                     </td>
                                     <td>2011</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Korea</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Korea</a>
                                     </td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Drama</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Drama</a>
                                     </td>
                                     <td>7.5</td>
                                 </tr>
                                 <tr>
                                     <td>25</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n11.jpg" alt=""/> <span>12 Bad Moms</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n11.jpg" alt=""/> <span>12 Bad Moms</span></a>
                                     </td>
                                     <td>2010</td>
                                     <td>SD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/comedy.php">Comedy</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/comedy.php">Comedy</a>
                                     </td>
                                     <td>6.5</td>
                                 </tr>
@@ -444,222 +444,222 @@
                                 <tbody>
                                 <tr>
                                     <td>1</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n3.jpg" alt=""/> <span>2 Sausage Party</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n3.jpg" alt=""/> <span>2 Sausage Party</span></a>
                                     </td>
                                     <td>2013</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
                                 <tr>
                                     <td>2</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n4.jpg" alt=""/> <span>2.0 Morgan</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n4.jpg" alt=""/> <span>2.0 Morgan</span></a>
                                     </td>
                                     <td>2014</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             States</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Action</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Action</a>
                                     </td>
                                     <td>7.1</td>
                                 </tr>
                                 <tr>
                                     <td>3</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n5.jpg" alt=""/>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n5.jpg" alt=""/>
                                             <span>24</span></a></td>
                                     <td>2016</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">India</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">India</a>
                                     </td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Thriller,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Thriller,
                                             Drama</a></td>
                                     <td>9.0</td>
                                 </tr>
                                 <tr>
                                     <td>4</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n6.jpg" alt=""/> <span>001 The Secret Life of Pets</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n6.jpg" alt=""/> <span>001 The Secret Life of Pets</span></a>
                                     </td>
                                     <td>2012</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Euro,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Euro,
                                             France</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Thriller,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Thriller,
                                             Crime, Drama</a></td>
                                     <td>8.2</td>
                                 </tr>
                                 <tr>
                                     <td>5</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n7.jpg" alt=""/> <span>12 Hell or High Water</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n7.jpg" alt=""/> <span>12 Hell or High Water</span></a>
                                     </td>
                                     <td>2010</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">China</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">China</a>
                                     </td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy</a>
                                     </td>
                                     <td>8.9</td>
                                 </tr>
                                 <tr>
                                     <td>6</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n8.jpg" alt=""/> <span>2 Central Intelligence</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n8.jpg" alt=""/> <span>2 Central Intelligence</span></a>
                                     </td>
                                     <td>2010</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
                                 <tr>
                                     <td>7</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n9.jpg" alt=""/> <span>3 The Jungle Book</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n9.jpg" alt=""/> <span>3 The Jungle Book</span></a>
                                     </td>
                                     <td>2014</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Japan</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Japan</a>
                                     </td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Action</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Action</a>
                                     </td>
                                     <td>7.1</td>
                                 </tr>
                                 <tr>
                                     <td>8</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n10.jpg" alt=""/> <span>01 Independence Day</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n10.jpg" alt=""/> <span>01 Independence Day</span></a>
                                     </td>
                                     <td>2013</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
                                 <tr>
                                     <td>9</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n1.jpg" alt=""/> <span>01 Ben-Hur</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n1.jpg" alt=""/> <span>01 Ben-Hur</span></a>
                                     </td>
                                     <td>2013</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
                                 <tr>
                                     <td>10</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n2.jpg" alt=""/> <span>001 Southside with you</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n2.jpg" alt=""/> <span>001 Southside with you</span></a>
                                     </td>
                                     <td>2011</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Korea</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Korea</a>
                                     </td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Drama</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Drama</a>
                                     </td>
                                     <td>7.5</td>
                                 </tr>
                                 <tr>
                                     <td>11</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n11.jpg" alt=""/> <span>12 Bad Moms</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n11.jpg" alt=""/> <span>12 Bad Moms</span></a>
                                     </td>
                                     <td>2010</td>
                                     <td>SD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy</a>
                                     </td>
                                     <td>6.5</td>
                                 </tr>
                                 <tr>
                                     <td>12</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n3.jpg" alt=""/> <span>2 Sausage Party</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n3.jpg" alt=""/> <span>2 Sausage Party</span></a>
                                     </td>
                                     <td>2013</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
                                 <tr>
                                     <td>13</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n4.jpg" alt=""/> <span>2.0 Morgan</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n4.jpg" alt=""/> <span>2.0 Morgan</span></a>
                                     </td>
                                     <td>2014</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             States</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Action</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Action</a>
                                     </td>
                                     <td>7.1</td>
                                 </tr>
                                 <tr>
                                     <td>14</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n5.jpg" alt=""/>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n5.jpg" alt=""/>
                                             <span>24</span></a></td>
                                     <td>2016</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">India</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">India</a>
                                     </td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Thriller,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Thriller,
                                             Drama</a></td>
                                     <td>9.0</td>
                                 </tr>
                                 <tr>
                                     <td>15</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n6.jpg" alt=""/> <span>001 The Secret Life of Pets</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n6.jpg" alt=""/> <span>001 The Secret Life of Pets</span></a>
                                     </td>
                                     <td>2012</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Euro,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Euro,
                                             France</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Thriller,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Thriller,
                                             Crime, Drama</a></td>
                                     <td>8.2</td>
                                 </tr>
                                 <tr>
                                     <td>16</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n7.jpg" alt=""/> <span>12 Hell or High Water</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n7.jpg" alt=""/> <span>12 Hell or High Water</span></a>
                                     </td>
                                     <td>2010</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">China</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">China</a>
                                     </td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy</a>
                                     </td>
                                     <td>8.9</td>
                                 </tr>
                                 <tr>
                                     <td>17</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n8.jpg" alt=""/> <span>2 Central Intelligence</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n8.jpg" alt=""/> <span>2 Central Intelligence</span></a>
                                     </td>
                                     <td>2010</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
@@ -687,157 +687,157 @@
                                 <tbody>
                                 <tr>
                                     <td>1</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n1.jpg" alt=""/> <span>01 Ben-Hur</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n1.jpg" alt=""/> <span>01 Ben-Hur</span></a>
                                     </td>
                                     <td>2013</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
                                 <tr>
                                     <td>2</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n2.jpg" alt=""/> <span>001 Southside with you</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n2.jpg" alt=""/> <span>001 Southside with you</span></a>
                                     </td>
                                     <td>2011</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Korea</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Korea</a>
                                     </td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Drama</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Drama</a>
                                     </td>
                                     <td>7.5</td>
                                 </tr>
                                 <tr>
                                     <td>3</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n11.jpg" alt=""/> <span>12 Bad Moms</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n11.jpg" alt=""/> <span>12 Bad Moms</span></a>
                                     </td>
                                     <td>2010</td>
                                     <td>SD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy</a>
                                     </td>
                                     <td>6.5</td>
                                 </tr>
                                 <tr>
                                     <td>4</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n3.jpg" alt=""/> <span>2 Sausage Party</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n3.jpg" alt=""/> <span>2 Sausage Party</span></a>
                                     </td>
                                     <td>2013</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
                                 <tr>
                                     <td>5</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n4.jpg" alt=""/> <span>2.0 Morgan</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n4.jpg" alt=""/> <span>2.0 Morgan</span></a>
                                     </td>
                                     <td>2014</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             States</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Action</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Action</a>
                                     </td>
                                     <td>7.1</td>
                                 </tr>
                                 <tr>
                                     <td>6</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n5.jpg" alt=""/>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n5.jpg" alt=""/>
                                             <span>24</span></a></td>
                                     <td>2016</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">India</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">India</a>
                                     </td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Thriller,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Thriller,
                                             Drama</a></td>
                                     <td>9.0</td>
                                 </tr>
                                 <tr>
                                     <td>7</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n6.jpg" alt=""/> <span>001 The Secret Life of Pets</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n6.jpg" alt=""/> <span>001 The Secret Life of Pets</span></a>
                                     </td>
                                     <td>2012</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Euro,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Euro,
                                             France</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Thriller,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Thriller,
                                             Crime, Drama</a></td>
                                     <td>8.2</td>
                                 </tr>
                                 <tr>
                                     <td>8</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n7.jpg" alt=""/> <span>12 Hell or High Water</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n7.jpg" alt=""/> <span>12 Hell or High Water</span></a>
                                     </td>
                                     <td>2010</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">China</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">China</a>
                                     </td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy</a>
                                     </td>
                                     <td>8.9</td>
                                 </tr>
                                 <tr>
                                     <td>9</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n8.jpg" alt=""/> <span>2 Central Intelligence</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n8.jpg" alt=""/> <span>2 Central Intelligence</span></a>
                                     </td>
                                     <td>2010</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
                                 <tr>
                                     <td>10</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n9.jpg" alt=""/> <span>3 The Jungle Book</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n9.jpg" alt=""/> <span>3 The Jungle Book</span></a>
                                     </td>
                                     <td>2014</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Japan</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Japan</a>
                                     </td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Action</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Action</a>
                                     </td>
                                     <td>7.1</td>
                                 </tr>
                                 <tr>
                                     <td>11</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n10.jpg" alt=""/> <span>01 Independence Day</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n10.jpg" alt=""/> <span>01 Independence Day</span></a>
                                     </td>
                                     <td>2013</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
                                 <tr>
                                     <td>12</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n1.jpg" alt=""/> <span>01 Ben-Hur</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n1.jpg" alt=""/> <span>01 Ben-Hur</span></a>
                                     </td>
                                     <td>2013</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
@@ -865,196 +865,196 @@
                                 <tbody>
                                 <tr>
                                     <td>1</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n10.jpg" alt=""/> <span>01 Independence Day</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n10.jpg" alt=""/> <span>01 Independence Day</span></a>
                                     </td>
                                     <td>2013</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
                                 <tr>
                                     <td>2</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n1.jpg" alt=""/> <span>01 Ben-Hur</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n1.jpg" alt=""/> <span>01 Ben-Hur</span></a>
                                     </td>
                                     <td>2013</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
                                 <tr>
                                     <td>3</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n2.jpg" alt=""/> <span>001 Southside with you</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n2.jpg" alt=""/> <span>001 Southside with you</span></a>
                                     </td>
                                     <td>2011</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Korea</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Korea</a>
                                     </td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Drama</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Drama</a>
                                     </td>
                                     <td>7.5</td>
                                 </tr>
                                 <tr>
                                     <td>4</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n11.jpg" alt=""/> <span>12 Bad Moms</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n11.jpg" alt=""/> <span>12 Bad Moms</span></a>
                                     </td>
                                     <td>2010</td>
                                     <td>SD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy</a>
                                     </td>
                                     <td>6.5</td>
                                 </tr>
                                 <tr>
                                     <td>5</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n3.jpg" alt=""/> <span>2 Sausage Party</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n3.jpg" alt=""/> <span>2 Sausage Party</span></a>
                                     </td>
                                     <td>2013</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
                                 <tr>
                                     <td>6</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n4.jpg" alt=""/> <span>2.0 Morgan</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n4.jpg" alt=""/> <span>2.0 Morgan</span></a>
                                     </td>
                                     <td>2014</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             States</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Action</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Action</a>
                                     </td>
                                     <td>7.1</td>
                                 </tr>
                                 <tr>
                                     <td>7</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n5.jpg" alt=""/>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n5.jpg" alt=""/>
                                             <span>24</span></a></td>
                                     <td>2016</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">India</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">India</a>
                                     </td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Thriller,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Thriller,
                                             Drama</a></td>
                                     <td>9.0</td>
                                 </tr>
                                 <tr>
                                     <td>8</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n6.jpg" alt=""/> <span>001 The Secret Life of Pets</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n6.jpg" alt=""/> <span>001 The Secret Life of Pets</span></a>
                                     </td>
                                     <td>2012</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Euro,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Euro,
                                             France</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Thriller,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Thriller,
                                             Crime, Drama</a></td>
                                     <td>8.2</td>
                                 </tr>
                                 <tr>
                                     <td>9</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n7.jpg" alt=""/> <span>12 Hell or High Water</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n7.jpg" alt=""/> <span>12 Hell or High Water</span></a>
                                     </td>
                                     <td>2010</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">China</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">China</a>
                                     </td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy</a>
                                     </td>
                                     <td>8.9</td>
                                 </tr>
                                 <tr>
                                     <td>10</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n8.jpg" alt=""/> <span>2 Central Intelligence</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n8.jpg" alt=""/> <span>2 Central Intelligence</span></a>
                                     </td>
                                     <td>2010</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
                                 <tr>
                                     <td>11</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n9.jpg" alt=""/> <span>3 The Jungle Book</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n9.jpg" alt=""/> <span>3 The Jungle Book</span></a>
                                     </td>
                                     <td>2014</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Japan</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Japan</a>
                                     </td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Action</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Action</a>
                                     </td>
                                     <td>7.1</td>
                                 </tr>
                                 <tr>
                                     <td>12</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n10.jpg" alt=""/> <span>01 Independence Day</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n10.jpg" alt=""/> <span>01 Independence Day</span></a>
                                     </td>
                                     <td>2013</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
                                 <tr>
                                     <td>13</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n1.jpg" alt=""/> <span>01 Ben-Hur</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n1.jpg" alt=""/> <span>01 Ben-Hur</span></a>
                                     </td>
                                     <td>2013</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
                                 <tr>
                                     <td>14</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n2.jpg" alt=""/> <span>001 Southside with you</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n2.jpg" alt=""/> <span>001 Southside with you</span></a>
                                     </td>
                                     <td>2011</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Korea</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Korea</a>
                                     </td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Drama</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Drama</a>
                                     </td>
                                     <td>7.5</td>
                                 </tr>
                                 <tr>
                                     <td>15</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n11.jpg" alt=""/> <span>12 Bad Moms</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n11.jpg" alt=""/> <span>12 Bad Moms</span></a>
                                     </td>
                                     <td>2010</td>
                                     <td>SD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy</a>
                                     </td>
                                     <td>6.5</td>
                                 </tr>
@@ -1082,209 +1082,209 @@
                                 <tbody>
                                 <tr>
                                     <td>1</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n11.jpg" alt=""/> <span>12 Bad Moms</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n11.jpg" alt=""/> <span>12 Bad Moms</span></a>
                                     </td>
                                     <td>2010</td>
                                     <td>SD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy</a>
                                     </td>
                                     <td>6.5</td>
                                 </tr>
                                 <tr>
                                     <td>2</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n3.jpg" alt=""/> <span>2 Sausage Party</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n3.jpg" alt=""/> <span>2 Sausage Party</span></a>
                                     </td>
                                     <td>2013</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
                                 <tr>
                                     <td>3</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n4.jpg" alt=""/> <span>2.0 Morgan</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n4.jpg" alt=""/> <span>2.0 Morgan</span></a>
                                     </td>
                                     <td>2014</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             States</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Action</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Action</a>
                                     </td>
                                     <td>7.1</td>
                                 </tr>
                                 <tr>
                                     <td>4</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n5.jpg" alt=""/>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n5.jpg" alt=""/>
                                             <span>24</span></a></td>
                                     <td>2016</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">India</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">India</a>
                                     </td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Thriller,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Thriller,
                                             Drama</a></td>
                                     <td>9.0</td>
                                 </tr>
                                 <tr>
                                     <td>5</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n6.jpg" alt=""/> <span>001 The Secret Life of Pets</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n6.jpg" alt=""/> <span>001 The Secret Life of Pets</span></a>
                                     </td>
                                     <td>2012</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Euro,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Euro,
                                             France</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Thriller,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Thriller,
                                             Crime, Drama</a></td>
                                     <td>8.2</td>
                                 </tr>
                                 <tr>
                                     <td>6</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n7.jpg" alt=""/> <span>12 Hell or High Water</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n7.jpg" alt=""/> <span>12 Hell or High Water</span></a>
                                     </td>
                                     <td>2010</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">China</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">China</a>
                                     </td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy</a>
                                     </td>
                                     <td>8.9</td>
                                 </tr>
                                 <tr>
                                     <td>7</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n8.jpg" alt=""/> <span>2 Central Intelligence</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n8.jpg" alt=""/> <span>2 Central Intelligence</span></a>
                                     </td>
                                     <td>2010</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
                                 <tr>
                                     <td>8</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n9.jpg" alt=""/> <span>3 The Jungle Book</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n9.jpg" alt=""/> <span>3 The Jungle Book</span></a>
                                     </td>
                                     <td>2014</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Japan</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Japan</a>
                                     </td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Action</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Action</a>
                                     </td>
                                     <td>7.1</td>
                                 </tr>
                                 <tr>
                                     <td>9</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n10.jpg" alt=""/> <span>01 Independence Day</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n10.jpg" alt=""/> <span>01 Independence Day</span></a>
                                     </td>
                                     <td>2013</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
                                 <tr>
                                     <td>10</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n1.jpg" alt=""/> <span>01 Ben-Hur</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n1.jpg" alt=""/> <span>01 Ben-Hur</span></a>
                                     </td>
                                     <td>2013</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
                                 <tr>
                                     <td>11</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n2.jpg" alt=""/> <span>001 Southside with you</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n2.jpg" alt=""/> <span>001 Southside with you</span></a>
                                     </td>
                                     <td>2011</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Korea</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Korea</a>
                                     </td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Drama</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Drama</a>
                                     </td>
                                     <td>7.5</td>
                                 </tr>
                                 <tr>
                                     <td>12</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n11.jpg" alt=""/> <span>12 Bad Moms</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n11.jpg" alt=""/> <span>12 Bad Moms</span></a>
                                     </td>
                                     <td>2010</td>
                                     <td>SD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy</a>
                                     </td>
                                     <td>6.5</td>
                                 </tr>
                                 <tr>
                                     <td>13</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n3.jpg" alt=""/> <span>2 Sausage Party</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n3.jpg" alt=""/> <span>2 Sausage Party</span></a>
                                     </td>
                                     <td>2013</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
                                 <tr>
                                     <td>14</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n4.jpg" alt=""/> <span>2.0 Morgan</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n4.jpg" alt=""/> <span>2.0 Morgan</span></a>
                                     </td>
                                     <td>2014</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             States</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Action</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Action</a>
                                     </td>
                                     <td>7.1</td>
                                 </tr>
                                 <tr>
                                     <td>15</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n5.jpg" alt=""/>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n5.jpg" alt=""/>
                                             <span>24</span></a></td>
                                     <td>2016</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">India</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">India</a>
                                     </td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Thriller,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Thriller,
                                             Drama</a></td>
                                     <td>9.0</td>
                                 </tr>
                                 <tr>
                                     <td>16</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n6.jpg" alt=""/> <span>001 The Secret Life of Pets</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n6.jpg" alt=""/> <span>001 The Secret Life of Pets</span></a>
                                     </td>
                                     <td>2012</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Euro,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Euro,
                                             France</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Thriller,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Thriller,
                                             Crime, Drama</a></td>
                                     <td>8.2</td>
                                 </tr>
@@ -1312,118 +1312,118 @@
                                 <tbody>
                                 <tr>
                                     <td>1</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n1.jpg" alt=""/> <span>01 Ben-Hur</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n1.jpg" alt=""/> <span>01 Ben-Hur</span></a>
                                     </td>
                                     <td>2013</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
                                 <tr>
                                     <td>2</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n2.jpg" alt=""/> <span>001 Southside with you</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n2.jpg" alt=""/> <span>001 Southside with you</span></a>
                                     </td>
                                     <td>2011</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Korea</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Korea</a>
                                     </td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Drama</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Drama</a>
                                     </td>
                                     <td>7.5</td>
                                 </tr>
                                 <tr>
                                     <td>3</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n11.jpg" alt=""/> <span>12 Bad Moms</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n11.jpg" alt=""/> <span>12 Bad Moms</span></a>
                                     </td>
                                     <td>2010</td>
                                     <td>SD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy</a>
                                     </td>
                                     <td>6.5</td>
                                 </tr>
                                 <tr>
                                     <td>4</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n3.jpg" alt=""/> <span>2 Sausage Party</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n3.jpg" alt=""/> <span>2 Sausage Party</span></a>
                                     </td>
                                     <td>2013</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
                                 <tr>
                                     <td>5</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n4.jpg" alt=""/> <span>2.0 Morgan</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n4.jpg" alt=""/> <span>2.0 Morgan</span></a>
                                     </td>
                                     <td>2014</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             States</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Action</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Action</a>
                                     </td>
                                     <td>7.1</td>
                                 </tr>
                                 <tr>
                                     <td>6</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n5.jpg" alt=""/>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n5.jpg" alt=""/>
                                             <span>24</span></a></td>
                                     <td>2016</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">India</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">India</a>
                                     </td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Thriller,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Thriller,
                                             Drama</a></td>
                                     <td>9.0</td>
                                 </tr>
                                 <tr>
                                     <td>7</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n6.jpg" alt=""/> <span>001 The Secret Life of Pets</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n6.jpg" alt=""/> <span>001 The Secret Life of Pets</span></a>
                                     </td>
                                     <td>2012</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Euro,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Euro,
                                             France</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Thriller,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Thriller,
                                             Crime, Drama</a></td>
                                     <td>8.2</td>
                                 </tr>
                                 <tr>
                                     <td>8</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n7.jpg" alt=""/> <span>12 Hell or High Water</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n7.jpg" alt=""/> <span>12 Hell or High Water</span></a>
                                     </td>
                                     <td>2010</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">China</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">China</a>
                                     </td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy</a>
                                     </td>
                                     <td>8.9</td>
                                 </tr>
                                 <tr>
                                     <td>9</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n8.jpg" alt=""/> <span>2 Central Intelligence</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n8.jpg" alt=""/> <span>2 Central Intelligence</span></a>
                                     </td>
                                     <td>2010</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
@@ -1450,183 +1450,183 @@
                                 <tbody>
                                 <tr>
                                     <td>1</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n6.jpg" alt=""/> <span>001 The Secret Life of Pets</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n6.jpg" alt=""/> <span>001 The Secret Life of Pets</span></a>
                                     </td>
                                     <td>2012</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Euro,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Euro,
                                             France</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Thriller,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Thriller,
                                             Crime, Drama</a></td>
                                     <td>8.2</td>
                                 </tr>
                                 <tr>
                                     <td>2</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n7.jpg" alt=""/> <span>12 Hell or High Water</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n7.jpg" alt=""/> <span>12 Hell or High Water</span></a>
                                     </td>
                                     <td>2010</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">China</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">China</a>
                                     </td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy</a>
                                     </td>
                                     <td>8.9</td>
                                 </tr>
                                 <tr>
                                     <td>3</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n8.jpg" alt=""/> <span>2 Central Intelligence</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n8.jpg" alt=""/> <span>2 Central Intelligence</span></a>
                                     </td>
                                     <td>2010</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
                                 <tr>
                                     <td>4</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n9.jpg" alt=""/> <span>3 The Jungle Book</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n9.jpg" alt=""/> <span>3 The Jungle Book</span></a>
                                     </td>
                                     <td>2014</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Japan</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Japan</a>
                                     </td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Action</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Action</a>
                                     </td>
                                     <td>7.1</td>
                                 </tr>
                                 <tr>
                                     <td>5</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n10.jpg" alt=""/> <span>01 Independence Day</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n10.jpg" alt=""/> <span>01 Independence Day</span></a>
                                     </td>
                                     <td>2013</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
                                 <tr>
                                     <td>6</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n1.jpg" alt=""/> <span>01 Ben-Hur</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n1.jpg" alt=""/> <span>01 Ben-Hur</span></a>
                                     </td>
                                     <td>2013</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
                                 <tr>
                                     <td>7</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n2.jpg" alt=""/> <span>001 Southside with you</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n2.jpg" alt=""/> <span>001 Southside with you</span></a>
                                     </td>
                                     <td>2011</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Korea</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Korea</a>
                                     </td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Drama</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Drama</a>
                                     </td>
                                     <td>7.5</td>
                                 </tr>
                                 <tr>
                                     <td>8</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n11.jpg" alt=""/> <span>12 Bad Moms</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n11.jpg" alt=""/> <span>12 Bad Moms</span></a>
                                     </td>
                                     <td>2010</td>
                                     <td>SD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy</a>
                                     </td>
                                     <td>6.5</td>
                                 </tr>
                                 <tr>
                                     <td>9</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n3.jpg" alt=""/> <span>2 Sausage Party</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n3.jpg" alt=""/> <span>2 Sausage Party</span></a>
                                     </td>
                                     <td>2013</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
                                 <tr>
                                     <td>10</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n4.jpg" alt=""/> <span>2.0 Morgan</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n4.jpg" alt=""/> <span>2.0 Morgan</span></a>
                                     </td>
                                     <td>2014</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             States</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Action</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Action</a>
                                     </td>
                                     <td>7.1</td>
                                 </tr>
                                 <tr>
                                     <td>11</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n5.jpg" alt=""/>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n5.jpg" alt=""/>
                                             <span>24</span></a></td>
                                     <td>2016</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">India</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">India</a>
                                     </td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Thriller,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Thriller,
                                             Drama</a></td>
                                     <td>9.0</td>
                                 </tr>
                                 <tr>
                                     <td>12</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n10.jpg" alt=""/> <span>01 Independence Day</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n10.jpg" alt=""/> <span>01 Independence Day</span></a>
                                     </td>
                                     <td>2013</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
                                 <tr>
                                     <td>13</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n6.jpg" alt=""/> <span>001 The Secret Life of Pets</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n6.jpg" alt=""/> <span>001 The Secret Life of Pets</span></a>
                                     </td>
                                     <td>2012</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Euro,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Euro,
                                             France</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Thriller,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Thriller,
                                             Crime, Drama</a></td>
                                     <td>8.2</td>
                                 </tr>
                                 <tr>
                                     <td>14</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n7.jpg" alt=""/> <span>12 Hell or High Water</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n7.jpg" alt=""/> <span>12 Hell or High Water</span></a>
                                     </td>
                                     <td>2010</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">China</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">China</a>
                                     </td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy</a>
                                     </td>
                                     <td>8.9</td>
                                 </tr>
@@ -1653,326 +1653,326 @@
                                 <tbody>
                                 <tr>
                                     <td>1</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n1.jpg" alt=""/> <span>01 Ben-Hur</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n1.jpg" alt=""/> <span>01 Ben-Hur</span></a>
                                     </td>
                                     <td>2013</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
                                 <tr>
                                     <td>2</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n2.jpg" alt=""/> <span>001 Southside with you</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n2.jpg" alt=""/> <span>001 Southside with you</span></a>
                                     </td>
                                     <td>2011</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Korea</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Korea</a>
                                     </td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Drama</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Drama</a>
                                     </td>
                                     <td>7.5</td>
                                 </tr>
                                 <tr>
                                     <td>3</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n11.jpg" alt=""/> <span>12 Bad Moms</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n11.jpg" alt=""/> <span>12 Bad Moms</span></a>
                                     </td>
                                     <td>2010</td>
                                     <td>SD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy</a>
                                     </td>
                                     <td>6.5</td>
                                 </tr>
                                 <tr>
                                     <td>4</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n3.jpg" alt=""/> <span>2 Sausage Party</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n3.jpg" alt=""/> <span>2 Sausage Party</span></a>
                                     </td>
                                     <td>2013</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
                                 <tr>
                                     <td>5</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n4.jpg" alt=""/> <span>2.0 Morgan</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n4.jpg" alt=""/> <span>2.0 Morgan</span></a>
                                     </td>
                                     <td>2014</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             States</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Action</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Action</a>
                                     </td>
                                     <td>7.1</td>
                                 </tr>
                                 <tr>
                                     <td>6</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n5.jpg" alt=""/>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n5.jpg" alt=""/>
                                             <span>24</span></a></td>
                                     <td>2016</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">India</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">India</a>
                                     </td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Thriller,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Thriller,
                                             Drama</a></td>
                                     <td>9.0</td>
                                 </tr>
                                 <tr>
                                     <td>7</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n6.jpg" alt=""/> <span>001 The Secret Life of Pets</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n6.jpg" alt=""/> <span>001 The Secret Life of Pets</span></a>
                                     </td>
                                     <td>2012</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Euro,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Euro,
                                             France</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Thriller,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Thriller,
                                             Crime, Drama</a></td>
                                     <td>8.2</td>
                                 </tr>
                                 <tr>
                                     <td>8</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n7.jpg" alt=""/> <span>12 Hell or High Water</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n7.jpg" alt=""/> <span>12 Hell or High Water</span></a>
                                     </td>
                                     <td>2010</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">China</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">China</a>
                                     </td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy</a>
                                     </td>
                                     <td>8.9</td>
                                 </tr>
                                 <tr>
                                     <td>9</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n8.jpg" alt=""/> <span>2 Central Intelligence</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n8.jpg" alt=""/> <span>2 Central Intelligence</span></a>
                                     </td>
                                     <td>2010</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
                                 <tr>
                                     <td>10</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n9.jpg" alt=""/> <span>3 The Jungle Book</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n9.jpg" alt=""/> <span>3 The Jungle Book</span></a>
                                     </td>
                                     <td>2014</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Japan</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Japan</a>
                                     </td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Action</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Action</a>
                                     </td>
                                     <td>7.1</td>
                                 </tr>
                                 <tr>
                                     <td>11</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n10.jpg" alt=""/> <span>01 Independence Day</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n10.jpg" alt=""/> <span>01 Independence Day</span></a>
                                     </td>
                                     <td>2013</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
                                 <tr>
                                     <td>12</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n1.jpg" alt=""/> <span>01 Ben-Hur</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n1.jpg" alt=""/> <span>01 Ben-Hur</span></a>
                                     </td>
                                     <td>2013</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
                                 <tr>
                                     <td>13</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n2.jpg" alt=""/> <span>001 Southside with you</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n2.jpg" alt=""/> <span>001 Southside with you</span></a>
                                     </td>
                                     <td>2011</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Korea</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Korea</a>
                                     </td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Drama</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Drama</a>
                                     </td>
                                     <td>7.5</td>
                                 </tr>
                                 <tr>
                                     <td>14</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n11.jpg" alt=""/> <span>12 Bad Moms</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n11.jpg" alt=""/> <span>12 Bad Moms</span></a>
                                     </td>
                                     <td>2010</td>
                                     <td>SD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy</a>
                                     </td>
                                     <td>6.5</td>
                                 </tr>
                                 <tr>
                                     <td>15</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n3.jpg" alt=""/> <span>2 Sausage Party</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n3.jpg" alt=""/> <span>2 Sausage Party</span></a>
                                     </td>
                                     <td>2013</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
                                 <tr>
                                     <td>16</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n4.jpg" alt=""/> <span>2.0 Morgan</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n4.jpg" alt=""/> <span>2.0 Morgan</span></a>
                                     </td>
                                     <td>2014</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             States</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Action</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Action</a>
                                     </td>
                                     <td>7.1</td>
                                 </tr>
                                 <tr>
                                     <td>17</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n5.jpg" alt=""/>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n5.jpg" alt=""/>
                                             <span>24</span></a></td>
                                     <td>2016</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">India</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">India</a>
                                     </td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Thriller,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Thriller,
                                             Drama</a></td>
                                     <td>9.0</td>
                                 </tr>
                                 <tr>
                                     <td>18</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n6.jpg" alt=""/> <span>001 The Secret Life of Pets</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n6.jpg" alt=""/> <span>001 The Secret Life of Pets</span></a>
                                     </td>
                                     <td>2012</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Euro,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Euro,
                                             France</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Thriller,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Thriller,
                                             Crime, Drama</a></td>
                                     <td>8.2</td>
                                 </tr>
                                 <tr>
                                     <td>19</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n7.jpg" alt=""/> <span>12 Hell or High Water</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n7.jpg" alt=""/> <span>12 Hell or High Water</span></a>
                                     </td>
                                     <td>2010</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">China</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">China</a>
                                     </td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy</a>
                                     </td>
                                     <td>8.9</td>
                                 </tr>
                                 <tr>
                                     <td>20</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n8.jpg" alt=""/> <span>2 Central Intelligence</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n8.jpg" alt=""/> <span>2 Central Intelligence</span></a>
                                     </td>
                                     <td>2010</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
                                 <tr>
                                     <td>21</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n9.jpg" alt=""/> <span>3 The Jungle Book</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n9.jpg" alt=""/> <span>3 The Jungle Book</span></a>
                                     </td>
                                     <td>2014</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Japan</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Japan</a>
                                     </td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Action</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Action</a>
                                     </td>
                                     <td>7.1</td>
                                 </tr>
                                 <tr>
                                     <td>22</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n10.jpg" alt=""/> <span>01 Independence Day</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n10.jpg" alt=""/> <span>01 Independence Day</span></a>
                                     </td>
                                     <td>2013</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
                                 <tr>
                                     <td>23</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n1.jpg" alt=""/> <span>01 Ben-Hur</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n1.jpg" alt=""/> <span>01 Ben-Hur</span></a>
                                     </td>
                                     <td>2013</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
                                 <tr>
                                     <td>24</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n2.jpg" alt=""/> <span>001 Southside with you</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n2.jpg" alt=""/> <span>001 Southside with you</span></a>
                                     </td>
                                     <td>2011</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Korea</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Korea</a>
                                     </td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Drama</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Drama</a>
                                     </td>
                                     <td>7.5</td>
                                 </tr>
                                 <tr>
                                     <td>25</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n11.jpg" alt=""/> <span>12 Bad Moms</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n11.jpg" alt=""/> <span>12 Bad Moms</span></a>
                                     </td>
                                     <td>2010</td>
                                     <td>SD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy</a>
                                     </td>
                                     <td>6.5</td>
                                 </tr>
@@ -2000,222 +2000,222 @@
                                 <tbody>
                                 <tr>
                                     <td>1</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n3.jpg" alt=""/> <span>2 Sausage Party</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n3.jpg" alt=""/> <span>2 Sausage Party</span></a>
                                     </td>
                                     <td>2013</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
                                 <tr>
                                     <td>2</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n4.jpg" alt=""/> <span>2.0 Morgan</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n4.jpg" alt=""/> <span>2.0 Morgan</span></a>
                                     </td>
                                     <td>2014</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             States</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Action</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Action</a>
                                     </td>
                                     <td>7.1</td>
                                 </tr>
                                 <tr>
                                     <td>3</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n5.jpg" alt=""/>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n5.jpg" alt=""/>
                                             <span>24</span></a></td>
                                     <td>2016</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">India</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">India</a>
                                     </td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Thriller,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Thriller,
                                             Drama</a></td>
                                     <td>9.0</td>
                                 </tr>
                                 <tr>
                                     <td>4</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n6.jpg" alt=""/> <span>001 The Secret Life of Pets</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n6.jpg" alt=""/> <span>001 The Secret Life of Pets</span></a>
                                     </td>
                                     <td>2012</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Euro,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Euro,
                                             France</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Thriller,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Thriller,
                                             Crime, Drama</a></td>
                                     <td>8.2</td>
                                 </tr>
                                 <tr>
                                     <td>5</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n7.jpg" alt=""/> <span>12 Hell or High Water</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n7.jpg" alt=""/> <span>12 Hell or High Water</span></a>
                                     </td>
                                     <td>2010</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">China</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">China</a>
                                     </td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy</a>
                                     </td>
                                     <td>8.9</td>
                                 </tr>
                                 <tr>
                                     <td>6</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n8.jpg" alt=""/> <span>2 Central Intelligence</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n8.jpg" alt=""/> <span>2 Central Intelligence</span></a>
                                     </td>
                                     <td>2010</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
                                 <tr>
                                     <td>7</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n9.jpg" alt=""/> <span>3 The Jungle Book</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n9.jpg" alt=""/> <span>3 The Jungle Book</span></a>
                                     </td>
                                     <td>2014</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Japan</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Japan</a>
                                     </td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Action</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Action</a>
                                     </td>
                                     <td>7.1</td>
                                 </tr>
                                 <tr>
                                     <td>8</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n10.jpg" alt=""/> <span>01 Independence Day</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n10.jpg" alt=""/> <span>01 Independence Day</span></a>
                                     </td>
                                     <td>2013</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
                                 <tr>
                                     <td>9</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n1.jpg" alt=""/> <span>01 Ben-Hur</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n1.jpg" alt=""/> <span>01 Ben-Hur</span></a>
                                     </td>
                                     <td>2013</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
                                 <tr>
                                     <td>10</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n2.jpg" alt=""/> <span>001 Southside with you</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n2.jpg" alt=""/> <span>001 Southside with you</span></a>
                                     </td>
                                     <td>2011</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Korea</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Korea</a>
                                     </td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Drama</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Drama</a>
                                     </td>
                                     <td>7.5</td>
                                 </tr>
                                 <tr>
                                     <td>11</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n11.jpg" alt=""/> <span>12 Bad Moms</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n11.jpg" alt=""/> <span>12 Bad Moms</span></a>
                                     </td>
                                     <td>2010</td>
                                     <td>SD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy</a>
                                     </td>
                                     <td>6.5</td>
                                 </tr>
                                 <tr>
                                     <td>12</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n3.jpg" alt=""/> <span>2 Sausage Party</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n3.jpg" alt=""/> <span>2 Sausage Party</span></a>
                                     </td>
                                     <td>2013</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
                                 <tr>
                                     <td>13</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n4.jpg" alt=""/> <span>2.0 Morgan</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n4.jpg" alt=""/> <span>2.0 Morgan</span></a>
                                     </td>
                                     <td>2014</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             States</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Action</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Action</a>
                                     </td>
                                     <td>7.1</td>
                                 </tr>
                                 <tr>
                                     <td>14</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n5.jpg" alt=""/>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n5.jpg" alt=""/>
                                             <span>24</span></a></td>
                                     <td>2016</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">India</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">India</a>
                                     </td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Thriller,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Thriller,
                                             Drama</a></td>
                                     <td>9.0</td>
                                 </tr>
                                 <tr>
                                     <td>15</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n6.jpg" alt=""/> <span>001 The Secret Life of Pets</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n6.jpg" alt=""/> <span>001 The Secret Life of Pets</span></a>
                                     </td>
                                     <td>2012</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Euro,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Euro,
                                             France</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Thriller,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Thriller,
                                             Crime, Drama</a></td>
                                     <td>8.2</td>
                                 </tr>
                                 <tr>
                                     <td>16</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n7.jpg" alt=""/> <span>12 Hell or High Water</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n7.jpg" alt=""/> <span>12 Hell or High Water</span></a>
                                     </td>
                                     <td>2010</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">China</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">China</a>
                                     </td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy</a>
                                     </td>
                                     <td>8.9</td>
                                 </tr>
                                 <tr>
                                     <td>17</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n8.jpg" alt=""/> <span>2 Central Intelligence</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n8.jpg" alt=""/> <span>2 Central Intelligence</span></a>
                                     </td>
                                     <td>2010</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
@@ -2243,157 +2243,157 @@
                                 <tbody>
                                 <tr>
                                     <td>1</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n1.jpg" alt=""/> <span>01 Ben-Hur</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n1.jpg" alt=""/> <span>01 Ben-Hur</span></a>
                                     </td>
                                     <td>2013</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
                                 <tr>
                                     <td>2</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n2.jpg" alt=""/> <span>001 Southside with you</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n2.jpg" alt=""/> <span>001 Southside with you</span></a>
                                     </td>
                                     <td>2011</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Korea</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Korea</a>
                                     </td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Drama</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Drama</a>
                                     </td>
                                     <td>7.5</td>
                                 </tr>
                                 <tr>
                                     <td>3</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n11.jpg" alt=""/> <span>12 Bad Moms</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n11.jpg" alt=""/> <span>12 Bad Moms</span></a>
                                     </td>
                                     <td>2010</td>
                                     <td>SD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy</a>
                                     </td>
                                     <td>6.5</td>
                                 </tr>
                                 <tr>
                                     <td>4</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n3.jpg" alt=""/> <span>2 Sausage Party</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n3.jpg" alt=""/> <span>2 Sausage Party</span></a>
                                     </td>
                                     <td>2013</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
                                 <tr>
                                     <td>5</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n4.jpg" alt=""/> <span>2.0 Morgan</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n4.jpg" alt=""/> <span>2.0 Morgan</span></a>
                                     </td>
                                     <td>2014</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             States</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Action</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Action</a>
                                     </td>
                                     <td>7.1</td>
                                 </tr>
                                 <tr>
                                     <td>6</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n5.jpg" alt=""/>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n5.jpg" alt=""/>
                                             <span>24</span></a></td>
                                     <td>2016</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">India</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">India</a>
                                     </td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Thriller,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Thriller,
                                             Drama</a></td>
                                     <td>9.0</td>
                                 </tr>
                                 <tr>
                                     <td>7</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n6.jpg" alt=""/> <span>001 The Secret Life of Pets</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n6.jpg" alt=""/> <span>001 The Secret Life of Pets</span></a>
                                     </td>
                                     <td>2012</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Euro,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Euro,
                                             France</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Thriller,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Thriller,
                                             Crime, Drama</a></td>
                                     <td>8.2</td>
                                 </tr>
                                 <tr>
                                     <td>8</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n7.jpg" alt=""/> <span>12 Hell or High Water</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n7.jpg" alt=""/> <span>12 Hell or High Water</span></a>
                                     </td>
                                     <td>2010</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">China</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">China</a>
                                     </td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy</a>
                                     </td>
                                     <td>8.9</td>
                                 </tr>
                                 <tr>
                                     <td>9</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n8.jpg" alt=""/> <span>2 Central Intelligence</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n8.jpg" alt=""/> <span>2 Central Intelligence</span></a>
                                     </td>
                                     <td>2010</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
                                 <tr>
                                     <td>10</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n9.jpg" alt=""/> <span>3 The Jungle Book</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n9.jpg" alt=""/> <span>3 The Jungle Book</span></a>
                                     </td>
                                     <td>2014</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Japan</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Japan</a>
                                     </td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Action</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Action</a>
                                     </td>
                                     <td>7.1</td>
                                 </tr>
                                 <tr>
                                     <td>11</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n10.jpg" alt=""/> <span>01 Independence Day</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n10.jpg" alt=""/> <span>01 Independence Day</span></a>
                                     </td>
                                     <td>2013</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
                                 <tr>
                                     <td>12</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n1.jpg" alt=""/> <span>01 Ben-Hur</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n1.jpg" alt=""/> <span>01 Ben-Hur</span></a>
                                     </td>
                                     <td>2013</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
@@ -2421,196 +2421,196 @@
                                 <tbody>
                                 <tr>
                                     <td>1</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n10.jpg" alt=""/> <span>01 Independence Day</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n10.jpg" alt=""/> <span>01 Independence Day</span></a>
                                     </td>
                                     <td>2013</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
                                 <tr>
                                     <td>2</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n1.jpg" alt=""/> <span>01 Ben-Hur</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n1.jpg" alt=""/> <span>01 Ben-Hur</span></a>
                                     </td>
                                     <td>2013</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
                                 <tr>
                                     <td>3</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n2.jpg" alt=""/> <span>001 Southside with you</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n2.jpg" alt=""/> <span>001 Southside with you</span></a>
                                     </td>
                                     <td>2011</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Korea</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Korea</a>
                                     </td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Drama</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Drama</a>
                                     </td>
                                     <td>7.5</td>
                                 </tr>
                                 <tr>
                                     <td>4</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n11.jpg" alt=""/> <span>12 Bad Moms</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n11.jpg" alt=""/> <span>12 Bad Moms</span></a>
                                     </td>
                                     <td>2010</td>
                                     <td>SD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy</a>
                                     </td>
                                     <td>6.5</td>
                                 </tr>
                                 <tr>
                                     <td>5</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n3.jpg" alt=""/> <span>2 Sausage Party</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n3.jpg" alt=""/> <span>2 Sausage Party</span></a>
                                     </td>
                                     <td>2013</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
                                 <tr>
                                     <td>6</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n4.jpg" alt=""/> <span>2.0 Morgan</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n4.jpg" alt=""/> <span>2.0 Morgan</span></a>
                                     </td>
                                     <td>2014</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             States</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Action</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Action</a>
                                     </td>
                                     <td>7.1</td>
                                 </tr>
                                 <tr>
                                     <td>7</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n5.jpg" alt=""/>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n5.jpg" alt=""/>
                                             <span>24</span></a></td>
                                     <td>2016</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">India</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">India</a>
                                     </td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Thriller,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Thriller,
                                             Drama</a></td>
                                     <td>9.0</td>
                                 </tr>
                                 <tr>
                                     <td>8</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n6.jpg" alt=""/> <span>001 The Secret Life of Pets</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n6.jpg" alt=""/> <span>001 The Secret Life of Pets</span></a>
                                     </td>
                                     <td>2012</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Euro,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Euro,
                                             France</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Thriller,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Thriller,
                                             Crime, Drama</a></td>
                                     <td>8.2</td>
                                 </tr>
                                 <tr>
                                     <td>9</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n7.jpg" alt=""/> <span>12 Hell or High Water</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n7.jpg" alt=""/> <span>12 Hell or High Water</span></a>
                                     </td>
                                     <td>2010</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">China</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">China</a>
                                     </td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy</a>
                                     </td>
                                     <td>8.9</td>
                                 </tr>
                                 <tr>
                                     <td>10</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n8.jpg" alt=""/> <span>2 Central Intelligence</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n8.jpg" alt=""/> <span>2 Central Intelligence</span></a>
                                     </td>
                                     <td>2010</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
                                 <tr>
                                     <td>11</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n9.jpg" alt=""/> <span>3 The Jungle Book</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n9.jpg" alt=""/> <span>3 The Jungle Book</span></a>
                                     </td>
                                     <td>2014</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Japan</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Japan</a>
                                     </td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Action</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Action</a>
                                     </td>
                                     <td>7.1</td>
                                 </tr>
                                 <tr>
                                     <td>12</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n10.jpg" alt=""/> <span>01 Independence Day</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n10.jpg" alt=""/> <span>01 Independence Day</span></a>
                                     </td>
                                     <td>2013</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
                                 <tr>
                                     <td>13</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n1.jpg" alt=""/> <span>01 Ben-Hur</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n1.jpg" alt=""/> <span>01 Ben-Hur</span></a>
                                     </td>
                                     <td>2013</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
                                 <tr>
                                     <td>14</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n2.jpg" alt=""/> <span>001 Southside with you</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n2.jpg" alt=""/> <span>001 Southside with you</span></a>
                                     </td>
                                     <td>2011</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Korea</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Korea</a>
                                     </td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Drama</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Drama</a>
                                     </td>
                                     <td>7.5</td>
                                 </tr>
                                 <tr>
                                     <td>15</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n11.jpg" alt=""/> <span>12 Bad Moms</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n11.jpg" alt=""/> <span>12 Bad Moms</span></a>
                                     </td>
                                     <td>2010</td>
                                     <td>SD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy</a>
                                     </td>
                                     <td>6.5</td>
                                 </tr>
@@ -2638,209 +2638,209 @@
                                 <tbody>
                                 <tr>
                                     <td>1</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n11.jpg" alt=""/> <span>12 Bad Moms</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n11.jpg" alt=""/> <span>12 Bad Moms</span></a>
                                     </td>
                                     <td>2010</td>
                                     <td>SD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy</a>
                                     </td>
                                     <td>6.5</td>
                                 </tr>
                                 <tr>
                                     <td>2</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n3.jpg" alt=""/> <span>2 Sausage Party</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n3.jpg" alt=""/> <span>2 Sausage Party</span></a>
                                     </td>
                                     <td>2013</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
                                 <tr>
                                     <td>3</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n4.jpg" alt=""/> <span>2.0 Morgan</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n4.jpg" alt=""/> <span>2.0 Morgan</span></a>
                                     </td>
                                     <td>2014</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             States</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Action</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Action</a>
                                     </td>
                                     <td>7.1</td>
                                 </tr>
                                 <tr>
                                     <td>4</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n5.jpg" alt=""/>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n5.jpg" alt=""/>
                                             <span>24</span></a></td>
                                     <td>2016</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">India</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">India</a>
                                     </td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Thriller,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Thriller,
                                             Drama</a></td>
                                     <td>9.0</td>
                                 </tr>
                                 <tr>
                                     <td>5</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n6.jpg" alt=""/> <span>001 The Secret Life of Pets</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n6.jpg" alt=""/> <span>001 The Secret Life of Pets</span></a>
                                     </td>
                                     <td>2012</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Euro,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Euro,
                                             France</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Thriller,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Thriller,
                                             Crime, Drama</a></td>
                                     <td>8.2</td>
                                 </tr>
                                 <tr>
                                     <td>6</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n7.jpg" alt=""/> <span>12 Hell or High Water</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n7.jpg" alt=""/> <span>12 Hell or High Water</span></a>
                                     </td>
                                     <td>2010</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">China</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">China</a>
                                     </td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy</a>
                                     </td>
                                     <td>8.9</td>
                                 </tr>
                                 <tr>
                                     <td>7</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n8.jpg" alt=""/> <span>2 Central Intelligence</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n8.jpg" alt=""/> <span>2 Central Intelligence</span></a>
                                     </td>
                                     <td>2010</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
                                 <tr>
                                     <td>8</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n9.jpg" alt=""/> <span>3 The Jungle Book</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n9.jpg" alt=""/> <span>3 The Jungle Book</span></a>
                                     </td>
                                     <td>2014</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Japan</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Japan</a>
                                     </td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Action</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Action</a>
                                     </td>
                                     <td>7.1</td>
                                 </tr>
                                 <tr>
                                     <td>9</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n10.jpg" alt=""/> <span>01 Independence Day</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n10.jpg" alt=""/> <span>01 Independence Day</span></a>
                                     </td>
                                     <td>2013</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
                                 <tr>
                                     <td>10</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n1.jpg" alt=""/> <span>01 Ben-Hur</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n1.jpg" alt=""/> <span>01 Ben-Hur</span></a>
                                     </td>
                                     <td>2013</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
                                 <tr>
                                     <td>11</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n2.jpg" alt=""/> <span>001 Southside with you</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n2.jpg" alt=""/> <span>001 Southside with you</span></a>
                                     </td>
                                     <td>2011</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Korea</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Korea</a>
                                     </td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Drama</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Drama</a>
                                     </td>
                                     <td>7.5</td>
                                 </tr>
                                 <tr>
                                     <td>12</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n11.jpg" alt=""/> <span>12 Bad Moms</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n11.jpg" alt=""/> <span>12 Bad Moms</span></a>
                                     </td>
                                     <td>2010</td>
                                     <td>SD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy</a>
                                     </td>
                                     <td>6.5</td>
                                 </tr>
                                 <tr>
                                     <td>13</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n3.jpg" alt=""/> <span>2 Sausage Party</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n3.jpg" alt=""/> <span>2 Sausage Party</span></a>
                                     </td>
                                     <td>2013</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
                                 <tr>
                                     <td>14</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n4.jpg" alt=""/> <span>2.0 Morgan</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n4.jpg" alt=""/> <span>2.0 Morgan</span></a>
                                     </td>
                                     <td>2014</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             States</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Action</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Action</a>
                                     </td>
                                     <td>7.1</td>
                                 </tr>
                                 <tr>
                                     <td>15</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n5.jpg" alt=""/>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n5.jpg" alt=""/>
                                             <span>24</span></a></td>
                                     <td>2016</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">India</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">India</a>
                                     </td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Thriller,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Thriller,
                                             Drama</a></td>
                                     <td>9.0</td>
                                 </tr>
                                 <tr>
                                     <td>16</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n6.jpg" alt=""/> <span>001 The Secret Life of Pets</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n6.jpg" alt=""/> <span>001 The Secret Life of Pets</span></a>
                                     </td>
                                     <td>2012</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Euro,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Euro,
                                             France</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Thriller,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Thriller,
                                             Crime, Drama</a></td>
                                     <td>8.2</td>
                                 </tr>
@@ -2868,183 +2868,183 @@
                                 <tbody>
                                 <tr>
                                     <td>1</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n6.jpg" alt=""/> <span>001 The Secret Life of Pets</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n6.jpg" alt=""/> <span>001 The Secret Life of Pets</span></a>
                                     </td>
                                     <td>2012</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Euro,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Euro,
                                             France</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Thriller,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Thriller,
                                             Crime, Drama</a></td>
                                     <td>8.2</td>
                                 </tr>
                                 <tr>
                                     <td>2</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n7.jpg" alt=""/> <span>12 Hell or High Water</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n7.jpg" alt=""/> <span>12 Hell or High Water</span></a>
                                     </td>
                                     <td>2010</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">China</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">China</a>
                                     </td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy</a>
                                     </td>
                                     <td>8.9</td>
                                 </tr>
                                 <tr>
                                     <td>3</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n8.jpg" alt=""/> <span>2 Central Intelligence</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n8.jpg" alt=""/> <span>2 Central Intelligence</span></a>
                                     </td>
                                     <td>2010</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
                                 <tr>
                                     <td>4</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n9.jpg" alt=""/> <span>3 The Jungle Book</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n9.jpg" alt=""/> <span>3 The Jungle Book</span></a>
                                     </td>
                                     <td>2014</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Japan</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Japan</a>
                                     </td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Action</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Action</a>
                                     </td>
                                     <td>7.1</td>
                                 </tr>
                                 <tr>
                                     <td>5</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n10.jpg" alt=""/> <span>01 Independence Day</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n10.jpg" alt=""/> <span>01 Independence Day</span></a>
                                     </td>
                                     <td>2013</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
                                 <tr>
                                     <td>6</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n1.jpg" alt=""/> <span>01 Ben-Hur</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n1.jpg" alt=""/> <span>01 Ben-Hur</span></a>
                                     </td>
                                     <td>2013</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
                                 <tr>
                                     <td>7</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n2.jpg" alt=""/> <span>001 Southside with you</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n2.jpg" alt=""/> <span>001 Southside with you</span></a>
                                     </td>
                                     <td>2011</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Korea</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Korea</a>
                                     </td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Drama</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Drama</a>
                                     </td>
                                     <td>7.5</td>
                                 </tr>
                                 <tr>
                                     <td>8</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n11.jpg" alt=""/> <span>12 Bad Moms</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n11.jpg" alt=""/> <span>12 Bad Moms</span></a>
                                     </td>
                                     <td>2010</td>
                                     <td>SD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy</a>
                                     </td>
                                     <td>6.5</td>
                                 </tr>
                                 <tr>
                                     <td>9</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n3.jpg" alt=""/> <span>2 Sausage Party</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n3.jpg" alt=""/> <span>2 Sausage Party</span></a>
                                     </td>
                                     <td>2013</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
                                 <tr>
                                     <td>10</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n4.jpg" alt=""/> <span>2.0 Morgan</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n4.jpg" alt=""/> <span>2.0 Morgan</span></a>
                                     </td>
                                     <td>2014</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             States</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Action</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Action</a>
                                     </td>
                                     <td>7.1</td>
                                 </tr>
                                 <tr>
                                     <td>11</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n5.jpg" alt=""/>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n5.jpg" alt=""/>
                                             <span>24</span></a></td>
                                     <td>2016</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">India</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">India</a>
                                     </td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Thriller,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Thriller,
                                             Drama</a></td>
                                     <td>9.0</td>
                                 </tr>
                                 <tr>
                                     <td>12</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n10.jpg" alt=""/> <span>01 Independence Day</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n10.jpg" alt=""/> <span>01 Independence Day</span></a>
                                     </td>
                                     <td>2013</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
                                 <tr>
                                     <td>13</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n6.jpg" alt=""/> <span>001 The Secret Life of Pets</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n6.jpg" alt=""/> <span>001 The Secret Life of Pets</span></a>
                                     </td>
                                     <td>2012</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Euro,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Euro,
                                             France</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Thriller,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Thriller,
                                             Crime, Drama</a></td>
                                     <td>8.2</td>
                                 </tr>
                                 <tr>
                                     <td>14</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n7.jpg" alt=""/> <span>12 Hell or High Water</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n7.jpg" alt=""/> <span>12 Hell or High Water</span></a>
                                     </td>
                                     <td>2010</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">China</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">China</a>
                                     </td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy</a>
                                     </td>
                                     <td>8.9</td>
                                 </tr>
@@ -3071,326 +3071,326 @@
                                 <tbody>
                                 <tr>
                                     <td>1</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n1.jpg" alt=""/> <span>01 Ben-Hur</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n1.jpg" alt=""/> <span>01 Ben-Hur</span></a>
                                     </td>
                                     <td>2013</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
                                 <tr>
                                     <td>2</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n2.jpg" alt=""/> <span>001 Southside with you</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n2.jpg" alt=""/> <span>001 Southside with you</span></a>
                                     </td>
                                     <td>2011</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Korea</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Korea</a>
                                     </td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Drama</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Drama</a>
                                     </td>
                                     <td>7.5</td>
                                 </tr>
                                 <tr>
                                     <td>3</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n11.jpg" alt=""/> <span>12 Bad Moms</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n11.jpg" alt=""/> <span>12 Bad Moms</span></a>
                                     </td>
                                     <td>2010</td>
                                     <td>SD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy</a>
                                     </td>
                                     <td>6.5</td>
                                 </tr>
                                 <tr>
                                     <td>4</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n3.jpg" alt=""/> <span>2 Sausage Party</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n3.jpg" alt=""/> <span>2 Sausage Party</span></a>
                                     </td>
                                     <td>2013</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
                                 <tr>
                                     <td>5</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n4.jpg" alt=""/> <span>2.0 Morgan</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n4.jpg" alt=""/> <span>2.0 Morgan</span></a>
                                     </td>
                                     <td>2014</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             States</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Action</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Action</a>
                                     </td>
                                     <td>7.1</td>
                                 </tr>
                                 <tr>
                                     <td>6</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n5.jpg" alt=""/>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n5.jpg" alt=""/>
                                             <span>24</span></a></td>
                                     <td>2016</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">India</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">India</a>
                                     </td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Thriller,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Thriller,
                                             Drama</a></td>
                                     <td>9.0</td>
                                 </tr>
                                 <tr>
                                     <td>7</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n6.jpg" alt=""/> <span>001 The Secret Life of Pets</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n6.jpg" alt=""/> <span>001 The Secret Life of Pets</span></a>
                                     </td>
                                     <td>2012</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Euro,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Euro,
                                             France</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Thriller,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Thriller,
                                             Crime, Drama</a></td>
                                     <td>8.2</td>
                                 </tr>
                                 <tr>
                                     <td>8</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n7.jpg" alt=""/> <span>12 Hell or High Water</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n7.jpg" alt=""/> <span>12 Hell or High Water</span></a>
                                     </td>
                                     <td>2010</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">China</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">China</a>
                                     </td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy</a>
                                     </td>
                                     <td>8.9</td>
                                 </tr>
                                 <tr>
                                     <td>9</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n8.jpg" alt=""/> <span>2 Central Intelligence</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n8.jpg" alt=""/> <span>2 Central Intelligence</span></a>
                                     </td>
                                     <td>2010</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
                                 <tr>
                                     <td>10</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n9.jpg" alt=""/> <span>3 The Jungle Book</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n9.jpg" alt=""/> <span>3 The Jungle Book</span></a>
                                     </td>
                                     <td>2014</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Japan</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Japan</a>
                                     </td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Action</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Action</a>
                                     </td>
                                     <td>7.1</td>
                                 </tr>
                                 <tr>
                                     <td>11</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n10.jpg" alt=""/> <span>01 Independence Day</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n10.jpg" alt=""/> <span>01 Independence Day</span></a>
                                     </td>
                                     <td>2013</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
                                 <tr>
                                     <td>12</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n1.jpg" alt=""/> <span>01 Ben-Hur</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n1.jpg" alt=""/> <span>01 Ben-Hur</span></a>
                                     </td>
                                     <td>2013</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
                                 <tr>
                                     <td>13</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n2.jpg" alt=""/> <span>001 Southside with you</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n2.jpg" alt=""/> <span>001 Southside with you</span></a>
                                     </td>
                                     <td>2011</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Korea</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Korea</a>
                                     </td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Drama</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Drama</a>
                                     </td>
                                     <td>7.5</td>
                                 </tr>
                                 <tr>
                                     <td>14</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n11.jpg" alt=""/> <span>12 Bad Moms</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n11.jpg" alt=""/> <span>12 Bad Moms</span></a>
                                     </td>
                                     <td>2010</td>
                                     <td>SD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy</a>
                                     </td>
                                     <td>6.5</td>
                                 </tr>
                                 <tr>
                                     <td>15</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n3.jpg" alt=""/> <span>2 Sausage Party</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n3.jpg" alt=""/> <span>2 Sausage Party</span></a>
                                     </td>
                                     <td>2013</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
                                 <tr>
                                     <td>16</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n4.jpg" alt=""/> <span>2.0 Morgan</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n4.jpg" alt=""/> <span>2.0 Morgan</span></a>
                                     </td>
                                     <td>2014</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             States</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Action</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Action</a>
                                     </td>
                                     <td>7.1</td>
                                 </tr>
                                 <tr>
                                     <td>17</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n5.jpg" alt=""/>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n5.jpg" alt=""/>
                                             <span>24</span></a></td>
                                     <td>2016</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">India</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">India</a>
                                     </td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Thriller,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Thriller,
                                             Drama</a></td>
                                     <td>9.0</td>
                                 </tr>
                                 <tr>
                                     <td>18</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n6.jpg" alt=""/> <span>001 The Secret Life of Pets</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n6.jpg" alt=""/> <span>001 The Secret Life of Pets</span></a>
                                     </td>
                                     <td>2012</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Euro,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Euro,
                                             France</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Thriller,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Thriller,
                                             Crime, Drama</a></td>
                                     <td>8.2</td>
                                 </tr>
                                 <tr>
                                     <td>19</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n7.jpg" alt=""/> <span>12 Hell or High Water</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n7.jpg" alt=""/> <span>12 Hell or High Water</span></a>
                                     </td>
                                     <td>2010</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">China</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">China</a>
                                     </td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy</a>
                                     </td>
                                     <td>8.9</td>
                                 </tr>
                                 <tr>
                                     <td>20</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n8.jpg" alt=""/> <span>2 Central Intelligence</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n8.jpg" alt=""/> <span>2 Central Intelligence</span></a>
                                     </td>
                                     <td>2010</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
                                 <tr>
                                     <td>21</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n9.jpg" alt=""/> <span>3 The Jungle Book</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n9.jpg" alt=""/> <span>3 The Jungle Book</span></a>
                                     </td>
                                     <td>2014</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Japan</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Japan</a>
                                     </td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Action</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Action</a>
                                     </td>
                                     <td>7.1</td>
                                 </tr>
                                 <tr>
                                     <td>22</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n10.jpg" alt=""/> <span>01 Independence Day</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n10.jpg" alt=""/> <span>01 Independence Day</span></a>
                                     </td>
                                     <td>2013</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
                                 <tr>
                                     <td>23</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n1.jpg" alt=""/> <span>01 Ben-Hur</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n1.jpg" alt=""/> <span>01 Ben-Hur</span></a>
                                     </td>
                                     <td>2013</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
                                 <tr>
                                     <td>24</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n2.jpg" alt=""/> <span>001 Southside with you</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n2.jpg" alt=""/> <span>001 Southside with you</span></a>
                                     </td>
                                     <td>2011</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Korea</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Korea</a>
                                     </td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Drama</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Drama</a>
                                     </td>
                                     <td>7.5</td>
                                 </tr>
                                 <tr>
                                     <td>25</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n11.jpg" alt=""/> <span>12 Bad Moms</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n11.jpg" alt=""/> <span>12 Bad Moms</span></a>
                                     </td>
                                     <td>2010</td>
                                     <td>SD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy</a>
                                     </td>
                                     <td>6.5</td>
                                 </tr>
@@ -3418,222 +3418,222 @@
                                 <tbody>
                                 <tr>
                                     <td>1</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n3.jpg" alt=""/> <span>2 Sausage Party</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n3.jpg" alt=""/> <span>2 Sausage Party</span></a>
                                     </td>
                                     <td>2013</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
                                 <tr>
                                     <td>2</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n4.jpg" alt=""/> <span>2.0 Morgan</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n4.jpg" alt=""/> <span>2.0 Morgan</span></a>
                                     </td>
                                     <td>2014</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             States</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Action</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Action</a>
                                     </td>
                                     <td>7.1</td>
                                 </tr>
                                 <tr>
                                     <td>3</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n5.jpg" alt=""/>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n5.jpg" alt=""/>
                                             <span>24</span></a></td>
                                     <td>2016</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">India</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">India</a>
                                     </td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Thriller,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Thriller,
                                             Drama</a></td>
                                     <td>9.0</td>
                                 </tr>
                                 <tr>
                                     <td>4</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n6.jpg" alt=""/> <span>001 The Secret Life of Pets</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n6.jpg" alt=""/> <span>001 The Secret Life of Pets</span></a>
                                     </td>
                                     <td>2012</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Euro,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Euro,
                                             France</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Thriller,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Thriller,
                                             Crime, Drama</a></td>
                                     <td>8.2</td>
                                 </tr>
                                 <tr>
                                     <td>5</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n7.jpg" alt=""/> <span>12 Hell or High Water</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n7.jpg" alt=""/> <span>12 Hell or High Water</span></a>
                                     </td>
                                     <td>2010</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">China</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">China</a>
                                     </td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy</a>
                                     </td>
                                     <td>8.9</td>
                                 </tr>
                                 <tr>
                                     <td>6</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n8.jpg" alt=""/> <span>2 Central Intelligence</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n8.jpg" alt=""/> <span>2 Central Intelligence</span></a>
                                     </td>
                                     <td>2010</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
                                 <tr>
                                     <td>7</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n9.jpg" alt=""/> <span>3 The Jungle Book</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n9.jpg" alt=""/> <span>3 The Jungle Book</span></a>
                                     </td>
                                     <td>2014</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Japan</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Japan</a>
                                     </td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Action</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Action</a>
                                     </td>
                                     <td>7.1</td>
                                 </tr>
                                 <tr>
                                     <td>8</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n10.jpg" alt=""/> <span>01 Independence Day</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n10.jpg" alt=""/> <span>01 Independence Day</span></a>
                                     </td>
                                     <td>2013</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
                                 <tr>
                                     <td>9</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n1.jpg" alt=""/> <span>01 Ben-Hur</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n1.jpg" alt=""/> <span>01 Ben-Hur</span></a>
                                     </td>
                                     <td>2013</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
                                 <tr>
                                     <td>10</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n2.jpg" alt=""/> <span>001 Southside with you</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n2.jpg" alt=""/> <span>001 Southside with you</span></a>
                                     </td>
                                     <td>2011</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Korea</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Korea</a>
                                     </td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Drama</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Drama</a>
                                     </td>
                                     <td>7.5</td>
                                 </tr>
                                 <tr>
                                     <td>11</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n11.jpg" alt=""/> <span>12 Bad Moms</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n11.jpg" alt=""/> <span>12 Bad Moms</span></a>
                                     </td>
                                     <td>2010</td>
                                     <td>SD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy</a>
                                     </td>
                                     <td>6.5</td>
                                 </tr>
                                 <tr>
                                     <td>12</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n3.jpg" alt=""/> <span>2 Sausage Party</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n3.jpg" alt=""/> <span>2 Sausage Party</span></a>
                                     </td>
                                     <td>2013</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
                                 <tr>
                                     <td>13</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n4.jpg" alt=""/> <span>2.0 Morgan</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n4.jpg" alt=""/> <span>2.0 Morgan</span></a>
                                     </td>
                                     <td>2014</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             States</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Action</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Action</a>
                                     </td>
                                     <td>7.1</td>
                                 </tr>
                                 <tr>
                                     <td>14</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n5.jpg" alt=""/>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n5.jpg" alt=""/>
                                             <span>24</span></a></td>
                                     <td>2016</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">India</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">India</a>
                                     </td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Thriller,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Thriller,
                                             Drama</a></td>
                                     <td>9.0</td>
                                 </tr>
                                 <tr>
                                     <td>15</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n6.jpg" alt=""/> <span>001 The Secret Life of Pets</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n6.jpg" alt=""/> <span>001 The Secret Life of Pets</span></a>
                                     </td>
                                     <td>2012</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Euro,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Euro,
                                             France</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Thriller,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Thriller,
                                             Crime, Drama</a></td>
                                     <td>8.2</td>
                                 </tr>
                                 <tr>
                                     <td>16</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n7.jpg" alt=""/> <span>12 Hell or High Water</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n7.jpg" alt=""/> <span>12 Hell or High Water</span></a>
                                     </td>
                                     <td>2010</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">China</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">China</a>
                                     </td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy</a>
                                     </td>
                                     <td>8.9</td>
                                 </tr>
                                 <tr>
                                     <td>17</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n8.jpg" alt=""/> <span>2 Central Intelligence</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n8.jpg" alt=""/> <span>2 Central Intelligence</span></a>
                                     </td>
                                     <td>2010</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
@@ -3661,157 +3661,157 @@
                                 <tbody>
                                 <tr>
                                     <td>1</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n1.jpg" alt=""/> <span>01 Ben-Hur</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n1.jpg" alt=""/> <span>01 Ben-Hur</span></a>
                                     </td>
                                     <td>2013</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
                                 <tr>
                                     <td>2</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n2.jpg" alt=""/> <span>001 Southside with you</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n2.jpg" alt=""/> <span>001 Southside with you</span></a>
                                     </td>
                                     <td>2011</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Korea</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Korea</a>
                                     </td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Drama</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Drama</a>
                                     </td>
                                     <td>7.5</td>
                                 </tr>
                                 <tr>
                                     <td>3</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n11.jpg" alt=""/> <span>12 Bad Moms</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n11.jpg" alt=""/> <span>12 Bad Moms</span></a>
                                     </td>
                                     <td>2010</td>
                                     <td>SD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy</a>
                                     </td>
                                     <td>6.5</td>
                                 </tr>
                                 <tr>
                                     <td>4</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n3.jpg" alt=""/> <span>2 Sausage Party</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n3.jpg" alt=""/> <span>2 Sausage Party</span></a>
                                     </td>
                                     <td>2013</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
                                 <tr>
                                     <td>5</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n4.jpg" alt=""/> <span>2.0 Morgan</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n4.jpg" alt=""/> <span>2.0 Morgan</span></a>
                                     </td>
                                     <td>2014</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             States</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Action</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Action</a>
                                     </td>
                                     <td>7.1</td>
                                 </tr>
                                 <tr>
                                     <td>6</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n5.jpg" alt=""/>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n5.jpg" alt=""/>
                                             <span>24</span></a></td>
                                     <td>2016</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">India</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">India</a>
                                     </td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Thriller,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Thriller,
                                             Drama</a></td>
                                     <td>9.0</td>
                                 </tr>
                                 <tr>
                                     <td>7</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n6.jpg" alt=""/> <span>001 The Secret Life of Pets</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n6.jpg" alt=""/> <span>001 The Secret Life of Pets</span></a>
                                     </td>
                                     <td>2012</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Euro,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Euro,
                                             France</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Thriller,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Thriller,
                                             Crime, Drama</a></td>
                                     <td>8.2</td>
                                 </tr>
                                 <tr>
                                     <td>8</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n7.jpg" alt=""/> <span>12 Hell or High Water</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n7.jpg" alt=""/> <span>12 Hell or High Water</span></a>
                                     </td>
                                     <td>2010</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">China</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">China</a>
                                     </td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy</a>
                                     </td>
                                     <td>8.9</td>
                                 </tr>
                                 <tr>
                                     <td>9</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n8.jpg" alt=""/> <span>2 Central Intelligence</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n8.jpg" alt=""/> <span>2 Central Intelligence</span></a>
                                     </td>
                                     <td>2010</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
                                 <tr>
                                     <td>10</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n9.jpg" alt=""/> <span>3 The Jungle Book</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n9.jpg" alt=""/> <span>3 The Jungle Book</span></a>
                                     </td>
                                     <td>2014</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Japan</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Japan</a>
                                     </td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Action</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Action</a>
                                     </td>
                                     <td>7.1</td>
                                 </tr>
                                 <tr>
                                     <td>11</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n10.jpg" alt=""/> <span>01 Independence Day</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n10.jpg" alt=""/> <span>01 Independence Day</span></a>
                                     </td>
                                     <td>2013</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
                                 <tr>
                                     <td>12</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n1.jpg" alt=""/> <span>01 Ben-Hur</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n1.jpg" alt=""/> <span>01 Ben-Hur</span></a>
                                     </td>
                                     <td>2013</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
@@ -3839,209 +3839,209 @@
                                 <tbody>
                                 <tr>
                                     <td>1</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n11.jpg" alt=""/> <span>12 Bad Moms</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n11.jpg" alt=""/> <span>12 Bad Moms</span></a>
                                     </td>
                                     <td>2010</td>
                                     <td>SD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy</a>
                                     </td>
                                     <td>6.5</td>
                                 </tr>
                                 <tr>
                                     <td>2</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n3.jpg" alt=""/> <span>2 Sausage Party</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n3.jpg" alt=""/> <span>2 Sausage Party</span></a>
                                     </td>
                                     <td>2013</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
                                 <tr>
                                     <td>3</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n4.jpg" alt=""/> <span>2.0 Morgan</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n4.jpg" alt=""/> <span>2.0 Morgan</span></a>
                                     </td>
                                     <td>2014</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             States</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Action</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Action</a>
                                     </td>
                                     <td>7.1</td>
                                 </tr>
                                 <tr>
                                     <td>4</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n5.jpg" alt=""/>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n5.jpg" alt=""/>
                                             <span>24</span></a></td>
                                     <td>2016</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">India</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">India</a>
                                     </td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Thriller,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Thriller,
                                             Drama</a></td>
                                     <td>9.0</td>
                                 </tr>
                                 <tr>
                                     <td>5</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n6.jpg" alt=""/> <span>001 The Secret Life of Pets</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n6.jpg" alt=""/> <span>001 The Secret Life of Pets</span></a>
                                     </td>
                                     <td>2012</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Euro,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Euro,
                                             France</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Thriller,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Thriller,
                                             Crime, Drama</a></td>
                                     <td>8.2</td>
                                 </tr>
                                 <tr>
                                     <td>6</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n7.jpg" alt=""/> <span>12 Hell or High Water</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n7.jpg" alt=""/> <span>12 Hell or High Water</span></a>
                                     </td>
                                     <td>2010</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">China</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">China</a>
                                     </td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy</a>
                                     </td>
                                     <td>8.9</td>
                                 </tr>
                                 <tr>
                                     <td>7</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n8.jpg" alt=""/> <span>2 Central Intelligence</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n8.jpg" alt=""/> <span>2 Central Intelligence</span></a>
                                     </td>
                                     <td>2010</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
                                 <tr>
                                     <td>8</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n9.jpg" alt=""/> <span>3 The Jungle Book</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n9.jpg" alt=""/> <span>3 The Jungle Book</span></a>
                                     </td>
                                     <td>2014</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Japan</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Japan</a>
                                     </td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Action</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Action</a>
                                     </td>
                                     <td>7.1</td>
                                 </tr>
                                 <tr>
                                     <td>9</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n10.jpg" alt=""/> <span>01 Independence Day</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n10.jpg" alt=""/> <span>01 Independence Day</span></a>
                                     </td>
                                     <td>2013</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
                                 <tr>
                                     <td>10</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n1.jpg" alt=""/> <span>01 Ben-Hur</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n1.jpg" alt=""/> <span>01 Ben-Hur</span></a>
                                     </td>
                                     <td>2013</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
                                 <tr>
                                     <td>11</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n2.jpg" alt=""/> <span>001 Southside with you</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n2.jpg" alt=""/> <span>001 Southside with you</span></a>
                                     </td>
                                     <td>2011</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Korea</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Korea</a>
                                     </td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Drama</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Drama</a>
                                     </td>
                                     <td>7.5</td>
                                 </tr>
                                 <tr>
                                     <td>12</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n11.jpg" alt=""/> <span>12 Bad Moms</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n11.jpg" alt=""/> <span>12 Bad Moms</span></a>
                                     </td>
                                     <td>2010</td>
                                     <td>SD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy</a>
                                     </td>
                                     <td>6.5</td>
                                 </tr>
                                 <tr>
                                     <td>13</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n3.jpg" alt=""/> <span>2 Sausage Party</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n3.jpg" alt=""/> <span>2 Sausage Party</span></a>
                                     </td>
                                     <td>2013</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
                                 <tr>
                                     <td>14</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n4.jpg" alt=""/> <span>2.0 Morgan</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n4.jpg" alt=""/> <span>2.0 Morgan</span></a>
                                     </td>
                                     <td>2014</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             States</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Action</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Action</a>
                                     </td>
                                     <td>7.1</td>
                                 </tr>
                                 <tr>
                                     <td>15</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n5.jpg" alt=""/>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n5.jpg" alt=""/>
                                             <span>24</span></a></td>
                                     <td>2016</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">India</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">India</a>
                                     </td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Thriller,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Thriller,
                                             Drama</a></td>
                                     <td>9.0</td>
                                 </tr>
                                 <tr>
                                     <td>16</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n6.jpg" alt=""/> <span>001 The Secret Life of Pets</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n6.jpg" alt=""/> <span>001 The Secret Life of Pets</span></a>
                                     </td>
                                     <td>2012</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Euro,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Euro,
                                             France</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Thriller,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Thriller,
                                             Crime, Drama</a></td>
                                     <td>8.2</td>
                                 </tr>
@@ -4069,118 +4069,118 @@
                                 <tbody>
                                 <tr>
                                     <td>1</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n1.jpg" alt=""/> <span>01 Ben-Hur</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n1.jpg" alt=""/> <span>01 Ben-Hur</span></a>
                                     </td>
                                     <td>2013</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
                                 <tr>
                                     <td>2</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n2.jpg" alt=""/> <span>001 Southside with you</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n2.jpg" alt=""/> <span>001 Southside with you</span></a>
                                     </td>
                                     <td>2011</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Korea</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Korea</a>
                                     </td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Drama</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Drama</a>
                                     </td>
                                     <td>7.5</td>
                                 </tr>
                                 <tr>
                                     <td>3</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n11.jpg" alt=""/> <span>12 Bad Moms</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n11.jpg" alt=""/> <span>12 Bad Moms</span></a>
                                     </td>
                                     <td>2010</td>
                                     <td>SD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy</a>
                                     </td>
                                     <td>6.5</td>
                                 </tr>
                                 <tr>
                                     <td>4</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n3.jpg" alt=""/> <span>2 Sausage Party</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n3.jpg" alt=""/> <span>2 Sausage Party</span></a>
                                     </td>
                                     <td>2013</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
                                 <tr>
                                     <td>5</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n4.jpg" alt=""/> <span>2.0 Morgan</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n4.jpg" alt=""/> <span>2.0 Morgan</span></a>
                                     </td>
                                     <td>2014</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             States</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Action</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Action</a>
                                     </td>
                                     <td>7.1</td>
                                 </tr>
                                 <tr>
                                     <td>6</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n5.jpg" alt=""/>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n5.jpg" alt=""/>
                                             <span>24</span></a></td>
                                     <td>2016</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">India</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">India</a>
                                     </td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Thriller,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Thriller,
                                             Drama</a></td>
                                     <td>9.0</td>
                                 </tr>
                                 <tr>
                                     <td>7</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n6.jpg" alt=""/> <span>001 The Secret Life of Pets</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n6.jpg" alt=""/> <span>001 The Secret Life of Pets</span></a>
                                     </td>
                                     <td>2012</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Euro,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Euro,
                                             France</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Thriller,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Thriller,
                                             Crime, Drama</a></td>
                                     <td>8.2</td>
                                 </tr>
                                 <tr>
                                     <td>8</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n7.jpg" alt=""/> <span>12 Hell or High Water</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n7.jpg" alt=""/> <span>12 Hell or High Water</span></a>
                                     </td>
                                     <td>2010</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">China</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">China</a>
                                     </td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy</a>
                                     </td>
                                     <td>8.9</td>
                                 </tr>
                                 <tr>
                                     <td>9</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n8.jpg" alt=""/> <span>2 Central Intelligence</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n8.jpg" alt=""/> <span>2 Central Intelligence</span></a>
                                     </td>
                                     <td>2010</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
@@ -4207,183 +4207,183 @@
                                 <tbody>
                                 <tr>
                                     <td>1</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n6.jpg" alt=""/> <span>001 The Secret Life of Pets</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n6.jpg" alt=""/> <span>001 The Secret Life of Pets</span></a>
                                     </td>
                                     <td>2012</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Euro,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Euro,
                                             France</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Thriller,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Thriller,
                                             Crime, Drama</a></td>
                                     <td>8.2</td>
                                 </tr>
                                 <tr>
                                     <td>2</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n7.jpg" alt=""/> <span>12 Hell or High Water</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n7.jpg" alt=""/> <span>12 Hell or High Water</span></a>
                                     </td>
                                     <td>2010</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">China</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">China</a>
                                     </td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy</a>
                                     </td>
                                     <td>8.9</td>
                                 </tr>
                                 <tr>
                                     <td>3</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n8.jpg" alt=""/> <span>2 Central Intelligence</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n8.jpg" alt=""/> <span>2 Central Intelligence</span></a>
                                     </td>
                                     <td>2010</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
                                 <tr>
                                     <td>4</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n9.jpg" alt=""/> <span>3 The Jungle Book</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n9.jpg" alt=""/> <span>3 The Jungle Book</span></a>
                                     </td>
                                     <td>2014</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Japan</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Japan</a>
                                     </td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Action</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Action</a>
                                     </td>
                                     <td>7.1</td>
                                 </tr>
                                 <tr>
                                     <td>5</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n10.jpg" alt=""/> <span>01 Independence Day</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n10.jpg" alt=""/> <span>01 Independence Day</span></a>
                                     </td>
                                     <td>2013</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
                                 <tr>
                                     <td>6</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n1.jpg" alt=""/> <span>01 Ben-Hur</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n1.jpg" alt=""/> <span>01 Ben-Hur</span></a>
                                     </td>
                                     <td>2013</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
                                 <tr>
                                     <td>7</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n2.jpg" alt=""/> <span>001 Southside with you</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n2.jpg" alt=""/> <span>001 Southside with you</span></a>
                                     </td>
                                     <td>2011</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Korea</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Korea</a>
                                     </td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Drama</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Drama</a>
                                     </td>
                                     <td>7.5</td>
                                 </tr>
                                 <tr>
                                     <td>8</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n11.jpg" alt=""/> <span>12 Bad Moms</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n11.jpg" alt=""/> <span>12 Bad Moms</span></a>
                                     </td>
                                     <td>2010</td>
                                     <td>SD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy</a>
                                     </td>
                                     <td>6.5</td>
                                 </tr>
                                 <tr>
                                     <td>9</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n3.jpg" alt=""/> <span>2 Sausage Party</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n3.jpg" alt=""/> <span>2 Sausage Party</span></a>
                                     </td>
                                     <td>2013</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
                                 <tr>
                                     <td>10</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n4.jpg" alt=""/> <span>2.0 Morgan</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n4.jpg" alt=""/> <span>2.0 Morgan</span></a>
                                     </td>
                                     <td>2014</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             States</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Action</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Action</a>
                                     </td>
                                     <td>7.1</td>
                                 </tr>
                                 <tr>
                                     <td>11</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n5.jpg" alt=""/>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n5.jpg" alt=""/>
                                             <span>24</span></a></td>
                                     <td>2016</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">India</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">India</a>
                                     </td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Thriller,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Thriller,
                                             Drama</a></td>
                                     <td>9.0</td>
                                 </tr>
                                 <tr>
                                     <td>12</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n10.jpg" alt=""/> <span>01 Independence Day</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n10.jpg" alt=""/> <span>01 Independence Day</span></a>
                                     </td>
                                     <td>2013</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
                                 <tr>
                                     <td>13</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n6.jpg" alt=""/> <span>001 The Secret Life of Pets</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n6.jpg" alt=""/> <span>001 The Secret Life of Pets</span></a>
                                     </td>
                                     <td>2012</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Euro,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Euro,
                                             France</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Thriller,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Thriller,
                                             Crime, Drama</a></td>
                                     <td>8.2</td>
                                 </tr>
                                 <tr>
                                     <td>14</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n7.jpg" alt=""/> <span>12 Hell or High Water</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n7.jpg" alt=""/> <span>12 Hell or High Water</span></a>
                                     </td>
                                     <td>2010</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">China</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">China</a>
                                     </td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy</a>
                                     </td>
                                     <td>8.9</td>
                                 </tr>
@@ -4410,222 +4410,222 @@
                                 <tbody>
                                 <tr>
                                     <td>1</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n3.jpg" alt=""/> <span>2 Sausage Party</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n3.jpg" alt=""/> <span>2 Sausage Party</span></a>
                                     </td>
                                     <td>2013</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
                                 <tr>
                                     <td>2</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n4.jpg" alt=""/> <span>2.0 Morgan</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n4.jpg" alt=""/> <span>2.0 Morgan</span></a>
                                     </td>
                                     <td>2014</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             States</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Action</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Action</a>
                                     </td>
                                     <td>7.1</td>
                                 </tr>
                                 <tr>
                                     <td>3</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n5.jpg" alt=""/>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n5.jpg" alt=""/>
                                             <span>24</span></a></td>
                                     <td>2016</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">India</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">India</a>
                                     </td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Thriller,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Thriller,
                                             Drama</a></td>
                                     <td>9.0</td>
                                 </tr>
                                 <tr>
                                     <td>4</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n6.jpg" alt=""/> <span>001 The Secret Life of Pets</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n6.jpg" alt=""/> <span>001 The Secret Life of Pets</span></a>
                                     </td>
                                     <td>2012</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Euro,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Euro,
                                             France</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Thriller,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Thriller,
                                             Crime, Drama</a></td>
                                     <td>8.2</td>
                                 </tr>
                                 <tr>
                                     <td>5</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n7.jpg" alt=""/> <span>12 Hell or High Water</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n7.jpg" alt=""/> <span>12 Hell or High Water</span></a>
                                     </td>
                                     <td>2010</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">China</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">China</a>
                                     </td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy</a>
                                     </td>
                                     <td>8.9</td>
                                 </tr>
                                 <tr>
                                     <td>6</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n8.jpg" alt=""/> <span>2 Central Intelligence</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n8.jpg" alt=""/> <span>2 Central Intelligence</span></a>
                                     </td>
                                     <td>2010</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
                                 <tr>
                                     <td>7</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n9.jpg" alt=""/> <span>3 The Jungle Book</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n9.jpg" alt=""/> <span>3 The Jungle Book</span></a>
                                     </td>
                                     <td>2014</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Japan</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Japan</a>
                                     </td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Action</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Action</a>
                                     </td>
                                     <td>7.1</td>
                                 </tr>
                                 <tr>
                                     <td>8</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n10.jpg" alt=""/> <span>01 Independence Day</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n10.jpg" alt=""/> <span>01 Independence Day</span></a>
                                     </td>
                                     <td>2013</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
                                 <tr>
                                     <td>9</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n1.jpg" alt=""/> <span>01 Ben-Hur</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n1.jpg" alt=""/> <span>01 Ben-Hur</span></a>
                                     </td>
                                     <td>2013</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
                                 <tr>
                                     <td>10</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n2.jpg" alt=""/> <span>001 Southside with you</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n2.jpg" alt=""/> <span>001 Southside with you</span></a>
                                     </td>
                                     <td>2011</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Korea</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Korea</a>
                                     </td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Drama</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Drama</a>
                                     </td>
                                     <td>7.5</td>
                                 </tr>
                                 <tr>
                                     <td>11</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n11.jpg" alt=""/> <span>12 Bad Moms</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n11.jpg" alt=""/> <span>12 Bad Moms</span></a>
                                     </td>
                                     <td>2010</td>
                                     <td>SD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy</a>
                                     </td>
                                     <td>6.5</td>
                                 </tr>
                                 <tr>
                                     <td>12</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n3.jpg" alt=""/> <span>2 Sausage Party</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n3.jpg" alt=""/> <span>2 Sausage Party</span></a>
                                     </td>
                                     <td>2013</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
                                 <tr>
                                     <td>13</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n4.jpg" alt=""/> <span>2.0 Morgan</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n4.jpg" alt=""/> <span>2.0 Morgan</span></a>
                                     </td>
                                     <td>2014</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             States</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Action</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Action</a>
                                     </td>
                                     <td>7.1</td>
                                 </tr>
                                 <tr>
                                     <td>14</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n5.jpg" alt=""/>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n5.jpg" alt=""/>
                                             <span>24</span></a></td>
                                     <td>2016</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">India</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">India</a>
                                     </td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Thriller,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Thriller,
                                             Drama</a></td>
                                     <td>9.0</td>
                                 </tr>
                                 <tr>
                                     <td>15</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n6.jpg" alt=""/> <span>001 The Secret Life of Pets</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n6.jpg" alt=""/> <span>001 The Secret Life of Pets</span></a>
                                     </td>
                                     <td>2012</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Euro,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Euro,
                                             France</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Thriller,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Thriller,
                                             Crime, Drama</a></td>
                                     <td>8.2</td>
                                 </tr>
                                 <tr>
                                     <td>16</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n7.jpg" alt=""/> <span>12 Hell or High Water</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n7.jpg" alt=""/> <span>12 Hell or High Water</span></a>
                                     </td>
                                     <td>2010</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">China</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">China</a>
                                     </td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy</a>
                                     </td>
                                     <td>8.9</td>
                                 </tr>
                                 <tr>
                                     <td>17</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n8.jpg" alt=""/> <span>2 Central Intelligence</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n8.jpg" alt=""/> <span>2 Central Intelligence</span></a>
                                     </td>
                                     <td>2010</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
@@ -4653,222 +4653,222 @@
                                 <tbody>
                                 <tr>
                                     <td>1</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n3.jpg" alt=""/> <span>2 Sausage Party</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n3.jpg" alt=""/> <span>2 Sausage Party</span></a>
                                     </td>
                                     <td>2013</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
                                 <tr>
                                     <td>2</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n4.jpg" alt=""/> <span>2.0 Morgan</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n4.jpg" alt=""/> <span>2.0 Morgan</span></a>
                                     </td>
                                     <td>2014</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             States</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Action</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Action</a>
                                     </td>
                                     <td>7.1</td>
                                 </tr>
                                 <tr>
                                     <td>3</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n5.jpg" alt=""/>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n5.jpg" alt=""/>
                                             <span>24</span></a></td>
                                     <td>2016</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">India</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">India</a>
                                     </td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Thriller,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Thriller,
                                             Drama</a></td>
                                     <td>9.0</td>
                                 </tr>
                                 <tr>
                                     <td>4</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n6.jpg" alt=""/> <span>001 The Secret Life of Pets</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n6.jpg" alt=""/> <span>001 The Secret Life of Pets</span></a>
                                     </td>
                                     <td>2012</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Euro,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Euro,
                                             France</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Thriller,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Thriller,
                                             Crime, Drama</a></td>
                                     <td>8.2</td>
                                 </tr>
                                 <tr>
                                     <td>5</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n7.jpg" alt=""/> <span>12 Hell or High Water</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n7.jpg" alt=""/> <span>12 Hell or High Water</span></a>
                                     </td>
                                     <td>2010</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">China</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">China</a>
                                     </td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy</a>
                                     </td>
                                     <td>8.9</td>
                                 </tr>
                                 <tr>
                                     <td>6</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n8.jpg" alt=""/> <span>2 Central Intelligence</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n8.jpg" alt=""/> <span>2 Central Intelligence</span></a>
                                     </td>
                                     <td>2010</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
                                 <tr>
                                     <td>7</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n9.jpg" alt=""/> <span>3 The Jungle Book</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n9.jpg" alt=""/> <span>3 The Jungle Book</span></a>
                                     </td>
                                     <td>2014</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Japan</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Japan</a>
                                     </td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Action</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Action</a>
                                     </td>
                                     <td>7.1</td>
                                 </tr>
                                 <tr>
                                     <td>8</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n10.jpg" alt=""/> <span>01 Independence Day</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n10.jpg" alt=""/> <span>01 Independence Day</span></a>
                                     </td>
                                     <td>2013</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
                                 <tr>
                                     <td>9</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n1.jpg" alt=""/> <span>01 Ben-Hur</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n1.jpg" alt=""/> <span>01 Ben-Hur</span></a>
                                     </td>
                                     <td>2013</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
                                 <tr>
                                     <td>10</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n2.jpg" alt=""/> <span>001 Southside with you</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n2.jpg" alt=""/> <span>001 Southside with you</span></a>
                                     </td>
                                     <td>2011</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Korea</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Korea</a>
                                     </td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Drama</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Drama</a>
                                     </td>
                                     <td>7.5</td>
                                 </tr>
                                 <tr>
                                     <td>11</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n11.jpg" alt=""/> <span>12 Bad Moms</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n11.jpg" alt=""/> <span>12 Bad Moms</span></a>
                                     </td>
                                     <td>2010</td>
                                     <td>SD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy</a>
                                     </td>
                                     <td>6.5</td>
                                 </tr>
                                 <tr>
                                     <td>12</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n3.jpg" alt=""/> <span>2 Sausage Party</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n3.jpg" alt=""/> <span>2 Sausage Party</span></a>
                                     </td>
                                     <td>2013</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
                                 <tr>
                                     <td>13</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n4.jpg" alt=""/> <span>2.0 Morgan</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n4.jpg" alt=""/> <span>2.0 Morgan</span></a>
                                     </td>
                                     <td>2014</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             States</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Action</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Action</a>
                                     </td>
                                     <td>7.1</td>
                                 </tr>
                                 <tr>
                                     <td>14</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n5.jpg" alt=""/>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n5.jpg" alt=""/>
                                             <span>24</span></a></td>
                                     <td>2016</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">India</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">India</a>
                                     </td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Thriller,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Thriller,
                                             Drama</a></td>
                                     <td>9.0</td>
                                 </tr>
                                 <tr>
                                     <td>15</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n6.jpg" alt=""/> <span>001 The Secret Life of Pets</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n6.jpg" alt=""/> <span>001 The Secret Life of Pets</span></a>
                                     </td>
                                     <td>2012</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Euro,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Euro,
                                             France</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Thriller,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Thriller,
                                             Crime, Drama</a></td>
                                     <td>8.2</td>
                                 </tr>
                                 <tr>
                                     <td>16</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n7.jpg" alt=""/> <span>12 Hell or High Water</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n7.jpg" alt=""/> <span>12 Hell or High Water</span></a>
                                     </td>
                                     <td>2010</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">China</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">China</a>
                                     </td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy</a>
                                     </td>
                                     <td>8.9</td>
                                 </tr>
                                 <tr>
                                     <td>17</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n8.jpg" alt=""/> <span>2 Central Intelligence</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n8.jpg" alt=""/> <span>2 Central Intelligence</span></a>
                                     </td>
                                     <td>2010</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
@@ -4896,157 +4896,157 @@
                                 <tbody>
                                 <tr>
                                     <td>1</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n1.jpg" alt=""/> <span>01 Ben-Hur</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n1.jpg" alt=""/> <span>01 Ben-Hur</span></a>
                                     </td>
                                     <td>2013</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
                                 <tr>
                                     <td>2</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n2.jpg" alt=""/> <span>001 Southside with you</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n2.jpg" alt=""/> <span>001 Southside with you</span></a>
                                     </td>
                                     <td>2011</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Korea</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Korea</a>
                                     </td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Drama</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Drama</a>
                                     </td>
                                     <td>7.5</td>
                                 </tr>
                                 <tr>
                                     <td>3</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n11.jpg" alt=""/> <span>12 Bad Moms</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n11.jpg" alt=""/> <span>12 Bad Moms</span></a>
                                     </td>
                                     <td>2010</td>
                                     <td>SD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy</a>
                                     </td>
                                     <td>6.5</td>
                                 </tr>
                                 <tr>
                                     <td>4</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n3.jpg" alt=""/> <span>2 Sausage Party</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n3.jpg" alt=""/> <span>2 Sausage Party</span></a>
                                     </td>
                                     <td>2013</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
                                 <tr>
                                     <td>5</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n4.jpg" alt=""/> <span>2.0 Morgan</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n4.jpg" alt=""/> <span>2.0 Morgan</span></a>
                                     </td>
                                     <td>2014</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             States</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Action</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Action</a>
                                     </td>
                                     <td>7.1</td>
                                 </tr>
                                 <tr>
                                     <td>6</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n5.jpg" alt=""/>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n5.jpg" alt=""/>
                                             <span>24</span></a></td>
                                     <td>2016</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">India</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">India</a>
                                     </td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Thriller,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Thriller,
                                             Drama</a></td>
                                     <td>9.0</td>
                                 </tr>
                                 <tr>
                                     <td>7</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n6.jpg" alt=""/> <span>001 The Secret Life of Pets</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n6.jpg" alt=""/> <span>001 The Secret Life of Pets</span></a>
                                     </td>
                                     <td>2012</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Euro,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Euro,
                                             France</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Thriller,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Thriller,
                                             Crime, Drama</a></td>
                                     <td>8.2</td>
                                 </tr>
                                 <tr>
                                     <td>8</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n7.jpg" alt=""/> <span>12 Hell or High Water</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n7.jpg" alt=""/> <span>12 Hell or High Water</span></a>
                                     </td>
                                     <td>2010</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">China</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">China</a>
                                     </td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy</a>
                                     </td>
                                     <td>8.9</td>
                                 </tr>
                                 <tr>
                                     <td>9</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n8.jpg" alt=""/> <span>2 Central Intelligence</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n8.jpg" alt=""/> <span>2 Central Intelligence</span></a>
                                     </td>
                                     <td>2010</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
                                 <tr>
                                     <td>10</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n9.jpg" alt=""/> <span>3 The Jungle Book</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n9.jpg" alt=""/> <span>3 The Jungle Book</span></a>
                                     </td>
                                     <td>2014</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Japan</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Japan</a>
                                     </td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Action</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Action</a>
                                     </td>
                                     <td>7.1</td>
                                 </tr>
                                 <tr>
                                     <td>11</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n10.jpg" alt=""/> <span>01 Independence Day</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n10.jpg" alt=""/> <span>01 Independence Day</span></a>
                                     </td>
                                     <td>2013</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
                                 <tr>
                                     <td>12</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n1.jpg" alt=""/> <span>01 Ben-Hur</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n1.jpg" alt=""/> <span>01 Ben-Hur</span></a>
                                     </td>
                                     <td>2013</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
@@ -5074,209 +5074,209 @@
                                 <tbody>
                                 <tr>
                                     <td>1</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n11.jpg" alt=""/> <span>12 Bad Moms</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n11.jpg" alt=""/> <span>12 Bad Moms</span></a>
                                     </td>
                                     <td>2010</td>
                                     <td>SD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy</a>
                                     </td>
                                     <td>6.5</td>
                                 </tr>
                                 <tr>
                                     <td>2</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n3.jpg" alt=""/> <span>2 Sausage Party</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n3.jpg" alt=""/> <span>2 Sausage Party</span></a>
                                     </td>
                                     <td>2013</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
                                 <tr>
                                     <td>3</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n4.jpg" alt=""/> <span>2.0 Morgan</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n4.jpg" alt=""/> <span>2.0 Morgan</span></a>
                                     </td>
                                     <td>2014</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             States</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Action</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Action</a>
                                     </td>
                                     <td>7.1</td>
                                 </tr>
                                 <tr>
                                     <td>4</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n5.jpg" alt=""/>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n5.jpg" alt=""/>
                                             <span>24</span></a></td>
                                     <td>2016</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">India</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">India</a>
                                     </td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Thriller,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Thriller,
                                             Drama</a></td>
                                     <td>9.0</td>
                                 </tr>
                                 <tr>
                                     <td>5</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n6.jpg" alt=""/> <span>001 The Secret Life of Pets</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n6.jpg" alt=""/> <span>001 The Secret Life of Pets</span></a>
                                     </td>
                                     <td>2012</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Euro,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Euro,
                                             France</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Thriller,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Thriller,
                                             Crime, Drama</a></td>
                                     <td>8.2</td>
                                 </tr>
                                 <tr>
                                     <td>6</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n7.jpg" alt=""/> <span>12 Hell or High Water</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n7.jpg" alt=""/> <span>12 Hell or High Water</span></a>
                                     </td>
                                     <td>2010</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">China</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">China</a>
                                     </td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy</a>
                                     </td>
                                     <td>8.9</td>
                                 </tr>
                                 <tr>
                                     <td>7</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n8.jpg" alt=""/> <span>2 Central Intelligence</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n8.jpg" alt=""/> <span>2 Central Intelligence</span></a>
                                     </td>
                                     <td>2010</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
                                 <tr>
                                     <td>8</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n9.jpg" alt=""/> <span>3 The Jungle Book</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n9.jpg" alt=""/> <span>3 The Jungle Book</span></a>
                                     </td>
                                     <td>2014</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Japan</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Japan</a>
                                     </td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Action</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Action</a>
                                     </td>
                                     <td>7.1</td>
                                 </tr>
                                 <tr>
                                     <td>9</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n10.jpg" alt=""/> <span>01 Independence Day</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n10.jpg" alt=""/> <span>01 Independence Day</span></a>
                                     </td>
                                     <td>2013</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
                                 <tr>
                                     <td>10</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n1.jpg" alt=""/> <span>01 Ben-Hur</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n1.jpg" alt=""/> <span>01 Ben-Hur</span></a>
                                     </td>
                                     <td>2013</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
                                 <tr>
                                     <td>11</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n2.jpg" alt=""/> <span>001 Southside with you</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n2.jpg" alt=""/> <span>001 Southside with you</span></a>
                                     </td>
                                     <td>2011</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Korea</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Korea</a>
                                     </td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Drama</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Drama</a>
                                     </td>
                                     <td>7.5</td>
                                 </tr>
                                 <tr>
                                     <td>12</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n11.jpg" alt=""/> <span>12 Bad Moms</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n11.jpg" alt=""/> <span>12 Bad Moms</span></a>
                                     </td>
                                     <td>2010</td>
                                     <td>SD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy</a>
                                     </td>
                                     <td>6.5</td>
                                 </tr>
                                 <tr>
                                     <td>13</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n3.jpg" alt=""/> <span>2 Sausage Party</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n3.jpg" alt=""/> <span>2 Sausage Party</span></a>
                                     </td>
                                     <td>2013</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
                                 <tr>
                                     <td>14</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n4.jpg" alt=""/> <span>2.0 Morgan</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n4.jpg" alt=""/> <span>2.0 Morgan</span></a>
                                     </td>
                                     <td>2014</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             States</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Action</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Action</a>
                                     </td>
                                     <td>7.1</td>
                                 </tr>
                                 <tr>
                                     <td>15</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n5.jpg" alt=""/>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n5.jpg" alt=""/>
                                             <span>24</span></a></td>
                                     <td>2016</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">India</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">India</a>
                                     </td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Thriller,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Thriller,
                                             Drama</a></td>
                                     <td>9.0</td>
                                 </tr>
                                 <tr>
                                     <td>16</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n6.jpg" alt=""/> <span>001 The Secret Life of Pets</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n6.jpg" alt=""/> <span>001 The Secret Life of Pets</span></a>
                                     </td>
                                     <td>2012</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Euro,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Euro,
                                             France</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Thriller,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Thriller,
                                             Crime, Drama</a></td>
                                     <td>8.2</td>
                                 </tr>
@@ -5304,118 +5304,118 @@
                                 <tbody>
                                 <tr>
                                     <td>1</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n1.jpg" alt=""/> <span>01 Ben-Hur</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n1.jpg" alt=""/> <span>01 Ben-Hur</span></a>
                                     </td>
                                     <td>2013</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
                                 <tr>
                                     <td>2</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n2.jpg" alt=""/> <span>001 Southside with you</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n2.jpg" alt=""/> <span>001 Southside with you</span></a>
                                     </td>
                                     <td>2011</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Korea</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Korea</a>
                                     </td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Drama</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Drama</a>
                                     </td>
                                     <td>7.5</td>
                                 </tr>
                                 <tr>
                                     <td>3</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n11.jpg" alt=""/> <span>12 Bad Moms</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n11.jpg" alt=""/> <span>12 Bad Moms</span></a>
                                     </td>
                                     <td>2010</td>
                                     <td>SD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy</a>
                                     </td>
                                     <td>6.5</td>
                                 </tr>
                                 <tr>
                                     <td>4</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n3.jpg" alt=""/> <span>2 Sausage Party</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n3.jpg" alt=""/> <span>2 Sausage Party</span></a>
                                     </td>
                                     <td>2013</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
                                 <tr>
                                     <td>5</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n4.jpg" alt=""/> <span>2.0 Morgan</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n4.jpg" alt=""/> <span>2.0 Morgan</span></a>
                                     </td>
                                     <td>2014</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             States</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Action</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Action</a>
                                     </td>
                                     <td>7.1</td>
                                 </tr>
                                 <tr>
                                     <td>6</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n5.jpg" alt=""/>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n5.jpg" alt=""/>
                                             <span>24</span></a></td>
                                     <td>2016</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">India</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">India</a>
                                     </td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Thriller,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Thriller,
                                             Drama</a></td>
                                     <td>9.0</td>
                                 </tr>
                                 <tr>
                                     <td>7</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n6.jpg" alt=""/> <span>001 The Secret Life of Pets</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n6.jpg" alt=""/> <span>001 The Secret Life of Pets</span></a>
                                     </td>
                                     <td>2012</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Euro,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Euro,
                                             France</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Thriller,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Thriller,
                                             Crime, Drama</a></td>
                                     <td>8.2</td>
                                 </tr>
                                 <tr>
                                     <td>8</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n7.jpg" alt=""/> <span>12 Hell or High Water</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n7.jpg" alt=""/> <span>12 Hell or High Water</span></a>
                                     </td>
                                     <td>2010</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">China</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">China</a>
                                     </td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy</a>
                                     </td>
                                     <td>8.9</td>
                                 </tr>
                                 <tr>
                                     <td>9</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n8.jpg" alt=""/> <span>2 Central Intelligence</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n8.jpg" alt=""/> <span>2 Central Intelligence</span></a>
                                     </td>
                                     <td>2010</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
@@ -5442,183 +5442,183 @@
                                 <tbody>
                                 <tr>
                                     <td>1</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n6.jpg" alt=""/> <span>001 The Secret Life of Pets</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n6.jpg" alt=""/> <span>001 The Secret Life of Pets</span></a>
                                     </td>
                                     <td>2012</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Euro,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Euro,
                                             France</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Thriller,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Thriller,
                                             Crime, Drama</a></td>
                                     <td>8.2</td>
                                 </tr>
                                 <tr>
                                     <td>2</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n7.jpg" alt=""/> <span>12 Hell or High Water</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n7.jpg" alt=""/> <span>12 Hell or High Water</span></a>
                                     </td>
                                     <td>2010</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">China</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">China</a>
                                     </td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy</a>
                                     </td>
                                     <td>8.9</td>
                                 </tr>
                                 <tr>
                                     <td>3</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n8.jpg" alt=""/> <span>2 Central Intelligence</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n8.jpg" alt=""/> <span>2 Central Intelligence</span></a>
                                     </td>
                                     <td>2010</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
                                 <tr>
                                     <td>4</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n9.jpg" alt=""/> <span>3 The Jungle Book</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n9.jpg" alt=""/> <span>3 The Jungle Book</span></a>
                                     </td>
                                     <td>2014</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Japan</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Japan</a>
                                     </td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Action</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Action</a>
                                     </td>
                                     <td>7.1</td>
                                 </tr>
                                 <tr>
                                     <td>5</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n10.jpg" alt=""/> <span>01 Independence Day</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n10.jpg" alt=""/> <span>01 Independence Day</span></a>
                                     </td>
                                     <td>2013</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
                                 <tr>
                                     <td>6</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n1.jpg" alt=""/> <span>01 Ben-Hur</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n1.jpg" alt=""/> <span>01 Ben-Hur</span></a>
                                     </td>
                                     <td>2013</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
                                 <tr>
                                     <td>7</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n2.jpg" alt=""/> <span>001 Southside with you</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n2.jpg" alt=""/> <span>001 Southside with you</span></a>
                                     </td>
                                     <td>2011</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Korea</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Korea</a>
                                     </td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Drama</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Drama</a>
                                     </td>
                                     <td>7.5</td>
                                 </tr>
                                 <tr>
                                     <td>8</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n11.jpg" alt=""/> <span>12 Bad Moms</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n11.jpg" alt=""/> <span>12 Bad Moms</span></a>
                                     </td>
                                     <td>2010</td>
                                     <td>SD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy</a>
                                     </td>
                                     <td>6.5</td>
                                 </tr>
                                 <tr>
                                     <td>9</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n3.jpg" alt=""/> <span>2 Sausage Party</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n3.jpg" alt=""/> <span>2 Sausage Party</span></a>
                                     </td>
                                     <td>2013</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
                                 <tr>
                                     <td>10</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n4.jpg" alt=""/> <span>2.0 Morgan</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n4.jpg" alt=""/> <span>2.0 Morgan</span></a>
                                     </td>
                                     <td>2014</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             States</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Action</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Action</a>
                                     </td>
                                     <td>7.1</td>
                                 </tr>
                                 <tr>
                                     <td>11</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n5.jpg" alt=""/>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n5.jpg" alt=""/>
                                             <span>24</span></a></td>
                                     <td>2016</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">India</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">India</a>
                                     </td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Thriller,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Thriller,
                                             Drama</a></td>
                                     <td>9.0</td>
                                 </tr>
                                 <tr>
                                     <td>12</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n10.jpg" alt=""/> <span>01 Independence Day</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n10.jpg" alt=""/> <span>01 Independence Day</span></a>
                                     </td>
                                     <td>2013</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
                                 <tr>
                                     <td>13</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n6.jpg" alt=""/> <span>001 The Secret Life of Pets</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n6.jpg" alt=""/> <span>001 The Secret Life of Pets</span></a>
                                     </td>
                                     <td>2012</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Euro,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Euro,
                                             France</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Thriller,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Thriller,
                                             Crime, Drama</a></td>
                                     <td>8.2</td>
                                 </tr>
                                 <tr>
                                     <td>14</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n7.jpg" alt=""/> <span>12 Hell or High Water</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n7.jpg" alt=""/> <span>12 Hell or High Water</span></a>
                                     </td>
                                     <td>2010</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">China</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">China</a>
                                     </td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy</a>
                                     </td>
                                     <td>8.9</td>
                                 </tr>
@@ -5645,222 +5645,222 @@
                                 <tbody>
                                 <tr>
                                     <td>1</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n3.jpg" alt=""/> <span>2 Sausage Party</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n3.jpg" alt=""/> <span>2 Sausage Party</span></a>
                                     </td>
                                     <td>2013</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
                                 <tr>
                                     <td>2</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n4.jpg" alt=""/> <span>2.0 Morgan</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n4.jpg" alt=""/> <span>2.0 Morgan</span></a>
                                     </td>
                                     <td>2014</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             States</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Action</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Action</a>
                                     </td>
                                     <td>7.1</td>
                                 </tr>
                                 <tr>
                                     <td>3</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n5.jpg" alt=""/>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n5.jpg" alt=""/>
                                             <span>24</span></a></td>
                                     <td>2016</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">India</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">India</a>
                                     </td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Thriller,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Thriller,
                                             Drama</a></td>
                                     <td>9.0</td>
                                 </tr>
                                 <tr>
                                     <td>4</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n6.jpg" alt=""/> <span>001 The Secret Life of Pets</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n6.jpg" alt=""/> <span>001 The Secret Life of Pets</span></a>
                                     </td>
                                     <td>2012</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Euro,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Euro,
                                             France</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Thriller,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Thriller,
                                             Crime, Drama</a></td>
                                     <td>8.2</td>
                                 </tr>
                                 <tr>
                                     <td>5</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n7.jpg" alt=""/> <span>12 Hell or High Water</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n7.jpg" alt=""/> <span>12 Hell or High Water</span></a>
                                     </td>
                                     <td>2010</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">China</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">China</a>
                                     </td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy</a>
                                     </td>
                                     <td>8.9</td>
                                 </tr>
                                 <tr>
                                     <td>6</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n8.jpg" alt=""/> <span>2 Central Intelligence</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n8.jpg" alt=""/> <span>2 Central Intelligence</span></a>
                                     </td>
                                     <td>2010</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
                                 <tr>
                                     <td>7</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n9.jpg" alt=""/> <span>3 The Jungle Book</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n9.jpg" alt=""/> <span>3 The Jungle Book</span></a>
                                     </td>
                                     <td>2014</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Japan</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Japan</a>
                                     </td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Action</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Action</a>
                                     </td>
                                     <td>7.1</td>
                                 </tr>
                                 <tr>
                                     <td>8</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n10.jpg" alt=""/> <span>01 Independence Day</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n10.jpg" alt=""/> <span>01 Independence Day</span></a>
                                     </td>
                                     <td>2013</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
                                 <tr>
                                     <td>9</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n1.jpg" alt=""/> <span>01 Ben-Hur</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n1.jpg" alt=""/> <span>01 Ben-Hur</span></a>
                                     </td>
                                     <td>2013</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
                                 <tr>
                                     <td>10</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n2.jpg" alt=""/> <span>001 Southside with you</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n2.jpg" alt=""/> <span>001 Southside with you</span></a>
                                     </td>
                                     <td>2011</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Korea</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Korea</a>
                                     </td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Drama</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Drama</a>
                                     </td>
                                     <td>7.5</td>
                                 </tr>
                                 <tr>
                                     <td>11</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n11.jpg" alt=""/> <span>12 Bad Moms</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n11.jpg" alt=""/> <span>12 Bad Moms</span></a>
                                     </td>
                                     <td>2010</td>
                                     <td>SD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy</a>
                                     </td>
                                     <td>6.5</td>
                                 </tr>
                                 <tr>
                                     <td>12</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n3.jpg" alt=""/> <span>2 Sausage Party</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n3.jpg" alt=""/> <span>2 Sausage Party</span></a>
                                     </td>
                                     <td>2013</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
                                 <tr>
                                     <td>13</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n4.jpg" alt=""/> <span>2.0 Morgan</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n4.jpg" alt=""/> <span>2.0 Morgan</span></a>
                                     </td>
                                     <td>2014</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             States</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Action</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Action</a>
                                     </td>
                                     <td>7.1</td>
                                 </tr>
                                 <tr>
                                     <td>14</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n5.jpg" alt=""/>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n5.jpg" alt=""/>
                                             <span>24</span></a></td>
                                     <td>2016</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">India</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">India</a>
                                     </td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Thriller,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Thriller,
                                             Drama</a></td>
                                     <td>9.0</td>
                                 </tr>
                                 <tr>
                                     <td>15</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n6.jpg" alt=""/> <span>001 The Secret Life of Pets</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n6.jpg" alt=""/> <span>001 The Secret Life of Pets</span></a>
                                     </td>
                                     <td>2012</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Euro,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Euro,
                                             France</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Thriller,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Thriller,
                                             Crime, Drama</a></td>
                                     <td>8.2</td>
                                 </tr>
                                 <tr>
                                     <td>16</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n7.jpg" alt=""/> <span>12 Hell or High Water</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n7.jpg" alt=""/> <span>12 Hell or High Water</span></a>
                                     </td>
                                     <td>2010</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">China</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">China</a>
                                     </td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy</a>
                                     </td>
                                     <td>8.9</td>
                                 </tr>
                                 <tr>
                                     <td>17</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n8.jpg" alt=""/> <span>2 Central Intelligence</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n8.jpg" alt=""/> <span>2 Central Intelligence</span></a>
                                     </td>
                                     <td>2010</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
@@ -5888,157 +5888,157 @@
                                 <tbody>
                                 <tr>
                                     <td>1</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n1.jpg" alt=""/> <span>01 Ben-Hur</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n1.jpg" alt=""/> <span>01 Ben-Hur</span></a>
                                     </td>
                                     <td>2013</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
                                 <tr>
                                     <td>2</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n2.jpg" alt=""/> <span>001 Southside with you</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n2.jpg" alt=""/> <span>001 Southside with you</span></a>
                                     </td>
                                     <td>2011</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Korea</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Korea</a>
                                     </td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Drama</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Drama</a>
                                     </td>
                                     <td>7.5</td>
                                 </tr>
                                 <tr>
                                     <td>3</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n11.jpg" alt=""/> <span>12 Bad Moms</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n11.jpg" alt=""/> <span>12 Bad Moms</span></a>
                                     </td>
                                     <td>2010</td>
                                     <td>SD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy</a>
                                     </td>
                                     <td>6.5</td>
                                 </tr>
                                 <tr>
                                     <td>4</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n3.jpg" alt=""/> <span>2 Sausage Party</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n3.jpg" alt=""/> <span>2 Sausage Party</span></a>
                                     </td>
                                     <td>2013</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
                                 <tr>
                                     <td>5</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n4.jpg" alt=""/> <span>2.0 Morgan</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n4.jpg" alt=""/> <span>2.0 Morgan</span></a>
                                     </td>
                                     <td>2014</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             States</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Action</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Action</a>
                                     </td>
                                     <td>7.1</td>
                                 </tr>
                                 <tr>
                                     <td>6</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n5.jpg" alt=""/>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n5.jpg" alt=""/>
                                             <span>24</span></a></td>
                                     <td>2016</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">India</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">India</a>
                                     </td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Thriller,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Thriller,
                                             Drama</a></td>
                                     <td>9.0</td>
                                 </tr>
                                 <tr>
                                     <td>7</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n6.jpg" alt=""/> <span>001 The Secret Life of Pets</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n6.jpg" alt=""/> <span>001 The Secret Life of Pets</span></a>
                                     </td>
                                     <td>2012</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Euro,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Euro,
                                             France</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Thriller,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Thriller,
                                             Crime, Drama</a></td>
                                     <td>8.2</td>
                                 </tr>
                                 <tr>
                                     <td>8</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n7.jpg" alt=""/> <span>12 Hell or High Water</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n7.jpg" alt=""/> <span>12 Hell or High Water</span></a>
                                     </td>
                                     <td>2010</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">China</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">China</a>
                                     </td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy</a>
                                     </td>
                                     <td>8.9</td>
                                 </tr>
                                 <tr>
                                     <td>9</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n8.jpg" alt=""/> <span>2 Central Intelligence</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n8.jpg" alt=""/> <span>2 Central Intelligence</span></a>
                                     </td>
                                     <td>2010</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
                                 <tr>
                                     <td>10</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n9.jpg" alt=""/> <span>3 The Jungle Book</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n9.jpg" alt=""/> <span>3 The Jungle Book</span></a>
                                     </td>
                                     <td>2014</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Japan</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Japan</a>
                                     </td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Action</a>
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Action</a>
                                     </td>
                                     <td>7.1</td>
                                 </tr>
                                 <tr>
                                     <td>11</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n10.jpg" alt=""/> <span>01 Independence Day</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n10.jpg" alt=""/> <span>01 Independence Day</span></a>
                                     </td>
                                     <td>2013</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>
                                 <tr>
                                     <td>12</td>
-                                    <td class="w3-list-img"><a href="<?php echo $host; ?>pages/single.php"><img
-                                                    src="<?php echo $host; ?>partials/images/n1.jpg" alt=""/> <span>01 Ben-Hur</span></a>
+                                    <td class="w3-list-img"><a href="<?php echo HOST; ?>pages/single.php"><img
+                                                    src="<?php echo HOST; ?>partials/images/n1.jpg" alt=""/> <span>01 Ben-Hur</span></a>
                                     </td>
                                     <td>2013</td>
                                     <td>HD</td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">United
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">United
                                             Kingdom</a></td>
-                                    <td class="w3-list-info"><a href="<?php echo $host; ?>pages/genres.php">Comedy,
+                                    <td class="w3-list-info"><a href="<?php echo HOST; ?>pages/genres.php">Comedy,
                                             Drama</a></td>
                                     <td>7.0</td>
                                 </tr>

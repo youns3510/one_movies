@@ -7,8 +7,8 @@ include_once(__DIR__. '/../includes/header.php');
 <div class="container">
     <div class="row account">  
      <div class="col-xs-12 col-sm-12 col-md-8">
-         <a href="<?php echo $host; ?>/users/pages/history.php" class="btn account-btns">History</a>
-         <a href="<?php echo $host; ?>/users/pages/favorite.php" class="btn account-btns active">Favorite</a> 
+         <a href="<?php echo HOST; ?>/users/pages/history.php" class="btn account-btns">History</a>
+         <a href="<?php echo HOST; ?>/users/pages/favorite.php" class="btn account-btns active">Favorite</a> 
        
      </div> 
   

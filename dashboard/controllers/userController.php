@@ -2,15 +2,16 @@
 if (!isset($_SESSION)) {
     session_start([
         'cookie_httponly' => true,
-        'cookie_secure' => true
+        'cookie_secure' => true,
     ]);
 }
+require_once(__DIR__ . '/../../constants.php');
 // echo "++++----------------------------------------------------------<br>".$_SERVER['DOCUMENT_ROOT'];
 // echo "++++----------------------------------------------------------<br>".realpath(__DIR__.'/../includes/db.php');
 
-include_once(__DIR__ . '/../includes/db.php');
+include_once __DIR__ . '/../includes/db.php';
 //echo "++++----------------------------------------------------------<br>".dirname(__DIR__.'/sendmailController.php');
-require(__DIR__ . '/sendmailController.php');
+require __DIR__ . '/sendmailController.php';
 
 $errors = array();
 if (isset($_POST['register'])) {
@@ -20,7 +21,8 @@ if (isset($_POST['register'])) {
         $username = test_input($_POST['username']);
         if (validate_username($username) == false) {
             $errors['username'] = "invalid username .<br> [a-z, A-Z, 0-9, _ ] only valid .";
-        };
+        }
+        ;
         //echo $username.'<br>';
     }
     if (empty($_POST['password'])) {
@@ -50,7 +52,6 @@ if (isset($_POST['register'])) {
         // echo $phone.'<br>';
     }
 
-
     if (count($errors) == 0) {
         $token = bin2hex(random_bytes(50));
         $check_qeury = "SELECT * FROM `users` WHERE `username` ='$username'  OR `email`='$email';";
@@ -68,7 +69,8 @@ if (isset($_POST['register'])) {
                 $q = "INSERT into `usr_pass`(user_id,password)VALUES('$con->insert_id', '" . password_hash($password, PASSWORD_DEFAULT) . "')";
                 $result = $con->query($q);
                 if ($result) {
-                    send_verify_link($email, $token);
+                    echo "<a href='//" . $_SERVER['HTTP_HOST'] . "/?v_token=" . $token . "'>Verifiy Email address</a>";
+//                    send_verify_link($email, $token);
                     $_SESSION['action'] = true;
                     $_SESSION['option'] = 'success';
                     $_SESSION['message'] = "Successfully registerd <br> please check your email to verify your account";
@@ -102,14 +104,11 @@ if (isset($_GET['v_token']) && !empty($_GET['v_token'])) {
         $_SESSION['option'] = 'success';
         $_SESSION['message'] = "Your Account has been verified successfully.";
 
-
         //     <script>
         //     setTimeout(function () {
         //        window.location = '/users/myaccount.php';
         //     }, 5000);
         //  </script>
-
-
     }
 }
 
@@ -131,7 +130,6 @@ if (isset($_POST['login'])) {
             if (password_verify($password, $r['password'])) {
                 $_SESSION["auth"] = 'user';
                 $_SESSION['username'] = $username;
-
 
                 header("Location: /users/myaccount.php");
 

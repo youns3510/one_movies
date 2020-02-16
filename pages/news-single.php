@@ -15,7 +15,7 @@
             <div class="agileits-news-top">
                 <ol class="breadcrumb">
                     <li><a href="/">Home</a></li>
-                    <li><a href="<?php echo $host; ?>pages/news.php">News</a></li>
+                    <li><a href="<?php echo HOST; ?>pages/news.php">News</a></li>
                     <li class="active">Single</li>
                 </ol>
             </div>
@@ -23,7 +23,7 @@
                 <div class="col-md-8 wthree-top-news-left">
                     <div class="wthree-news-left">
                         <div class="wthree-news-left-img">
-                            <img src="<?php echo $host; ?>partials/images/7.jpg" alt=""/>
+                            <img src="<?php echo HOST; ?>partials/images/7.jpg" alt=""/>
                             <h4>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tristique mattis fermentum.
                                 Etiam semper aliquet massa, id tempus massa mattis eget.</h4>
                             <div class="s-author">
@@ -108,11 +108,11 @@
                         <div class="wthree-news-top-left">
                             <div class="col-md-6 w3-agileits-news-left">
                                 <div class="col-sm-5 wthree-news-img">
-                                    <a href="<?php echo $host; ?>pages/single.php"><img
-                                                src="<?php echo $host; ?>partials/images/m1.jpg" alt=""/></a>
+                                    <a href="<?php echo HOST; ?>pages/single.php"><img
+                                                src="<?php echo HOST; ?>partials/images/m1.jpg" alt=""/></a>
                                 </div>
                                 <div class="col-sm-7 wthree-news-info">
-                                    <h5><a href="<?php echo $host; ?>pages/single.php">Lorem ipsum dolor sit amet,
+                                    <h5><a href="<?php echo HOST; ?>pages/single.php">Lorem ipsum dolor sit amet,
                                             consectetur adipiscing elit.</a></h5>
                                     <p>Sed tristique mattis fermentum. Etiam semper aliquet massa, id tempus massa
                                         mattis eget.</p>
@@ -125,11 +125,11 @@
                             </div>
                             <div class="col-md-6 w3-agileits-news-left">
                                 <div class="col-sm-5 wthree-news-img">
-                                    <a href="<?php echo $host; ?>pages/single.php"><img
-                                                src="<?php echo $host; ?>partials/images/m2.jpg" alt=""/></a>
+                                    <a href="<?php echo HOST; ?>pages/single.php"><img
+                                                src="<?php echo HOST; ?>partials/images/m2.jpg" alt=""/></a>
                                 </div>
                                 <div class="col-sm-7 wthree-news-info">
-                                    <h5><a href="<?php echo $host; ?>pages/single.php">Lorem ipsum dolor sit amet,
+                                    <h5><a href="<?php echo HOST; ?>pages/single.php">Lorem ipsum dolor sit amet,
                                             consectetur adipiscing elit.</a></h5>
                                     <p>Sed tristique mattis fermentum. Etiam semper aliquet massa, id tempus massa
                                         mattis eget.</p>
@@ -168,57 +168,57 @@
                                 <div id="design" class="date">
                                     <div id="cycler">
                                         <div class="date-text">
-                                            <a href="<?php echo $host; ?>pages/single.php">August 15,2016</a>
+                                            <a href="<?php echo HOST; ?>pages/single.php">August 15,2016</a>
                                             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
                                         </div>
                                         <div class="date-text">
-                                            <a href="<?php echo $host; ?>pages/single.php">July 08,2016 <span
+                                            <a href="<?php echo HOST; ?>pages/single.php">July 08,2016 <span
                                                         class="blinking"><img
-                                                            src="<?php echo $host; ?>partials/images/new.png"
+                                                            src="<?php echo HOST; ?>partials/images/new.png"
                                                             alt=""/></span></a>
                                             <p>Nullam non turpis sit amet metus tristique egestas et et orci.</p>
                                         </div>
                                         <div class="date-text">
-                                            <a href="<?php echo $host; ?>pages/single.php">February 15,2016</a>
+                                            <a href="<?php echo HOST; ?>pages/single.php">February 15,2016</a>
                                             <p>Duis venenatis ac ipsum vel ultricies in placerat quam</p>
                                         </div>
                                         <div class="date-text">
-                                            <a href="<?php echo $host; ?>pages/single.php">January 15,2016 <span
+                                            <a href="<?php echo HOST; ?>pages/single.php">January 15,2016 <span
                                                         class="blinking"><img
-                                                            src="<?php echo $host; ?>partials/images/new.png"
+                                                            src="<?php echo HOST; ?>partials/images/new.png"
                                                             alt=""/></span></a>
                                             <p>Pellentesque ullamcorper fringilla ipsum, ornare dapibus velit volutpat
                                                 sit amet.</p>
                                         </div>
                                         <div class="date-text">
-                                            <a href="<?php echo $host; ?>pages/single.php">September 24,2016</a>
+                                            <a href="<?php echo HOST; ?>pages/single.php">September 24,2016</a>
                                             <p>In lobortis ipsum mi, ac imperdiet elit pellentesque at.</p>
                                         </div>
                                         <div class="date-text">
-                                            <a href="<?php echo $host; ?>pages/single.php">August 15,2016</a>
+                                            <a href="<?php echo HOST; ?>pages/single.php">August 15,2016</a>
                                             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
                                         </div>
                                         <div class="date-text">
-                                            <a href="<?php echo $host; ?>pages/single.php">July 08,2016 <span
+                                            <a href="<?php echo HOST; ?>pages/single.php">July 08,2016 <span
                                                         class="blinking"><img
-                                                            src="<?php echo $host; ?>partials/images/new.png"
+                                                            src="<?php echo HOST; ?>partials/images/new.png"
                                                             alt=""/></span></a>
                                             <p>Nullam non turpis sit amet metus tristique egestas et et orci.</p>
                                         </div>
                                         <div class="date-text">
-                                            <a href="<?php echo $host; ?>pages/single.php">February 15,2016</a>
+                                            <a href="<?php echo HOST; ?>pages/single.php">February 15,2016</a>
                                             <p>Duis venenatis ac ipsum vel ultricies in placerat quam</p>
                                         </div>
                                         <div class="date-text">
-                                            <a href="<?php echo $host; ?>pages/single.php">January 15,2016 <span
+                                            <a href="<?php echo HOST; ?>pages/single.php">January 15,2016 <span
                                                         class="blinking"><img
-                                                            src="<?php echo $host; ?>partials/images/new.png"
+                                                            src="<?php echo HOST; ?>partials/images/new.png"
                                                             alt=""/></span></a>
                                             <p>Pellentesque ullamcorper fringilla ipsum, ornare dapibus velit volutpat
                                                 sit amet.</p>
                                         </div>
                                         <div class="date-text">
-                                            <a href="<?php echo $host; ?>pages/single.php">September 24,2016</a>
+                                            <a href="<?php echo HOST; ?>pages/single.php">September 24,2016</a>
                                             <p>In lobortis ipsum mi, ac imperdiet elit pellentesque at.</p>
                                         </div>
                                     </div>
@@ -256,7 +256,7 @@
                             <div class="news-grids-bottom">
                                 <div class="top-news-grid">
                                     <div class="top-news-grid-heading">
-                                        <a href="<?php echo $host; ?>pages/single.php">Lorem ipsum dolor sit amet,
+                                        <a href="<?php echo HOST; ?>pages/single.php">Lorem ipsum dolor sit amet,
                                             consectetur adipiscing elit. Aenean rutrum ac nulla</a>
                                     </div>
                                     <div class="w3ls-news-t-grid top-t-grid">
@@ -268,7 +268,7 @@
                                 </div>
                                 <div class="top-news-grid">
                                     <div class="top-news-grid-heading">
-                                        <a href="<?php echo $host; ?>pages/single.php">Duis orci enim, rutrum vel
+                                        <a href="<?php echo HOST; ?>pages/single.php">Duis orci enim, rutrum vel
                                             sodales ut, tincidunt nec turpis.</a>
                                     </div>
                                     <div class="w3ls-news-t-grid top-t-grid">
@@ -280,7 +280,7 @@
                                 </div>
                                 <div class="top-news-grid">
                                     <div class="top-news-grid-heading">
-                                        <a href="<?php echo $host; ?>pages/single.php">Lorem ipsum dolor sit amet,
+                                        <a href="<?php echo HOST; ?>pages/single.php">Lorem ipsum dolor sit amet,
                                             consectetur adipiscing elit. Aenean rutrum ac nulla</a>
                                     </div>
                                     <div class="w3ls-news-t-grid top-t-grid">
@@ -292,7 +292,7 @@
                                 </div>
                                 <div class="top-news-grid">
                                     <div class="top-news-grid-heading">
-                                        <a href="<?php echo $host; ?>pages/single.php">Duis orci enim, rutrum vel
+                                        <a href="<?php echo HOST; ?>pages/single.php">Duis orci enim, rutrum vel
                                             sodales ut, tincidunt nec turpis.</a>
                                     </div>
                                     <div class="w3ls-news-t-grid top-t-grid">
@@ -316,13 +316,13 @@
                 <!-- /latest-movies -->
                 <div class="browse-inner">
                     <div class="col-md-2 w3l-movie-gride-agile">
-                        <a href="<?php echo $host; ?>pages/single.php" class="hvr-shutter-out-horizontal"><img
-                                    src="<?php echo $host; ?>partials/images/m7.jpg" title="album-name" alt=" "/>
+                        <a href="<?php echo HOST; ?>pages/single.php" class="hvr-shutter-out-horizontal"><img
+                                    src="<?php echo HOST; ?>partials/images/m7.jpg" title="album-name" alt=" "/>
                             <div class="w3l-action-icon"><i class="fa fa-play-circle" aria-hidden="true"></i></div>
                         </a>
                         <div class="mid-1">
                             <div class="w3l-movie-text">
-                                <h6><a href="<?php echo $host; ?>pages/single.php">Light B/t Oceans</a></h6>
+                                <h6><a href="<?php echo HOST; ?>pages/single.php">Light B/t Oceans</a></h6>
                             </div>
                             <div class="mid-2">
 
@@ -347,13 +347,13 @@
                         </div>
                     </div>
                     <div class="col-md-2 w3l-movie-gride-agile">
-                        <a href="<?php echo $host; ?>pages/single.php" class="hvr-shutter-out-horizontal"><img
-                                    src="<?php echo $host; ?>partials/images/m8.jpg" title="album-name" alt=" "/>
+                        <a href="<?php echo HOST; ?>pages/single.php" class="hvr-shutter-out-horizontal"><img
+                                    src="<?php echo HOST; ?>partials/images/m8.jpg" title="album-name" alt=" "/>
                             <div class="w3l-action-icon"><i class="fa fa-play-circle" aria-hidden="true"></i></div>
                         </a>
                         <div class="mid-1">
                             <div class="w3l-movie-text">
-                                <h6><a href="<?php echo $host; ?>pages/single.php">The BFG</a></h6>
+                                <h6><a href="<?php echo HOST; ?>pages/single.php">The BFG</a></h6>
                             </div>
                             <div class="mid-2">
 
@@ -378,13 +378,13 @@
                         </div>
                     </div>
                     <div class="col-md-2 w3l-movie-gride-agile">
-                        <a href="<?php echo $host; ?>pages/single.php" class="hvr-shutter-out-horizontal"><img
-                                    src="<?php echo $host; ?>partials/images/m9.jpg" title="album-name" alt=" "/>
+                        <a href="<?php echo HOST; ?>pages/single.php" class="hvr-shutter-out-horizontal"><img
+                                    src="<?php echo HOST; ?>partials/images/m9.jpg" title="album-name" alt=" "/>
                             <div class="w3l-action-icon"><i class="fa fa-play-circle" aria-hidden="true"></i></div>
                         </a>
                         <div class="mid-1">
                             <div class="w3l-movie-text">
-                                <h6><a href="<?php echo $host; ?>pages/single.php">Central Intelligence</a></h6>
+                                <h6><a href="<?php echo HOST; ?>pages/single.php">Central Intelligence</a></h6>
                             </div>
                             <div class="mid-2">
 
@@ -409,13 +409,13 @@
                         </div>
                     </div>
                     <div class="col-md-2 w3l-movie-gride-agile">
-                        <a href="<?php echo $host; ?>pages/single.php" class="hvr-shutter-out-horizontal"><img
-                                    src="<?php echo $host; ?>partials/images/m10.jpg" title="album-name" alt=" "/>
+                        <a href="<?php echo HOST; ?>pages/single.php" class="hvr-shutter-out-horizontal"><img
+                                    src="<?php echo HOST; ?>partials/images/m10.jpg" title="album-name" alt=" "/>
                             <div class="w3l-action-icon"><i class="fa fa-play-circle" aria-hidden="true"></i></div>
                         </a>
                         <div class="mid-1">
                             <div class="w3l-movie-text">
-                                <h6><a href="<?php echo $host; ?>pages/single.php">Don't Think Twice</a></h6>
+                                <h6><a href="<?php echo HOST; ?>pages/single.php">Don't Think Twice</a></h6>
                             </div>
                             <div class="mid-2">
 
@@ -440,13 +440,13 @@
                         </div>
                     </div>
                     <div class="col-md-2 w3l-movie-gride-agile">
-                        <a href="<?php echo $host; ?>pages/single.php" class="hvr-shutter-out-horizontal"><img
-                                    src="<?php echo $host; ?>partials/images/m11.jpg" title="album-name" alt=" "/>
+                        <a href="<?php echo HOST; ?>pages/single.php" class="hvr-shutter-out-horizontal"><img
+                                    src="<?php echo HOST; ?>partials/images/m11.jpg" title="album-name" alt=" "/>
                             <div class="w3l-action-icon"><i class="fa fa-play-circle" aria-hidden="true"></i></div>
                         </a>
                         <div class="mid-1">
                             <div class="w3l-movie-text">
-                                <h6><a href="<?php echo $host; ?>pages/single.php">X-Men</a></h6>
+                                <h6><a href="<?php echo HOST; ?>pages/single.php">X-Men</a></h6>
                             </div>
                             <div class="mid-2">
 
@@ -471,13 +471,13 @@
                         </div>
                     </div>
                     <div class="col-md-2 w3l-movie-gride-agile">
-                        <a href="<?php echo $host; ?>pages/single.php" class="hvr-shutter-out-horizontal"><img
-                                    src="<?php echo $host; ?>partials/images/m12.jpg" title="album-name" alt=" "/>
+                        <a href="<?php echo HOST; ?>pages/single.php" class="hvr-shutter-out-horizontal"><img
+                                    src="<?php echo HOST; ?>partials/images/m12.jpg" title="album-name" alt=" "/>
                             <div class="w3l-action-icon"><i class="fa fa-play-circle" aria-hidden="true"></i></div>
                         </a>
                         <div class="mid-1">
                             <div class="w3l-movie-text">
-                                <h6><a href="<?php echo $host; ?>pages/single.php">Greater</a></h6>
+                                <h6><a href="<?php echo HOST; ?>pages/single.php">Greater</a></h6>
                             </div>
                             <div class="mid-2">
 

@@ -35,12 +35,12 @@
                                     <div class="wthree-news-top-left">
                                         <div class="col-md-6 w3-agileits-news-left">
                                             <div class="col-sm-5 wthree-news-img">
-                                                <a href="<?php echo $host; ?>pages/single.php"><img
-                                                            src="<?php echo $host; ?>partials/images/m1.jpg"
+                                                <a href="<?php echo HOST; ?>pages/single.php"><img
+                                                            src="<?php echo HOST; ?>partials/images/m1.jpg"
                                                             alt=""/></a>
                                             </div>
                                             <div class="col-sm-7 wthree-news-info">
-                                                <h5><a href="<?php echo $host; ?>pages/single.php">Lorem ipsum dolor sit
+                                                <h5><a href="<?php echo HOST; ?>pages/single.php">Lorem ipsum dolor sit
                                                         amet, consectetur adipiscing elit.</a></h5>
                                                 <p>Sed tristique mattis fermentum. Etiam semper aliquet massa, id tempus
                                                     massa mattis eget.</p>
@@ -53,51 +53,12 @@
                                         </div>
                                         <div class="col-md-6 w3-agileits-news-left">
                                             <div class="col-sm-5 wthree-news-img">
-                                                <a href="<?php echo $host; ?>pages/single.php"><img
-                                                            src="<?php echo $host; ?>partials/images/m2.jpg"
+                                                <a href="<?php echo HOST; ?>pages/single.php"><img
+                                                            src="<?php echo HOST; ?>partials/images/m2.jpg"
                                                             alt=""/></a>
                                             </div>
                                             <div class="col-sm-7 wthree-news-info">
-                                                <h5><a href="<?php echo $host; ?>pages/single.php">Lorem ipsum dolor sit
-                                                        amet, consectetur adipiscing elit.</a></h5>
-                                                <p>Sed tristique mattis fermentum. Etiam semper aliquet massa, id tempus
-                                                    massa mattis eget.</p>
-                                                <ul>
-                                                    <li><i class="fa fa-clock-o" aria-hidden="true"></i> 24/09/2016</li>
-                                                    <li><i class="fa fa-eye" aria-hidden="true"></i> 2642</li>
-                                                </ul>
-                                            </div>
-                                            <div class="clearfix"></div>
-                                        </div>
-                                        <div class="clearfix"></div>
-                                    </div>
-                                    <div class="wthree-news-top-left">
-                                        <div class="col-md-6 w3-agileits-news-left">
-                                            <div class="col-sm-5 wthree-news-img">
-                                                <a href="<?php echo $host; ?>pages/single.php"><img
-                                                            src="<?php echo $host; ?>partials/images/m3.jpg"
-                                                            alt=""/></a>
-                                            </div>
-                                            <div class="col-sm-7 wthree-news-info">
-                                                <h5><a href="<?php echo $host; ?>pages/single.php">Lorem ipsum dolor sit
-                                                        amet, consectetur adipiscing elit.</a></h5>
-                                                <p>Sed tristique mattis fermentum. Etiam semper aliquet massa, id tempus
-                                                    massa mattis eget.</p>
-                                                <ul>
-                                                    <li><i class="fa fa-clock-o" aria-hidden="true"></i> 24/09/2016</li>
-                                                    <li><i class="fa fa-eye" aria-hidden="true"></i> 2642</li>
-                                                </ul>
-                                            </div>
-                                            <div class="clearfix"></div>
-                                        </div>
-                                        <div class="col-md-6 w3-agileits-news-left">
-                                            <div class="col-sm-5 wthree-news-img">
-                                                <a href="<?php echo $host; ?>pages/single.php"><img
-                                                            src="<?php echo $host; ?>partials/images/m4.jpg"
-                                                            alt=""/></a>
-                                            </div>
-                                            <div class="col-sm-7 wthree-news-info">
-                                                <h5><a href="<?php echo $host; ?>pages/single.php">Lorem ipsum dolor sit
+                                                <h5><a href="<?php echo HOST; ?>pages/single.php">Lorem ipsum dolor sit
                                                         amet, consectetur adipiscing elit.</a></h5>
                                                 <p>Sed tristique mattis fermentum. Etiam semper aliquet massa, id tempus
                                                     massa mattis eget.</p>
@@ -113,12 +74,12 @@
                                     <div class="wthree-news-top-left">
                                         <div class="col-md-6 w3-agileits-news-left">
                                             <div class="col-sm-5 wthree-news-img">
-                                                <a href="<?php echo $host; ?>pages/single.php"><img
-                                                            src="<?php echo $host; ?>partials/images/m5.jpg"
+                                                <a href="<?php echo HOST; ?>pages/single.php"><img
+                                                            src="<?php echo HOST; ?>partials/images/m3.jpg"
                                                             alt=""/></a>
                                             </div>
                                             <div class="col-sm-7 wthree-news-info">
-                                                <h5><a href="<?php echo $host; ?>pages/single.php">Lorem ipsum dolor sit
+                                                <h5><a href="<?php echo HOST; ?>pages/single.php">Lorem ipsum dolor sit
                                                         amet, consectetur adipiscing elit.</a></h5>
                                                 <p>Sed tristique mattis fermentum. Etiam semper aliquet massa, id tempus
                                                     massa mattis eget.</p>
@@ -131,51 +92,12 @@
                                         </div>
                                         <div class="col-md-6 w3-agileits-news-left">
                                             <div class="col-sm-5 wthree-news-img">
-                                                <a href="<?php echo $host; ?>pages/single.php"><img
-                                                            src="<?php echo $host; ?>partials/images/m6.jpg"
+                                                <a href="<?php echo HOST; ?>pages/single.php"><img
+                                                            src="<?php echo HOST; ?>partials/images/m4.jpg"
                                                             alt=""/></a>
                                             </div>
                                             <div class="col-sm-7 wthree-news-info">
-                                                <h5><a href="<?php echo $host; ?>pages/single.php">Lorem ipsum dolor sit
-                                                        amet, consectetur adipiscing elit.</a></h5>
-                                                <p>Sed tristique mattis fermentum. Etiam semper aliquet massa, id tempus
-                                                    massa mattis eget.</p>
-                                                <ul>
-                                                    <li><i class="fa fa-clock-o" aria-hidden="true"></i> 24/09/2016</li>
-                                                    <li><i class="fa fa-eye" aria-hidden="true"></i> 2642</li>
-                                                </ul>
-                                            </div>
-                                            <div class="clearfix"></div>
-                                        </div>
-                                        <div class="clearfix"></div>
-                                    </div>
-                                    <div class="wthree-news-top-left">
-                                        <div class="col-md-6 w3-agileits-news-left">
-                                            <div class="col-sm-5 wthree-news-img">
-                                                <a href="<?php echo $host; ?>pages/single.php"><img
-                                                            src="<?php echo $host; ?>partials/images/m7.jpg"
-                                                            alt=""/></a>
-                                            </div>
-                                            <div class="col-sm-7 wthree-news-info">
-                                                <h5><a href="<?php echo $host; ?>pages/single.php">Lorem ipsum dolor sit
-                                                        amet, consectetur adipiscing elit.</a></h5>
-                                                <p>Sed tristique mattis fermentum. Etiam semper aliquet massa, id tempus
-                                                    massa mattis eget.</p>
-                                                <ul>
-                                                    <li><i class="fa fa-clock-o" aria-hidden="true"></i> 24/09/2016</li>
-                                                    <li><i class="fa fa-eye" aria-hidden="true"></i> 2642</li>
-                                                </ul>
-                                            </div>
-                                            <div class="clearfix"></div>
-                                        </div>
-                                        <div class="col-md-6 w3-agileits-news-left">
-                                            <div class="col-sm-5 wthree-news-img">
-                                                <a href="<?php echo $host; ?>pages/single.php"><img
-                                                            src="<?php echo $host; ?>partials/images/m8.jpg"
-                                                            alt=""/></a>
-                                            </div>
-                                            <div class="col-sm-7 wthree-news-info">
-                                                <h5><a href="<?php echo $host; ?>pages/single.php">Lorem ipsum dolor sit
+                                                <h5><a href="<?php echo HOST; ?>pages/single.php">Lorem ipsum dolor sit
                                                         amet, consectetur adipiscing elit.</a></h5>
                                                 <p>Sed tristique mattis fermentum. Etiam semper aliquet massa, id tempus
                                                     massa mattis eget.</p>
@@ -191,12 +113,12 @@
                                     <div class="wthree-news-top-left">
                                         <div class="col-md-6 w3-agileits-news-left">
                                             <div class="col-sm-5 wthree-news-img">
-                                                <a href="<?php echo $host; ?>pages/single.php"><img
-                                                            src="<?php echo $host; ?>partials/images/m9.jpg"
+                                                <a href="<?php echo HOST; ?>pages/single.php"><img
+                                                            src="<?php echo HOST; ?>partials/images/m5.jpg"
                                                             alt=""/></a>
                                             </div>
                                             <div class="col-sm-7 wthree-news-info">
-                                                <h5><a href="<?php echo $host; ?>pages/single.php">Lorem ipsum dolor sit
+                                                <h5><a href="<?php echo HOST; ?>pages/single.php">Lorem ipsum dolor sit
                                                         amet, consectetur adipiscing elit.</a></h5>
                                                 <p>Sed tristique mattis fermentum. Etiam semper aliquet massa, id tempus
                                                     massa mattis eget.</p>
@@ -209,51 +131,12 @@
                                         </div>
                                         <div class="col-md-6 w3-agileits-news-left">
                                             <div class="col-sm-5 wthree-news-img">
-                                                <a href="<?php echo $host; ?>pages/single.php"><img
-                                                            src="<?php echo $host; ?>partials/images/m10.jpg"
+                                                <a href="<?php echo HOST; ?>pages/single.php"><img
+                                                            src="<?php echo HOST; ?>partials/images/m6.jpg"
                                                             alt=""/></a>
                                             </div>
                                             <div class="col-sm-7 wthree-news-info">
-                                                <h5><a href="<?php echo $host; ?>pages/single.php">Lorem ipsum dolor sit
-                                                        amet, consectetur adipiscing elit.</a></h5>
-                                                <p>Sed tristique mattis fermentum. Etiam semper aliquet massa, id tempus
-                                                    massa mattis eget.</p>
-                                                <ul>
-                                                    <li><i class="fa fa-clock-o" aria-hidden="true"></i> 24/09/2016</li>
-                                                    <li><i class="fa fa-eye" aria-hidden="true"></i> 2642</li>
-                                                </ul>
-                                            </div>
-                                            <div class="clearfix"></div>
-                                        </div>
-                                        <div class="clearfix"></div>
-                                    </div>
-                                    <div class="wthree-news-top-left">
-                                        <div class="col-md-6 w3-agileits-news-left">
-                                            <div class="col-sm-5 wthree-news-img">
-                                                <a href="<?php echo $host; ?>pages/single.php"><img
-                                                            src="<?php echo $host; ?>partials/images/m11.jpg"
-                                                            alt=""/></a>
-                                            </div>
-                                            <div class="col-sm-7 wthree-news-info">
-                                                <h5><a href="<?php echo $host; ?>pages/single.php">Lorem ipsum dolor sit
-                                                        amet, consectetur adipiscing elit.</a></h5>
-                                                <p>Sed tristique mattis fermentum. Etiam semper aliquet massa, id tempus
-                                                    massa mattis eget.</p>
-                                                <ul>
-                                                    <li><i class="fa fa-clock-o" aria-hidden="true"></i> 24/09/2016</li>
-                                                    <li><i class="fa fa-eye" aria-hidden="true"></i> 2642</li>
-                                                </ul>
-                                            </div>
-                                            <div class="clearfix"></div>
-                                        </div>
-                                        <div class="col-md-6 w3-agileits-news-left">
-                                            <div class="col-sm-5 wthree-news-img">
-                                                <a href="<?php echo $host; ?>pages/single.php"><img
-                                                            src="<?php echo $host; ?>partials/images/m12.jpg"
-                                                            alt=""/></a>
-                                            </div>
-                                            <div class="col-sm-7 wthree-news-info">
-                                                <h5><a href="<?php echo $host; ?>pages/single.php">Lorem ipsum dolor sit
+                                                <h5><a href="<?php echo HOST; ?>pages/single.php">Lorem ipsum dolor sit
                                                         amet, consectetur adipiscing elit.</a></h5>
                                                 <p>Sed tristique mattis fermentum. Etiam semper aliquet massa, id tempus
                                                     massa mattis eget.</p>
@@ -269,12 +152,12 @@
                                     <div class="wthree-news-top-left">
                                         <div class="col-md-6 w3-agileits-news-left">
                                             <div class="col-sm-5 wthree-news-img">
-                                                <a href="<?php echo $host; ?>pages/single.php"><img
-                                                            src="<?php echo $host; ?>partials/images/m13.jpg"
+                                                <a href="<?php echo HOST; ?>pages/single.php"><img
+                                                            src="<?php echo HOST; ?>partials/images/m7.jpg"
                                                             alt=""/></a>
                                             </div>
                                             <div class="col-sm-7 wthree-news-info">
-                                                <h5><a href="<?php echo $host; ?>pages/single.php">Lorem ipsum dolor sit
+                                                <h5><a href="<?php echo HOST; ?>pages/single.php">Lorem ipsum dolor sit
                                                         amet, consectetur adipiscing elit.</a></h5>
                                                 <p>Sed tristique mattis fermentum. Etiam semper aliquet massa, id tempus
                                                     massa mattis eget.</p>
@@ -287,12 +170,12 @@
                                         </div>
                                         <div class="col-md-6 w3-agileits-news-left">
                                             <div class="col-sm-5 wthree-news-img">
-                                                <a href="<?php echo $host; ?>pages/single.php"><img
-                                                            src="<?php echo $host; ?>partials/images/m14.jpg"
+                                                <a href="<?php echo HOST; ?>pages/single.php"><img
+                                                            src="<?php echo HOST; ?>partials/images/m8.jpg"
                                                             alt=""/></a>
                                             </div>
                                             <div class="col-sm-7 wthree-news-info">
-                                                <h5><a href="<?php echo $host; ?>pages/single.php">Lorem ipsum dolor sit
+                                                <h5><a href="<?php echo HOST; ?>pages/single.php">Lorem ipsum dolor sit
                                                         amet, consectetur adipiscing elit.</a></h5>
                                                 <p>Sed tristique mattis fermentum. Etiam semper aliquet massa, id tempus
                                                     massa mattis eget.</p>
@@ -308,12 +191,12 @@
                                     <div class="wthree-news-top-left">
                                         <div class="col-md-6 w3-agileits-news-left">
                                             <div class="col-sm-5 wthree-news-img">
-                                                <a href="<?php echo $host; ?>pages/single.php"><img
-                                                            src="<?php echo $host; ?>partials/images/m15.jpg"
+                                                <a href="<?php echo HOST; ?>pages/single.php"><img
+                                                            src="<?php echo HOST; ?>partials/images/m9.jpg"
                                                             alt=""/></a>
                                             </div>
                                             <div class="col-sm-7 wthree-news-info">
-                                                <h5><a href="<?php echo $host; ?>pages/single.php">Lorem ipsum dolor sit
+                                                <h5><a href="<?php echo HOST; ?>pages/single.php">Lorem ipsum dolor sit
                                                         amet, consectetur adipiscing elit.</a></h5>
                                                 <p>Sed tristique mattis fermentum. Etiam semper aliquet massa, id tempus
                                                     massa mattis eget.</p>
@@ -326,12 +209,129 @@
                                         </div>
                                         <div class="col-md-6 w3-agileits-news-left">
                                             <div class="col-sm-5 wthree-news-img">
-                                                <a href="<?php echo $host; ?>pages/single.php"><img
-                                                            src="<?php echo $host; ?>partials/images/m16.jpg"
+                                                <a href="<?php echo HOST; ?>pages/single.php"><img
+                                                            src="<?php echo HOST; ?>partials/images/m10.jpg"
                                                             alt=""/></a>
                                             </div>
                                             <div class="col-sm-7 wthree-news-info">
-                                                <h5><a href="<?php echo $host; ?>pages/single.php">Lorem ipsum dolor sit
+                                                <h5><a href="<?php echo HOST; ?>pages/single.php">Lorem ipsum dolor sit
+                                                        amet, consectetur adipiscing elit.</a></h5>
+                                                <p>Sed tristique mattis fermentum. Etiam semper aliquet massa, id tempus
+                                                    massa mattis eget.</p>
+                                                <ul>
+                                                    <li><i class="fa fa-clock-o" aria-hidden="true"></i> 24/09/2016</li>
+                                                    <li><i class="fa fa-eye" aria-hidden="true"></i> 2642</li>
+                                                </ul>
+                                            </div>
+                                            <div class="clearfix"></div>
+                                        </div>
+                                        <div class="clearfix"></div>
+                                    </div>
+                                    <div class="wthree-news-top-left">
+                                        <div class="col-md-6 w3-agileits-news-left">
+                                            <div class="col-sm-5 wthree-news-img">
+                                                <a href="<?php echo HOST; ?>pages/single.php"><img
+                                                            src="<?php echo HOST; ?>partials/images/m11.jpg"
+                                                            alt=""/></a>
+                                            </div>
+                                            <div class="col-sm-7 wthree-news-info">
+                                                <h5><a href="<?php echo HOST; ?>pages/single.php">Lorem ipsum dolor sit
+                                                        amet, consectetur adipiscing elit.</a></h5>
+                                                <p>Sed tristique mattis fermentum. Etiam semper aliquet massa, id tempus
+                                                    massa mattis eget.</p>
+                                                <ul>
+                                                    <li><i class="fa fa-clock-o" aria-hidden="true"></i> 24/09/2016</li>
+                                                    <li><i class="fa fa-eye" aria-hidden="true"></i> 2642</li>
+                                                </ul>
+                                            </div>
+                                            <div class="clearfix"></div>
+                                        </div>
+                                        <div class="col-md-6 w3-agileits-news-left">
+                                            <div class="col-sm-5 wthree-news-img">
+                                                <a href="<?php echo HOST; ?>pages/single.php"><img
+                                                            src="<?php echo HOST; ?>partials/images/m12.jpg"
+                                                            alt=""/></a>
+                                            </div>
+                                            <div class="col-sm-7 wthree-news-info">
+                                                <h5><a href="<?php echo HOST; ?>pages/single.php">Lorem ipsum dolor sit
+                                                        amet, consectetur adipiscing elit.</a></h5>
+                                                <p>Sed tristique mattis fermentum. Etiam semper aliquet massa, id tempus
+                                                    massa mattis eget.</p>
+                                                <ul>
+                                                    <li><i class="fa fa-clock-o" aria-hidden="true"></i> 24/09/2016</li>
+                                                    <li><i class="fa fa-eye" aria-hidden="true"></i> 2642</li>
+                                                </ul>
+                                            </div>
+                                            <div class="clearfix"></div>
+                                        </div>
+                                        <div class="clearfix"></div>
+                                    </div>
+                                    <div class="wthree-news-top-left">
+                                        <div class="col-md-6 w3-agileits-news-left">
+                                            <div class="col-sm-5 wthree-news-img">
+                                                <a href="<?php echo HOST; ?>pages/single.php"><img
+                                                            src="<?php echo HOST; ?>partials/images/m13.jpg"
+                                                            alt=""/></a>
+                                            </div>
+                                            <div class="col-sm-7 wthree-news-info">
+                                                <h5><a href="<?php echo HOST; ?>pages/single.php">Lorem ipsum dolor sit
+                                                        amet, consectetur adipiscing elit.</a></h5>
+                                                <p>Sed tristique mattis fermentum. Etiam semper aliquet massa, id tempus
+                                                    massa mattis eget.</p>
+                                                <ul>
+                                                    <li><i class="fa fa-clock-o" aria-hidden="true"></i> 24/09/2016</li>
+                                                    <li><i class="fa fa-eye" aria-hidden="true"></i> 2642</li>
+                                                </ul>
+                                            </div>
+                                            <div class="clearfix"></div>
+                                        </div>
+                                        <div class="col-md-6 w3-agileits-news-left">
+                                            <div class="col-sm-5 wthree-news-img">
+                                                <a href="<?php echo HOST; ?>pages/single.php"><img
+                                                            src="<?php echo HOST; ?>partials/images/m14.jpg"
+                                                            alt=""/></a>
+                                            </div>
+                                            <div class="col-sm-7 wthree-news-info">
+                                                <h5><a href="<?php echo HOST; ?>pages/single.php">Lorem ipsum dolor sit
+                                                        amet, consectetur adipiscing elit.</a></h5>
+                                                <p>Sed tristique mattis fermentum. Etiam semper aliquet massa, id tempus
+                                                    massa mattis eget.</p>
+                                                <ul>
+                                                    <li><i class="fa fa-clock-o" aria-hidden="true"></i> 24/09/2016</li>
+                                                    <li><i class="fa fa-eye" aria-hidden="true"></i> 2642</li>
+                                                </ul>
+                                            </div>
+                                            <div class="clearfix"></div>
+                                        </div>
+                                        <div class="clearfix"></div>
+                                    </div>
+                                    <div class="wthree-news-top-left">
+                                        <div class="col-md-6 w3-agileits-news-left">
+                                            <div class="col-sm-5 wthree-news-img">
+                                                <a href="<?php echo HOST; ?>pages/single.php"><img
+                                                            src="<?php echo HOST; ?>partials/images/m15.jpg"
+                                                            alt=""/></a>
+                                            </div>
+                                            <div class="col-sm-7 wthree-news-info">
+                                                <h5><a href="<?php echo HOST; ?>pages/single.php">Lorem ipsum dolor sit
+                                                        amet, consectetur adipiscing elit.</a></h5>
+                                                <p>Sed tristique mattis fermentum. Etiam semper aliquet massa, id tempus
+                                                    massa mattis eget.</p>
+                                                <ul>
+                                                    <li><i class="fa fa-clock-o" aria-hidden="true"></i> 24/09/2016</li>
+                                                    <li><i class="fa fa-eye" aria-hidden="true"></i> 2642</li>
+                                                </ul>
+                                            </div>
+                                            <div class="clearfix"></div>
+                                        </div>
+                                        <div class="col-md-6 w3-agileits-news-left">
+                                            <div class="col-sm-5 wthree-news-img">
+                                                <a href="<?php echo HOST; ?>pages/single.php"><img
+                                                            src="<?php echo HOST; ?>partials/images/m16.jpg"
+                                                            alt=""/></a>
+                                            </div>
+                                            <div class="col-sm-7 wthree-news-info">
+                                                <h5><a href="<?php echo HOST; ?>pages/single.php">Lorem ipsum dolor sit
                                                         amet, consectetur adipiscing elit.</a></h5>
                                                 <p>Sed tristique mattis fermentum. Etiam semper aliquet massa, id tempus
                                                     massa mattis eget.</p>
@@ -349,12 +349,12 @@
                                     <div class="wthree-news-top-left">
                                         <div class="col-md-6 w3-agileits-news-left">
                                             <div class="col-sm-5 wthree-news-img">
-                                                <a href="<?php echo $host; ?>pages/single.php"><img
-                                                            src="<?php echo $host; ?>partials/images/m17.jpg"
+                                                <a href="<?php echo HOST; ?>pages/single.php"><img
+                                                            src="<?php echo HOST; ?>partials/images/m17.jpg"
                                                             alt=""/></a>
                                             </div>
                                             <div class="col-sm-7 wthree-news-info">
-                                                <h5><a href="<?php echo $host; ?>pages/single.php">Lorem ipsum dolor sit
+                                                <h5><a href="<?php echo HOST; ?>pages/single.php">Lorem ipsum dolor sit
                                                         amet, consectetur adipiscing elit.</a></h5>
                                                 <p>Sed tristique mattis fermentum. Etiam semper aliquet massa, id tempus
                                                     massa mattis eget.</p>
@@ -367,51 +367,12 @@
                                         </div>
                                         <div class="col-md-6 w3-agileits-news-left">
                                             <div class="col-sm-5 wthree-news-img">
-                                                <a href="<?php echo $host; ?>pages/single.php"><img
-                                                            src="<?php echo $host; ?>partials/images/m18.jpg"
+                                                <a href="<?php echo HOST; ?>pages/single.php"><img
+                                                            src="<?php echo HOST; ?>partials/images/m18.jpg"
                                                             alt=""/></a>
                                             </div>
                                             <div class="col-sm-7 wthree-news-info">
-                                                <h5><a href="<?php echo $host; ?>pages/single.php">Lorem ipsum dolor sit
-                                                        amet, consectetur adipiscing elit.</a></h5>
-                                                <p>Sed tristique mattis fermentum. Etiam semper aliquet massa, id tempus
-                                                    massa mattis eget.</p>
-                                                <ul>
-                                                    <li><i class="fa fa-clock-o" aria-hidden="true"></i> 24/09/2016</li>
-                                                    <li><i class="fa fa-eye" aria-hidden="true"></i> 2642</li>
-                                                </ul>
-                                            </div>
-                                            <div class="clearfix"></div>
-                                        </div>
-                                        <div class="clearfix"></div>
-                                    </div>
-                                    <div class="wthree-news-top-left">
-                                        <div class="col-md-6 w3-agileits-news-left">
-                                            <div class="col-sm-5 wthree-news-img">
-                                                <a href="<?php echo $host; ?>pages/single.php"><img
-                                                            src="<?php echo $host; ?>partials/images/m19.jpg"
-                                                            alt=""/></a>
-                                            </div>
-                                            <div class="col-sm-7 wthree-news-info">
-                                                <h5><a href="<?php echo $host; ?>pages/single.php">Lorem ipsum dolor sit
-                                                        amet, consectetur adipiscing elit.</a></h5>
-                                                <p>Sed tristique mattis fermentum. Etiam semper aliquet massa, id tempus
-                                                    massa mattis eget.</p>
-                                                <ul>
-                                                    <li><i class="fa fa-clock-o" aria-hidden="true"></i> 24/09/2016</li>
-                                                    <li><i class="fa fa-eye" aria-hidden="true"></i> 2642</li>
-                                                </ul>
-                                            </div>
-                                            <div class="clearfix"></div>
-                                        </div>
-                                        <div class="col-md-6 w3-agileits-news-left">
-                                            <div class="col-sm-5 wthree-news-img">
-                                                <a href="<?php echo $host; ?>pages/single.php"><img
-                                                            src="<?php echo $host; ?>partials/images/m20.jpg"
-                                                            alt=""/></a>
-                                            </div>
-                                            <div class="col-sm-7 wthree-news-info">
-                                                <h5><a href="<?php echo $host; ?>pages/single.php">Lorem ipsum dolor sit
+                                                <h5><a href="<?php echo HOST; ?>pages/single.php">Lorem ipsum dolor sit
                                                         amet, consectetur adipiscing elit.</a></h5>
                                                 <p>Sed tristique mattis fermentum. Etiam semper aliquet massa, id tempus
                                                     massa mattis eget.</p>
@@ -427,12 +388,12 @@
                                     <div class="wthree-news-top-left">
                                         <div class="col-md-6 w3-agileits-news-left">
                                             <div class="col-sm-5 wthree-news-img">
-                                                <a href="<?php echo $host; ?>pages/single.php"><img
-                                                            src="<?php echo $host; ?>partials/images/m21.jpg"
+                                                <a href="<?php echo HOST; ?>pages/single.php"><img
+                                                            src="<?php echo HOST; ?>partials/images/m19.jpg"
                                                             alt=""/></a>
                                             </div>
                                             <div class="col-sm-7 wthree-news-info">
-                                                <h5><a href="<?php echo $host; ?>pages/single.php">Lorem ipsum dolor sit
+                                                <h5><a href="<?php echo HOST; ?>pages/single.php">Lorem ipsum dolor sit
                                                         amet, consectetur adipiscing elit.</a></h5>
                                                 <p>Sed tristique mattis fermentum. Etiam semper aliquet massa, id tempus
                                                     massa mattis eget.</p>
@@ -445,51 +406,12 @@
                                         </div>
                                         <div class="col-md-6 w3-agileits-news-left">
                                             <div class="col-sm-5 wthree-news-img">
-                                                <a href="<?php echo $host; ?>pages/single.php"><img
-                                                            src="<?php echo $host; ?>partials/images/m22.jpg"
+                                                <a href="<?php echo HOST; ?>pages/single.php"><img
+                                                            src="<?php echo HOST; ?>partials/images/m20.jpg"
                                                             alt=""/></a>
                                             </div>
                                             <div class="col-sm-7 wthree-news-info">
-                                                <h5><a href="<?php echo $host; ?>pages/single.php">Lorem ipsum dolor sit
-                                                        amet, consectetur adipiscing elit.</a></h5>
-                                                <p>Sed tristique mattis fermentum. Etiam semper aliquet massa, id tempus
-                                                    massa mattis eget.</p>
-                                                <ul>
-                                                    <li><i class="fa fa-clock-o" aria-hidden="true"></i> 24/09/2016</li>
-                                                    <li><i class="fa fa-eye" aria-hidden="true"></i> 2642</li>
-                                                </ul>
-                                            </div>
-                                            <div class="clearfix"></div>
-                                        </div>
-                                        <div class="clearfix"></div>
-                                    </div>
-                                    <div class="wthree-news-top-left">
-                                        <div class="col-md-6 w3-agileits-news-left">
-                                            <div class="col-sm-5 wthree-news-img">
-                                                <a href="<?php echo $host; ?>pages/single.php"><img
-                                                            src="<?php echo $host; ?>partials/images/m1.jpg"
-                                                            alt=""/></a>
-                                            </div>
-                                            <div class="col-sm-7 wthree-news-info">
-                                                <h5><a href="<?php echo $host; ?>pages/single.php">Lorem ipsum dolor sit
-                                                        amet, consectetur adipiscing elit.</a></h5>
-                                                <p>Sed tristique mattis fermentum. Etiam semper aliquet massa, id tempus
-                                                    massa mattis eget.</p>
-                                                <ul>
-                                                    <li><i class="fa fa-clock-o" aria-hidden="true"></i> 24/09/2016</li>
-                                                    <li><i class="fa fa-eye" aria-hidden="true"></i> 2642</li>
-                                                </ul>
-                                            </div>
-                                            <div class="clearfix"></div>
-                                        </div>
-                                        <div class="col-md-6 w3-agileits-news-left">
-                                            <div class="col-sm-5 wthree-news-img">
-                                                <a href="<?php echo $host; ?>pages/single.php"><img
-                                                            src="<?php echo $host; ?>partials/images/m2.jpg"
-                                                            alt=""/></a>
-                                            </div>
-                                            <div class="col-sm-7 wthree-news-info">
-                                                <h5><a href="<?php echo $host; ?>pages/single.php">Lorem ipsum dolor sit
+                                                <h5><a href="<?php echo HOST; ?>pages/single.php">Lorem ipsum dolor sit
                                                         amet, consectetur adipiscing elit.</a></h5>
                                                 <p>Sed tristique mattis fermentum. Etiam semper aliquet massa, id tempus
                                                     massa mattis eget.</p>
@@ -505,12 +427,12 @@
                                     <div class="wthree-news-top-left">
                                         <div class="col-md-6 w3-agileits-news-left">
                                             <div class="col-sm-5 wthree-news-img">
-                                                <a href="<?php echo $host; ?>pages/single.php"><img
-                                                            src="<?php echo $host; ?>partials/images/m3.jpg"
+                                                <a href="<?php echo HOST; ?>pages/single.php"><img
+                                                            src="<?php echo HOST; ?>partials/images/m21.jpg"
                                                             alt=""/></a>
                                             </div>
                                             <div class="col-sm-7 wthree-news-info">
-                                                <h5><a href="<?php echo $host; ?>pages/single.php">Lorem ipsum dolor sit
+                                                <h5><a href="<?php echo HOST; ?>pages/single.php">Lorem ipsum dolor sit
                                                         amet, consectetur adipiscing elit.</a></h5>
                                                 <p>Sed tristique mattis fermentum. Etiam semper aliquet massa, id tempus
                                                     massa mattis eget.</p>
@@ -523,51 +445,12 @@
                                         </div>
                                         <div class="col-md-6 w3-agileits-news-left">
                                             <div class="col-sm-5 wthree-news-img">
-                                                <a href="<?php echo $host; ?>pages/single.php"><img
-                                                            src="<?php echo $host; ?>partials/images/m4.jpg"
+                                                <a href="<?php echo HOST; ?>pages/single.php"><img
+                                                            src="<?php echo HOST; ?>partials/images/m22.jpg"
                                                             alt=""/></a>
                                             </div>
                                             <div class="col-sm-7 wthree-news-info">
-                                                <h5><a href="<?php echo $host; ?>pages/single.php">Lorem ipsum dolor sit
-                                                        amet, consectetur adipiscing elit.</a></h5>
-                                                <p>Sed tristique mattis fermentum. Etiam semper aliquet massa, id tempus
-                                                    massa mattis eget.</p>
-                                                <ul>
-                                                    <li><i class="fa fa-clock-o" aria-hidden="true"></i> 24/09/2016</li>
-                                                    <li><i class="fa fa-eye" aria-hidden="true"></i> 2642</li>
-                                                </ul>
-                                            </div>
-                                            <div class="clearfix"></div>
-                                        </div>
-                                        <div class="clearfix"></div>
-                                    </div>
-                                    <div class="wthree-news-top-left">
-                                        <div class="col-md-6 w3-agileits-news-left">
-                                            <div class="col-sm-5 wthree-news-img">
-                                                <a href="<?php echo $host; ?>pages/single.php"><img
-                                                            src="<?php echo $host; ?>partials/images/m5.jpg"
-                                                            alt=""/></a>
-                                            </div>
-                                            <div class="col-sm-7 wthree-news-info">
-                                                <h5><a href="<?php echo $host; ?>pages/single.php">Lorem ipsum dolor sit
-                                                        amet, consectetur adipiscing elit.</a></h5>
-                                                <p>Sed tristique mattis fermentum. Etiam semper aliquet massa, id tempus
-                                                    massa mattis eget.</p>
-                                                <ul>
-                                                    <li><i class="fa fa-clock-o" aria-hidden="true"></i> 24/09/2016</li>
-                                                    <li><i class="fa fa-eye" aria-hidden="true"></i> 2642</li>
-                                                </ul>
-                                            </div>
-                                            <div class="clearfix"></div>
-                                        </div>
-                                        <div class="col-md-6 w3-agileits-news-left">
-                                            <div class="col-sm-5 wthree-news-img">
-                                                <a href="<?php echo $host; ?>pages/single.php"><img
-                                                            src="<?php echo $host; ?>partials/images/m6.jpg"
-                                                            alt=""/></a>
-                                            </div>
-                                            <div class="col-sm-7 wthree-news-info">
-                                                <h5><a href="<?php echo $host; ?>pages/single.php">Lorem ipsum dolor sit
+                                                <h5><a href="<?php echo HOST; ?>pages/single.php">Lorem ipsum dolor sit
                                                         amet, consectetur adipiscing elit.</a></h5>
                                                 <p>Sed tristique mattis fermentum. Etiam semper aliquet massa, id tempus
                                                     massa mattis eget.</p>
@@ -583,12 +466,12 @@
                                     <div class="wthree-news-top-left">
                                         <div class="col-md-6 w3-agileits-news-left">
                                             <div class="col-sm-5 wthree-news-img">
-                                                <a href="<?php echo $host; ?>pages/single.php"><img
-                                                            src="<?php echo $host; ?>partials/images/m7.jpg"
+                                                <a href="<?php echo HOST; ?>pages/single.php"><img
+                                                            src="<?php echo HOST; ?>partials/images/m1.jpg"
                                                             alt=""/></a>
                                             </div>
                                             <div class="col-sm-7 wthree-news-info">
-                                                <h5><a href="<?php echo $host; ?>pages/single.php">Lorem ipsum dolor sit
+                                                <h5><a href="<?php echo HOST; ?>pages/single.php">Lorem ipsum dolor sit
                                                         amet, consectetur adipiscing elit.</a></h5>
                                                 <p>Sed tristique mattis fermentum. Etiam semper aliquet massa, id tempus
                                                     massa mattis eget.</p>
@@ -601,12 +484,129 @@
                                         </div>
                                         <div class="col-md-6 w3-agileits-news-left">
                                             <div class="col-sm-5 wthree-news-img">
-                                                <a href="<?php echo $host; ?>pages/single.php"><img
-                                                            src="<?php echo $host; ?>partials/images/m8.jpg"
+                                                <a href="<?php echo HOST; ?>pages/single.php"><img
+                                                            src="<?php echo HOST; ?>partials/images/m2.jpg"
                                                             alt=""/></a>
                                             </div>
                                             <div class="col-sm-7 wthree-news-info">
-                                                <h5><a href="<?php echo $host; ?>pages/single.php">Lorem ipsum dolor sit
+                                                <h5><a href="<?php echo HOST; ?>pages/single.php">Lorem ipsum dolor sit
+                                                        amet, consectetur adipiscing elit.</a></h5>
+                                                <p>Sed tristique mattis fermentum. Etiam semper aliquet massa, id tempus
+                                                    massa mattis eget.</p>
+                                                <ul>
+                                                    <li><i class="fa fa-clock-o" aria-hidden="true"></i> 24/09/2016</li>
+                                                    <li><i class="fa fa-eye" aria-hidden="true"></i> 2642</li>
+                                                </ul>
+                                            </div>
+                                            <div class="clearfix"></div>
+                                        </div>
+                                        <div class="clearfix"></div>
+                                    </div>
+                                    <div class="wthree-news-top-left">
+                                        <div class="col-md-6 w3-agileits-news-left">
+                                            <div class="col-sm-5 wthree-news-img">
+                                                <a href="<?php echo HOST; ?>pages/single.php"><img
+                                                            src="<?php echo HOST; ?>partials/images/m3.jpg"
+                                                            alt=""/></a>
+                                            </div>
+                                            <div class="col-sm-7 wthree-news-info">
+                                                <h5><a href="<?php echo HOST; ?>pages/single.php">Lorem ipsum dolor sit
+                                                        amet, consectetur adipiscing elit.</a></h5>
+                                                <p>Sed tristique mattis fermentum. Etiam semper aliquet massa, id tempus
+                                                    massa mattis eget.</p>
+                                                <ul>
+                                                    <li><i class="fa fa-clock-o" aria-hidden="true"></i> 24/09/2016</li>
+                                                    <li><i class="fa fa-eye" aria-hidden="true"></i> 2642</li>
+                                                </ul>
+                                            </div>
+                                            <div class="clearfix"></div>
+                                        </div>
+                                        <div class="col-md-6 w3-agileits-news-left">
+                                            <div class="col-sm-5 wthree-news-img">
+                                                <a href="<?php echo HOST; ?>pages/single.php"><img
+                                                            src="<?php echo HOST; ?>partials/images/m4.jpg"
+                                                            alt=""/></a>
+                                            </div>
+                                            <div class="col-sm-7 wthree-news-info">
+                                                <h5><a href="<?php echo HOST; ?>pages/single.php">Lorem ipsum dolor sit
+                                                        amet, consectetur adipiscing elit.</a></h5>
+                                                <p>Sed tristique mattis fermentum. Etiam semper aliquet massa, id tempus
+                                                    massa mattis eget.</p>
+                                                <ul>
+                                                    <li><i class="fa fa-clock-o" aria-hidden="true"></i> 24/09/2016</li>
+                                                    <li><i class="fa fa-eye" aria-hidden="true"></i> 2642</li>
+                                                </ul>
+                                            </div>
+                                            <div class="clearfix"></div>
+                                        </div>
+                                        <div class="clearfix"></div>
+                                    </div>
+                                    <div class="wthree-news-top-left">
+                                        <div class="col-md-6 w3-agileits-news-left">
+                                            <div class="col-sm-5 wthree-news-img">
+                                                <a href="<?php echo HOST; ?>pages/single.php"><img
+                                                            src="<?php echo HOST; ?>partials/images/m5.jpg"
+                                                            alt=""/></a>
+                                            </div>
+                                            <div class="col-sm-7 wthree-news-info">
+                                                <h5><a href="<?php echo HOST; ?>pages/single.php">Lorem ipsum dolor sit
+                                                        amet, consectetur adipiscing elit.</a></h5>
+                                                <p>Sed tristique mattis fermentum. Etiam semper aliquet massa, id tempus
+                                                    massa mattis eget.</p>
+                                                <ul>
+                                                    <li><i class="fa fa-clock-o" aria-hidden="true"></i> 24/09/2016</li>
+                                                    <li><i class="fa fa-eye" aria-hidden="true"></i> 2642</li>
+                                                </ul>
+                                            </div>
+                                            <div class="clearfix"></div>
+                                        </div>
+                                        <div class="col-md-6 w3-agileits-news-left">
+                                            <div class="col-sm-5 wthree-news-img">
+                                                <a href="<?php echo HOST; ?>pages/single.php"><img
+                                                            src="<?php echo HOST; ?>partials/images/m6.jpg"
+                                                            alt=""/></a>
+                                            </div>
+                                            <div class="col-sm-7 wthree-news-info">
+                                                <h5><a href="<?php echo HOST; ?>pages/single.php">Lorem ipsum dolor sit
+                                                        amet, consectetur adipiscing elit.</a></h5>
+                                                <p>Sed tristique mattis fermentum. Etiam semper aliquet massa, id tempus
+                                                    massa mattis eget.</p>
+                                                <ul>
+                                                    <li><i class="fa fa-clock-o" aria-hidden="true"></i> 24/09/2016</li>
+                                                    <li><i class="fa fa-eye" aria-hidden="true"></i> 2642</li>
+                                                </ul>
+                                            </div>
+                                            <div class="clearfix"></div>
+                                        </div>
+                                        <div class="clearfix"></div>
+                                    </div>
+                                    <div class="wthree-news-top-left">
+                                        <div class="col-md-6 w3-agileits-news-left">
+                                            <div class="col-sm-5 wthree-news-img">
+                                                <a href="<?php echo HOST; ?>pages/single.php"><img
+                                                            src="<?php echo HOST; ?>partials/images/m7.jpg"
+                                                            alt=""/></a>
+                                            </div>
+                                            <div class="col-sm-7 wthree-news-info">
+                                                <h5><a href="<?php echo HOST; ?>pages/single.php">Lorem ipsum dolor sit
+                                                        amet, consectetur adipiscing elit.</a></h5>
+                                                <p>Sed tristique mattis fermentum. Etiam semper aliquet massa, id tempus
+                                                    massa mattis eget.</p>
+                                                <ul>
+                                                    <li><i class="fa fa-clock-o" aria-hidden="true"></i> 24/09/2016</li>
+                                                    <li><i class="fa fa-eye" aria-hidden="true"></i> 2642</li>
+                                                </ul>
+                                            </div>
+                                            <div class="clearfix"></div>
+                                        </div>
+                                        <div class="col-md-6 w3-agileits-news-left">
+                                            <div class="col-sm-5 wthree-news-img">
+                                                <a href="<?php echo HOST; ?>pages/single.php"><img
+                                                            src="<?php echo HOST; ?>partials/images/m8.jpg"
+                                                            alt=""/></a>
+                                            </div>
+                                            <div class="col-sm-7 wthree-news-info">
+                                                <h5><a href="<?php echo HOST; ?>pages/single.php">Lorem ipsum dolor sit
                                                         amet, consectetur adipiscing elit.</a></h5>
                                                 <p>Sed tristique mattis fermentum. Etiam semper aliquet massa, id tempus
                                                     massa mattis eget.</p>
@@ -636,57 +636,57 @@
                                 <div id="design" class="date">
                                     <div id="cycler">
                                         <div class="date-text">
-                                            <a href="<?php echo $host; ?>pages/single.php">August 15,2016</a>
+                                            <a href="<?php echo HOST; ?>pages/single.php">August 15,2016</a>
                                             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
                                         </div>
                                         <div class="date-text">
-                                            <a href="<?php echo $host; ?>pages/single.php">July 08,2016 <span
+                                            <a href="<?php echo HOST; ?>pages/single.php">July 08,2016 <span
                                                         class="blinking"><img
-                                                            src="<?php echo $host; ?>partials/images/new.png"
+                                                            src="<?php echo HOST; ?>partials/images/new.png"
                                                             alt=""/></span></a>
                                             <p>Nullam non turpis sit amet metus tristique egestas et et orci.</p>
                                         </div>
                                         <div class="date-text">
-                                            <a href="<?php echo $host; ?>pages/single.php">February 15,2016</a>
+                                            <a href="<?php echo HOST; ?>pages/single.php">February 15,2016</a>
                                             <p>Duis venenatis ac ipsum vel ultricies in placerat quam</p>
                                         </div>
                                         <div class="date-text">
-                                            <a href="<?php echo $host; ?>pages/single.php">January 15,2016 <span
+                                            <a href="<?php echo HOST; ?>pages/single.php">January 15,2016 <span
                                                         class="blinking"><img
-                                                            src="<?php echo $host; ?>partials/images/new.png"
+                                                            src="<?php echo HOST; ?>partials/images/new.png"
                                                             alt=""/></span></a>
                                             <p>Pellentesque ullamcorper fringilla ipsum, ornare dapibus velit volutpat
                                                 sit amet.</p>
                                         </div>
                                         <div class="date-text">
-                                            <a href="<?php echo $host; ?>pages/single.php">September 24,2016</a>
+                                            <a href="<?php echo HOST; ?>pages/single.php">September 24,2016</a>
                                             <p>In lobortis ipsum mi, ac imperdiet elit pellentesque at.</p>
                                         </div>
                                         <div class="date-text">
-                                            <a href="<?php echo $host; ?>pages/single.php">August 15,2016</a>
+                                            <a href="<?php echo HOST; ?>pages/single.php">August 15,2016</a>
                                             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
                                         </div>
                                         <div class="date-text">
-                                            <a href="<?php echo $host; ?>pages/single.php">July 08,2016 <span
+                                            <a href="<?php echo HOST; ?>pages/single.php">July 08,2016 <span
                                                         class="blinking"><img
-                                                            src="<?php echo $host; ?>partials/images/new.png"
+                                                            src="<?php echo HOST; ?>partials/images/new.png"
                                                             alt=""/></span></a>
                                             <p>Nullam non turpis sit amet metus tristique egestas et et orci.</p>
                                         </div>
                                         <div class="date-text">
-                                            <a href="<?php echo $host; ?>pages/single.php">February 15,2016</a>
+                                            <a href="<?php echo HOST; ?>pages/single.php">February 15,2016</a>
                                             <p>Duis venenatis ac ipsum vel ultricies in placerat quam</p>
                                         </div>
                                         <div class="date-text">
-                                            <a href="<?php echo $host; ?>pages/single.php">January 15,2016 <span
+                                            <a href="<?php echo HOST; ?>pages/single.php">January 15,2016 <span
                                                         class="blinking"><img
-                                                            src="<?php echo $host; ?>partials/images/new.png"
+                                                            src="<?php echo HOST; ?>partials/images/new.png"
                                                             alt=""/></span></a>
                                             <p>Pellentesque ullamcorper fringilla ipsum, ornare dapibus velit volutpat
                                                 sit amet.</p>
                                         </div>
                                         <div class="date-text">
-                                            <a href="<?php echo $host; ?>pages/single.php">September 24,2016</a>
+                                            <a href="<?php echo HOST; ?>pages/single.php">September 24,2016</a>
                                             <p>In lobortis ipsum mi, ac imperdiet elit pellentesque at.</p>
                                         </div>
                                     </div>
@@ -724,7 +724,7 @@
                             <div class="news-grids-bottom">
                                 <div class="top-news-grid">
                                     <div class="top-news-grid-heading">
-                                        <a href="<?php echo $host; ?>pages/single.php">Lorem ipsum dolor sit amet,
+                                        <a href="<?php echo HOST; ?>pages/single.php">Lorem ipsum dolor sit amet,
                                             consectetur adipiscing elit. Aenean rutrum ac nulla</a>
                                     </div>
                                     <div class="w3ls-news-t-grid top-t-grid">
@@ -736,7 +736,7 @@
                                 </div>
                                 <div class="top-news-grid">
                                     <div class="top-news-grid-heading">
-                                        <a href="<?php echo $host; ?>pages/single.php">Duis orci enim, rutrum vel
+                                        <a href="<?php echo HOST; ?>pages/single.php">Duis orci enim, rutrum vel
                                             sodales ut, tincidunt nec turpis.</a>
                                     </div>
                                     <div class="w3ls-news-t-grid top-t-grid">
@@ -748,7 +748,7 @@
                                 </div>
                                 <div class="top-news-grid">
                                     <div class="top-news-grid-heading">
-                                        <a href="<?php echo $host; ?>pages/single.php">Lorem ipsum dolor sit amet,
+                                        <a href="<?php echo HOST; ?>pages/single.php">Lorem ipsum dolor sit amet,
                                             consectetur adipiscing elit. Aenean rutrum ac nulla</a>
                                     </div>
                                     <div class="w3ls-news-t-grid top-t-grid">
@@ -760,7 +760,7 @@
                                 </div>
                                 <div class="top-news-grid">
                                     <div class="top-news-grid-heading">
-                                        <a href="<?php echo $host; ?>pages/single.php">Duis orci enim, rutrum vel
+                                        <a href="<?php echo HOST; ?>pages/single.php">Duis orci enim, rutrum vel
                                             sodales ut, tincidunt nec turpis.</a>
                                     </div>
                                     <div class="w3ls-news-t-grid top-t-grid">
@@ -772,7 +772,7 @@
                                 </div>
                                 <div class="top-news-grid">
                                     <div class="top-news-grid-heading">
-                                        <a href="<?php echo $host; ?>pages/single.php">Lorem ipsum dolor sit amet,
+                                        <a href="<?php echo HOST; ?>pages/single.php">Lorem ipsum dolor sit amet,
                                             consectetur adipiscing elit. Aenean rutrum ac nulla</a>
                                     </div>
                                     <div class="w3ls-news-t-grid top-t-grid">
@@ -784,7 +784,7 @@
                                 </div>
                                 <div class="top-news-grid">
                                     <div class="top-news-grid-heading">
-                                        <a href="<?php echo $host; ?>pages/single.php">Duis orci enim, rutrum vel
+                                        <a href="<?php echo HOST; ?>pages/single.php">Duis orci enim, rutrum vel
                                             sodales ut, tincidunt nec turpis.</a>
                                     </div>
                                     <div class="w3ls-news-t-grid top-t-grid">
