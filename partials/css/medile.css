@@ -405,7 +405,7 @@ ol.breadcrumb li a {
     font-family: 'Roboto Condensed', sans-serif;
 }
 
-.blog-pagenat-wthree ul li a.frist, .blog-pagenat-wthree ul li a.last {
+.blog-pagenat-wthree ul li a.frist, .blog-pagenat-wthree ul li a.active,.blog-pagenat-wthree ul li a.last {
     background: #000;
     color: #fff;
     border: 1px solid #29292A;

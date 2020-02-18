@@ -1,9 +1,12 @@
 <?php
 include('../partials/header.php');
 include('../dashboard/includes/db.php');
+include('../dashboard/controllers/movieController.php');
+
 
 if (isset($_GET['p'])) {
     $genres = htmlspecialchars($_GET['p']);
+    require_once(__DIR__ . "/../partials/config_paging.php");
     //	echo $genres;
     // $q = "SELECT
     // 					movies.*,
@@ -27,7 +30,9 @@ if (isset($_GET['p'])) {
 			`genres`,
 			`star_rating`
 		WHERE
-			genres." . $genres . " = '1' AND movies.id = genres.movie_id AND star_rating.movie_id = genres.movie_id LIMIT 24;";
+            genres." . $genres . " = '1' AND movies.id = genres.movie_id AND star_rating.movie_id = genres.movie_id ";
+
+    $result = readAll($q, $record_per_page, $start_read_from);
 } else {
     $genres = "All ";
     $q = "
@@ -41,10 +46,14 @@ FROM
 	`movies`,
 	`star_rating`
 WHERE
-	star_rating.movie_id = movies.id LIMIT 24;";
+	star_rating.movie_id = movies.id ";
 }
 // echo $q;
-$result = $con->query($q);
+$result = readAll($q, $record_per_page, $start_read_from);
+
+$countAll = countAll($q);
+$total_pages = (int) ($countAll / $record_per_page);
+$page_url = "/pages/genres.php?p=".$genres."&";
 ?>
 
 <div class="general_social_icons">
@@ -80,7 +89,7 @@ $result = $con->query($q);
                 <div class="container">
                     <div class="browse-inner">
                         <?php
-                        if ($result->num_rows > 0) {
+                        if (isset($result->num_rows) && $result->num_rows > 0) {
                             while ($row = $result->fetch_assoc()) {
                         ?>
                                 <div class="col-md-2 w3l-movie-gride-agile">
@@ -106,8 +115,8 @@ $result = $con->query($q);
                                         <p>NEW</p>
                                     </div>
                                 </div>
-                            <?php } 
-                        ?>
+                            <?php }
+                            ?>
 
                             <div class="clearfix"></div>
                     </div>
@@ -116,19 +125,9 @@ $result = $con->query($q);
                 </div>
             </div>
             <!--//browse-agile-w3ls -->
-
-            <div class="blog-pagenat-wthree">
-                <ul>
-                    <li><a class="frist" href="#">Prev</a></li>
-                    <li><a href="#">1</a></li>
-                    <li><a href="#">2</a></li>
-                    <li><a href="#">3</a></li>
-                    <li><a href="#">4</a></li>
-                    <li><a href="#">5</a></li>
-                    <li><a class="last" href="#">Next</a></li>
-                </ul>
-            </div>
-        <?php } else {
+        <?php
+                            include_once(__DIR__ . "/../partials/pagination.php");
+                        } else {
         ?>
             <div>
                 <h1 class="h1">
@@ -140,51 +139,7 @@ $result = $con->query($q);
         </div>
         <!-- //movie-browse-agile -->
         <!--body wrapper start-->
-        <!--body wrapper start-->
-        <div class="review-slider">
-            <h4 class="latest-text">Movie Reviews</h4>
-            <div class="container">
-                <div class="w3_agile_banner_bottom_grid">
-                    <div id="owl-demo" class="owl-carousel owl-theme">
 
-                        <div class="item">
-                            <div class="w3l-movie-gride-agile w3l-movie-gride-agile1">
-                                <a href="<?php echo HOST; ?>pages/single.php" class="hvr-shutter-out-horizontal"><img src="<?php echo HOST; ?>partials/images/m13.jpg" title="album-name" class="img-responsive" alt=" " />
-                                    <div class="w3l-action-icon"><i class="fa fa-play-circle" aria-hidden="true"></i></div>
-                                </a>
-                                <div class="mid-1 agileits_w3layouts_mid_1_home">
-                                    <div class="w3l-movie-text">
-                                        <h6><a href="<?php echo HOST; ?>pages/single.php">Citizen Soldier</a></h6>
-                                    </div>
-                                    <div class="mid-2 agile_mid_2_home">
-                                        <p>2016</p>
-                                        <div class="block-stars">
-                                            <ul class="w3l-ratings">
-                                                <li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a>
-                                                </li>
-                                                <li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a>
-                                                </li>
-                                                <li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a>
-                                                </li>
-                                                <li><a href="#"><i class="fa fa-star" aria-hidden="true"></i></a>
-                                                </li>
-                                                <li><a href="#"><i class="fa fa-star-half-o" aria-hidden="true"></i></a>
-                                                </li>
-                                            </ul>
-                                        </div>
-                                        <div class="clearfix"></div>
-                                    </div>
-                                </div>
-                                <div class="ribben">
-                                    <p>NEW</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <!--body wrapper end-->
-            </div>
-        </div>
     </div>
     <!-- //w3l-medile-movies-grids -->
 </div>

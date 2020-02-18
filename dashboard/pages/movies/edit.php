@@ -40,13 +40,13 @@ WHERE
                 </div><!-- /.container-fluid -->
             </div>
             <div class="ml-5">
-                <?php 
-echo $q;echo '<br>';
+                <?php
+                // echo $q;echo '<br>';
 
-                    var_dump($result);
-                    echo '<br>';echo $result->num_rows;
-                    echo '<br>';
-                    
+                //                     var_dump($result);
+                //                     echo '<br>';echo $result->num_rows;
+                //                     echo '<br>';
+
                 include('../../controllers/movieController.php'); ?>
             </div>
             <!-- /.content-header -->

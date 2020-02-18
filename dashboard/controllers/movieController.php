@@ -636,13 +636,13 @@ function most_popular()
                 <div class="agile_tv_series_grid">
                     <div class="col-md-6 agile_tv_series_grid_left">
                             <div class="w3ls_market_video_grid1">
-                                <img src="' . HOST . $row['banner'] . '" alt="' . $row['name'] . '" class="img-responsive " id="most_popular_img'.$i.'" />
+                                <img src="' . HOST . $row['banner'] . '" alt="' . $row['name'] . '" class="img-responsive " id="most_popular_img' . $i . '" />
                                 <a class="w3_play_icon" href="' . HOST . 'pages/single.php?mid=' . $row['id'] . '">
                                     <span class="glyphicon glyphicon-play-circle" aria-hidden="true"></span>
                                 </a>
                             </div>
                     </div>
-                    <div class="col-md-6 agile_tv_series_grid_right" id="most_popular_right'.$i.'" style="padding:3rem
+                    <div class="col-md-6 agile_tv_series_grid_right" id="most_popular_right' . $i . '" style="padding:3rem
                     ">
                         <p class="fexi_header">' . $row['name'] . '</p>
                         <p class="fexi_header_para"><span class="conjuring_w3">Story Line<label>:</label></span>
@@ -650,15 +650,15 @@ function most_popular()
                         <p class="fexi_header_para"><span>Date of Release<label>:</label></span> ' . date('M Y', strtotime($row['release_date'])) . '</p>
                         <p class="fexi_header_para">
                             <span>Genres<label>:</label> </span>';
-                            get_genress($row['id']);
+            get_genress($row['id']);
 
-                            echo '
+            echo '
                         </p>
                         <p class="fexi_header_para fexi_header_para1">
                             <span>Star Rating<label>:</label></span>';
-                                get_star_rate_popular($row['rate_avg']);
+            get_star_rate_popular($row['rate_avg']);
 
-                            echo '
+            echo '
                         </p>
                     </div>   
                                         
@@ -668,24 +668,24 @@ function most_popular()
                     <div class="agileinfo_flexislider_grids">
                     ';
 
-                // var_dump($result);
-                // foreach ($result as $res) {
-                //     var_dump($res);
-                //     echo '<br>';
-                // }
-                // echo '<br>';
-                // echo '<br>';
-                // var_dump($result2);
-                sub_most_pupular();
+            // var_dump($result);
+            // foreach ($result as $res) {
+            //     var_dump($res);
+            //     echo '<br>';
+            // }
+            // echo '<br>';
+            // echo '<br>';
+            // var_dump($result2);
+            sub_most_pupular();
 
-                echo ' 
+            echo ' 
                 <div class="clearfix"> </div>
                 </div>
                 </div>
             </li>';
-echo '        <script>
-var height'.$i.' = document.getElementById("most_popular_right'.$i.'").offsetHeight;
-document.getElementById("most_popular_img'.$i.'").style.height = height'.$i.'+"px";
+            echo '        <script>
+var height' . $i . ' = document.getElementById("most_popular_right' . $i . '").offsetHeight;
+document.getElementById("most_popular_img' . $i . '").style.height = height' . $i . '+"px";
 </script>';
         }
     }
@@ -719,8 +719,8 @@ function sub_most_pupular()
                         <div class="mid-2 agile_mid_2_home">
                             <p>' . date('Y', strtotime($row['release_date'])) . '</p>
                             <div class="block-stars">               ';
-                            include 'dashboard/includes/star_rating.php';
-                            echo '
+            include 'dashboard/includes/star_rating.php';
+            echo '
                             </div>
                             <div class="clearfix"></div>
                         </div>
@@ -738,7 +738,8 @@ function sub_most_pupular()
     }
 }
 
-function get_star_rate_popular($rate_avg){
+function get_star_rate_popular($rate_avg)
+{
 
 
     // echo $rate_avg;
@@ -760,8 +761,6 @@ function get_star_rate_popular($rate_avg){
             echo '<a href="#"><i class="fa fa-star-o" aria-hidden="true"></i></a>';
         }
     }
-
-
 }
 
 
@@ -792,3 +791,35 @@ function get_genress($id)
         echo '<a href="' . HOST . 'pages/genres.php?p=' . $current_genres[$i] . '">' . $current_genres[$count_gen + 1] . '</a>';
     }
 }
+
+
+
+function readAll($qeury,$record_per_page, $start_read_from)
+{
+    global $con;
+    $record_per_page = (int) $record_per_page;
+    $start_read_from = (int) $start_read_from;
+    $q= $qeury." LIMIT  $start_read_from,$record_per_page;";
+
+    $result = $con->query($q);
+    if ($result->num_rows > 0) {
+        return $result;
+    }
+}
+
+function countAll($q)
+{
+    global $con;
+    $result = $con->query($q);
+
+    if ($result->num_rows > 0) {
+        return  $result->num_rows;
+        // return   $this->countAll;
+    }
+    // else {
+
+    //     var_dump($stmt->errorInfo());
+    // }
+}
+
+// echo countAll();
