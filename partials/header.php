@@ -118,7 +118,7 @@ if it's not present, don't show loader */
 
 </head>
 
-</head>
+
 
 <body>
 <!-- Paste this code after body tag -->
@@ -247,44 +247,44 @@ if it's not present, don't show loader */
                                 <li>
                                     <div class="col-sm-4">
                                         <ul class="multi-column-dropdown">
-                                            <li><a href="<?php echo HOST; ?>pages/genres.php?p=action">Action</a></li>
-                                            <li><a href="<?php echo HOST; ?>pages/genres.php?p=biography">Biography</a>
+                                            <li><a href="<?php echo HOST; ?>pages/genres.php?g=action">Action</a></li>
+                                            <li><a href="<?php echo HOST; ?>pages/genres.php?g=biography">Biography</a>
                                             </li>
-                                            <li><a href="<?php echo HOST; ?>pages/genres.php?p=crime">Crime</a></li>
-                                            <li><a href="<?php echo HOST; ?>pages/genres.php?p=family">Family</a></li>
-                                            <li><a href="<?php echo HOST; ?>pages/genres.php?p=horror">Horror</a></li>
-                                            <li><a href="<?php echo HOST; ?>pages/genres.php?p=romance">Romance</a>
+                                            <li><a href="<?php echo HOST; ?>pages/genres.php?g=crime">Crime</a></li>
+                                            <li><a href="<?php echo HOST; ?>pages/genres.php?g=family">Family</a></li>
+                                            <li><a href="<?php echo HOST; ?>pages/genres.php?g=horror">Horror</a></li>
+                                            <li><a href="<?php echo HOST; ?>pages/genres.php?g=romance">Romance</a>
                                             </li>
-                                            <li><a href="<?php echo HOST; ?>pages/genres.php?p=sports">Sports</a></li>
-                                            <li><a href="<?php echo HOST; ?>pages/genres.php?p=war">War</a></li>
+                                            <li><a href="<?php echo HOST; ?>pages/genres.php?g=sports">Sports</a></li>
+                                            <li><a href="<?php echo HOST; ?>pages/genres.php?g=war">War</a></li>
                                         </ul>
                                     </div>
                                     <div class="col-sm-4">
                                         <ul class="multi-column-dropdown">
-                                            <li><a href="<?php echo HOST; ?>pages/genres.php?p=adventure">Adventure</a>
+                                            <li><a href="<?php echo HOST; ?>pages/genres.php?g=adventure">Adventure</a>
                                             </li>
-                                            <li><a href="<?php echo HOST; ?>pages/genres.php?p=comedy">Comedy</a></li>
+                                            <li><a href="<?php echo HOST; ?>pages/genres.php?g=comedy">Comedy</a></li>
                                             <li>
-                                                <a href="<?php echo HOST; ?>pages/genres.php?p=documentary">Documentary</a>
+                                                <a href="<?php echo HOST; ?>pages/genres.php?g=documentary">Documentary</a>
                                             </li>
-                                            <li><a href="<?php echo HOST; ?>pages/genres.php?p=fantasy">Fantasy</a>
+                                            <li><a href="<?php echo HOST; ?>pages/genres.php?g=fantasy">Fantasy</a>
                                             </li>
-                                            <li><a href="<?php echo HOST; ?>pages/genres.php?p=thriller">Thriller</a>
+                                            <li><a href="<?php echo HOST; ?>pages/genres.php?g=thriller">Thriller</a>
                                             </li>
                                         </ul>
                                     </div>
                                     <div class="col-sm-4">
                                         <ul class="multi-column-dropdown">
-                                            <li><a href="<?php echo HOST; ?>pages/genres.php?p=animation">Animation</a>
+                                            <li><a href="<?php echo HOST; ?>pages/genres.php?g=animation">Animation</a>
                                             </li>
-                                            <li><a href="<?php echo HOST; ?>pages/genres.php?p=costume">Costume</a>
+                                            <li><a href="<?php echo HOST; ?>pages/genres.php?g=costume">Costume</a>
                                             </li>
-                                            <li><a href="<?php echo HOST; ?>pages/genres.php?p=drama">Drama</a></li>
-                                            <li><a href="<?php echo HOST; ?>pages/genres.php?p=history">History</a>
+                                            <li><a href="<?php echo HOST; ?>pages/genres.php?g=drama">Drama</a></li>
+                                            <li><a href="<?php echo HOST; ?>pages/genres.php?g=history">History</a>
                                             </li>
-                                            <li><a href="<?php echo HOST; ?>pages/genres.php?p=musical">Musical</a>
+                                            <li><a href="<?php echo HOST; ?>pages/genres.php?g=musical">Musical</a>
                                             </li>
-                                            <li><a href="<?php echo HOST; ?>pages/genres.php?p=psychological">Psychological</a>
+                                            <li><a href="<?php echo HOST; ?>pages/genres.php?g=psychological">Psychological</a>
                                             </li>
                                         </ul>
                                     </div>
@@ -336,3 +336,15 @@ if it's not present, don't show loader */
     </div>
 </div>
 <!-- //nav -->
+
+<div class="general_social_icons">
+        <nav class="social">
+            <ul>
+                <li class="w3_twitter"><a href="#">Twitter <i class="fa fa-twitter"></i></a></li>
+                <li class="w3_facebook"><a href="#">Facebook <i class="fa fa-facebook"></i></a></li>
+                <li class="w3_dribbble"><a href="#">Dribbble <i class="fa fa-dribbble"></i></a></li>
+                <li class="w3_g_plus"><a href="#">Google+ <i class="fa fa-google-plus"></i></a></li>
+            </ul>
+        </nav>
+    </div>
+  

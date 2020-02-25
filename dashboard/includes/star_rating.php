@@ -15,7 +15,7 @@
 // }
 
 // die();
-$rate_avg = $row['rate_avg'];
+$rate_avg = (isset($row['rate_avg']) && !empty($row['rate_avg'])) ? $row['rate_avg'] :  get_rate_avg($row['id']);
 // echo $rate_avg;
 $max = floor($rate_avg);
 $half = $rate_avg - $max;

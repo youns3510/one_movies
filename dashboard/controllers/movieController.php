@@ -455,7 +455,7 @@ function data_validate($func, $name, $story, $genres, $release_date, $star_ratin
     return $errors;
 }
 
-
+// update rating_avg
 function rating_avg($movie_id)
 {
     global $con;
@@ -514,12 +514,24 @@ function rating_avg($movie_id)
         }
     }
 }
+// get rating_avg
+function get_rate_avg($id)
+{
+    global $con;
+    $q = "SELECT `star_rating`.`rate_avg` FROM `star_rating` WHERE `movie_id` = '$id';";
+    $result  = $con->query($q);
 
+    if (isset($result->num_rows) && $result->num_rows > 0) {
+        return $result->fetch_assoc()['rate_avg'];
+    }
+}
+
+// echo get_rate_avg(13);
 // show top viewed movies on home page for all users
 function top_viewed()
 {
     global $con;
-    $q = "SELECT movies.id,movies.name,movies.release_date,movies.views,movies.image FROM `movies` ORDER BY `views` DESC	LIMIT 10;";
+    $q = "SELECT DISTINCT movies.id,movies.name,movies.release_date,movies.views,movies.image FROM `movies` ORDER BY `views` DESC	LIMIT 10;";
     $result = $con->query($q);
     if ($result->num_rows > 0) {
         while ($row = $result->fetch_assoc()) {
@@ -554,7 +566,7 @@ function top_viewed()
 function top_rating()
 {
     global $con;
-    $q = "SELECT movies.id,movies.name,movies.release_date,movies.image,star_rating.rate_avg FROM `movies`,`star_rating` WHERE star_rating.movie_id = movies.id ORDER BY `rate_avg` DESC LIMIT 10;";
+    $q = "SELECT DISTINCT movies.id,movies.name,movies.release_date,movies.image,star_rating.rate_avg FROM `movies`,`star_rating` WHERE star_rating.movie_id = movies.id ORDER BY `rate_avg` DESC LIMIT 10;";
     $result = $con->query($q);
     if ($result->num_rows > 0) {
         while ($row = $result->fetch_assoc()) {
@@ -588,9 +600,11 @@ function top_rating()
 function recently_added()
 {
     global $con;
-    $q = "SELECT movies.id,movies.name,movies.release_date,movies.image,star_rating.rate_avg FROM `movies`,`star_rating` WHERE star_rating.movie_id = movies.id ORDER BY `created_at` DESC LIMIT 20;";
+    $q = "SELECT DISTINCT `id`,`name`,`release_date`,`image`,`created_at` FROM `movies` ORDER BY `created_at` DESC LIMIT 10;";
     $result = $con->query($q);
-    if ($result->num_rows > 0) {
+    // echo $q;
+    // var_dump( $con->error);
+    if (isset($result->num_rows) && $result->num_rows > 0) {
         while ($row = $result->fetch_assoc()) {
             echo '<div class="col-md-2 w3l-movie-gride-agile">
                         <a href="' . HOST . 'pages/single.php?mid=' . $row['id'] . '" class="hvr-shutter-out-horizontal">
@@ -684,9 +698,9 @@ function most_popular()
                 </div>
             </li>';
             echo '        <script>
-var height' . $i . ' = document.getElementById("most_popular_right' . $i . '").offsetHeight;
-document.getElementById("most_popular_img' . $i . '").style.height = height' . $i . '+"px";
-</script>';
+                var height' . $i . ' = document.getElementById("most_popular_right' . $i . '").offsetHeight;
+                document.getElementById("most_popular_img' . $i . '").style.height = height' . $i . '+"px";
+                </script>';
         }
     }
 }
@@ -785,22 +799,23 @@ function get_genress($id)
         $count_gen = count($current_genres) - 2;
         // var_dump($genres);
         for ($i = 0; $i <= $count_gen; $i++) {
-            echo '<a href="' . HOST . 'pages/genres.php?p=' . $current_genres[$i] . '">' . $current_genres[$i] . '</a>';
+            echo '<a href="' . HOST . 'pages/genres.php?g=' . $current_genres[$i] . '">' . $current_genres[$i] . '</a>';
             echo ' | ';
         }
-        echo '<a href="' . HOST . 'pages/genres.php?p=' . $current_genres[$i] . '">' . $current_genres[$count_gen + 1] . '</a>';
+        echo '<a href="' . HOST . 'pages/genres.php?g=' . $current_genres[$i] . '">' . $current_genres[$count_gen + 1] . '</a>';
     }
 }
 
 
 
-function readAll($qeury,$record_per_page, $start_read_from)
+function readAll($qeury, $record_per_page, $start_read_from)
 {
     global $con;
     $record_per_page = (int) $record_per_page;
     $start_read_from = (int) $start_read_from;
-    $q= $qeury." LIMIT  $start_read_from,$record_per_page;";
+    $q = $qeury . " LIMIT  $start_read_from,$record_per_page;";
 
+    // echo "qeury=".$q."<br>record_per_page:".$record_per_page." ===start_read_from:".$start_read_from."<br>==============<br>";
     $result = $con->query($q);
     if ($result->num_rows > 0) {
         return $result;
@@ -821,5 +836,89 @@ function countAll($q)
     //     var_dump($stmt->errorInfo());
     // }
 }
+
+// list page a-z list
+function get_data($char, $active)
+{
+    // global $record_per_page, $start_read_from;
+    $q = "SELECT DISTINCT `movies`.`id`,`movies`.`name`,`movies`.`image`,`movies`.`release_date`  FROM `movies`  WHERE `movies`.`name` LIKE '$char%' ";
+  
+    //contain {$record_per_page,$page,$start_read_from} 
+    include(__DIR__ . "/../../partials/config_paging.php");
+    $countAll = countAll($q);
+    ${'total_pages_'.$char} = (int) ($countAll / $record_per_page);
+    $result = readAll($q, $record_per_page, $start_read_from);
+
+    $page_url = "/pages/list.php?char=" . $char . "&";
+
+    // echo $active."<br>";
+    // die;
+    $active = ($active == 'active') ? ' in active' : '';
+    
+    echo '  <div role="tabpanel" class="tab-pane fade ' . $active . '" id="' . $char . '" aria-labelledby="' . $char . '-tab">
+    <div class="agile-news-table">';
+    
+    
+  
+
+    if (isset($result->num_rows) && $result->num_rows > 0) {
+
+
+        echo '   
+                <div class="w3ls-news-result">
+                    <h4>Search Results : <span>' . $countAll . '</span></h4>
+                </div>
+                <table id="table-breakpoint1">
+                    <thead>
+                        <tr>
+                            <th>No.</th>
+                            <th>preview</th>
+                            <th>Movie Name</th>
+                            <th>Year</th>
+                            <th>Genre</th>
+                            <th>Rating</th>
+                        </tr>
+                    </thead>
+                    <tbody>';
+
+        // $i = (isset(${'No_' . $char}) && ( ${'No_' . $char} != ${'total_' . $char} )) ? ${'No_' . $char}++ : 1;
+        $i = $start_read_from+1;
+        while ($row = $result->fetch_assoc()) {
+
+            echo '
+                <tr>
+                    <td>' . $i++ . '</td>
+                    <td class="w3-list-img">
+                        <a href="' . HOST . 'pages/single.php?mid=' . $row['id'] . '">
+                            <img src="' . HOST . $row['image'] . '" alt="' . $row['name'] . '" />
+                        </a>
+                    </td>
+                    <td>' . $row['name'] . '</td> 
+                    <td>' . date('Y', strtotime($row['release_date']))  . '</td>                 
+
+                    <td class="w3-list-info">';
+            get_genress($row['id']);
+            echo '</td>
+                    <td>' . get_rate_avg($row['id']) . '</td>
+                </tr>   
+';
+        }
+        // $_SESSION['No_' . $char] = $i;
+        echo ' </tbody>
+        </table>
+   ';
+        // var_dump($_SESSION);
+
+        include(__DIR__ . "/../../partials/pagination.php");
+    } else {
+        // var_dump($_SESSION);
+        echo '<h3>There is no movie here.</h3>';
+    }
+    echo ' </div>
+    </div>';
+}
+
+
+// end list page
 
 // echo countAll();

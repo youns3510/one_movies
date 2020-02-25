@@ -4,9 +4,9 @@ include('../dashboard/includes/db.php');
 include('../dashboard/controllers/movieController.php');
 
 
-if (isset($_GET['p'])) {
-    $genres = htmlspecialchars($_GET['p']);
-    require_once(__DIR__ . "/../partials/config_paging.php");
+if (isset($_GET['g'])) {
+    $genres = htmlspecialchars($_GET['g']);
+
     //	echo $genres;
     // $q = "SELECT
     // 					movies.*,
@@ -24,15 +24,14 @@ if (isset($_GET['p'])) {
 			movies.name,
 			movies.release_date,
             movies.image,
-            star_rating.rate_avg
+            `genres`.`" . $genres . "`
 		FROM
 			`movies`,
-			`genres`,
-			`star_rating`
+			`genres`
 		WHERE
-            genres." . $genres . " = '1' AND movies.id = genres.movie_id AND star_rating.movie_id = genres.movie_id ";
+            `genres`.`" . $genres . "` = '1' AND movies.id = genres.movie_id ";
 
-    $result = readAll($q, $record_per_page, $start_read_from);
+    // $result = readAll($q, $record_per_page, $start_read_from);
 } else {
     $genres = "All ";
     $q = "
@@ -40,32 +39,21 @@ if (isset($_GET['p'])) {
 	movies.id,
 	movies.name,
 	movies.release_date,
-	movies.image,
-	star_rating.rate_avg
+	movies.image
 FROM
-	`movies`,
-	`star_rating`
-WHERE
-	star_rating.movie_id = movies.id ";
+	`movies` ";
 }
 // echo $q;
+
+//contain {$record_per_page,$page,$start_read_from} 
+require_once(__DIR__ . "/../partials/config_paging.php");
 $result = readAll($q, $record_per_page, $start_read_from);
 
 $countAll = countAll($q);
 $total_pages = (int) ($countAll / $record_per_page);
-$page_url = "/pages/genres.php?p=".$genres."&";
+$page_url = "/pages/genres.php?g=" . $genres . "&";
 ?>
 
-<div class="general_social_icons">
-    <nav class="social">
-        <ul>
-            <li class="w3_twitter"><a href="#">Twitter <i class="fa fa-twitter"></i></a></li>
-            <li class="w3_facebook"><a href="#">Facebook <i class="fa fa-facebook"></i></a></li>
-            <li class="w3_dribbble"><a href="#">Dribbble <i class="fa fa-dribbble"></i></a></li>
-            <li class="w3_g_plus"><a href="#">Google+ <i class="fa fa-google-plus"></i></a></li>
-        </ul>
-    </nav>
-</div>
 <!-- /w3l-medile-movies-grids -->
 <div class="general-agileits-w3l">
     <div class="w3l-medile-movies-grids">
@@ -88,18 +76,21 @@ $page_url = "/pages/genres.php?p=".$genres."&";
                 </div>
                 <div class="container">
                     <div class="browse-inner">
+                        <h4>Total Movies : <span><?php echo $countAll; ?></span></h4>
                         <?php
                         if (isset($result->num_rows) && $result->num_rows > 0) {
+                            $NO = $start_read_from + 1;
                             while ($row = $result->fetch_assoc()) {
                         ?>
                                 <div class="col-md-2 w3l-movie-gride-agile">
+                                    <p>no=<?php echo $NO++; ?></p>
                                     <a href="<?php echo HOST; ?>pages/single.php?mid=<?php echo $row['id']; ?>" class="hvr-shutter-out-horizontal"><img src="<?php echo HOST . $row['image']; ?>" title="album-name" alt=" " />
                                         <div class="w3l-action-icon"><i class="fa fa-play-circle" aria-hidden="true"></i></div>
                                     </a>
                                     <div class="mid-1">
                                         <div class="w3l-movie-text">
                                             <h6>
-                                                <a href="<?php echo HOST; ?>pages/single.php?mid=<?php echo $row['id']; ?>"><?php echo $row['name']; ?></a>
+                                                <a href="<?php echo HOST; ?>pages/single.php?mid=<?php echo $row['id']; ?>"><?php echo substr($row['name'], 0, 23); ?></a>
                                             </h6>
                                         </div>
                                         <div class="mid-2">

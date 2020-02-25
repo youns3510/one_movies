@@ -1,14 +1,20 @@
 <?php
 // require_once(__DIR__ . "/../dashboard/controllers/movieController.php");
-
+// include(__DIR__ . "/config_paging.php");
 // Simple pagination script By Younes Mahmoud (:
 // $countAll = countAll($q);
 // $total_pages = (int) ($countAll / $record_per_page);
-// $page_url = "/pages/genres.php?p=".$genres."&";
+// $page_url = "/pages/genres.php?g=".$genres."&";
 // var_dump($_SERVER);
-
+if (isset($char) && !empty($char)) {
+  $total_pages = is_float(($countAll / $record_per_page)) ? ${'total_pages_' . $char} + 1 : ${'total_pages_' . $char};
+  $page_url .= $char . '_page=';
+} else {
+  $total_pages = is_float(($countAll / $record_per_page)) ? $total_pages + 1 : $total_pages;
+  $page_url = $page_url . 'page=';
+}
 // if total pages real number so there should we add 1 to total page 
-$total_pages  = is_float(($countAll / $record_per_page)) ? $total_pages+1 : $total_pages;
+
 // echo  'all'.countAll($q).'<br> per page'.$record_per_page.'<br>';
 // echo  "total_pages = ".$total_pages ."<br> ".(countAll($q) / $record_per_page)."<br>";
 
@@ -38,15 +44,15 @@ $next   = $next_1;
   <ul>
 
     <?php
-    echo $pre != 0 ? '<li><a class="frist"    href="' . $page_url . 'page=' . $pre . '">Previous</a></li>' : "";
-    echo $pre_2 != 0 ? '<li><a   href="' . $page_url . 'page=' . $pre_2 . '">' . $pre_2 . '</a></li>' : "";
-    echo $pre_1 != 0 ? '<li><a   href="' . $page_url . 'page=' . $pre_1 . '">' . $pre_1 . '</a></li>' : '';
+    echo $pre != 0 ? '<li><a class="frist"    href="' . $page_url   . $pre . '">Previous</a></li>' : "";
+    echo $pre_2 != 0 ? '<li><a   href="' . $page_url   . $pre_2 . '">' . $pre_2 . '</a></li>' : "";
+    echo $pre_1 != 0 ? '<li><a   href="' . $page_url   . $pre_1 . '">' . $pre_1 . '</a></li>' : '';
 
-    echo '<li><a class="active"    href="' . $page_url . 'page=' . $page . '">' . $page . '</a></li>';
+    echo '<li><a class="active"    href="' . $page_url   . $page . '">' . $page . '</a></li>';
 
-    echo $next_1 != 0 ? '<li><a  href="' . $page_url . 'page=' . $next_1 . '">' . $next_1 . '</a></li>' : "";
-    echo $next_2 != 0 ? '<li><a  href="' . $page_url . 'page=' . $next_2 . '">' . $next_2 . '</a></li>' : '';
-    echo $next != 0 ? '<li><a  class="last"  href="' . $page_url . 'page=' . $next . '">Next</a></li>' : '';
+    echo $next_1 != 0 ? '<li><a  href="' . $page_url   . $next_1 . '">' . $next_1 . '</a></li>' : "";
+    echo $next_2 != 0 ? '<li><a  href="' . $page_url   . $next_2 . '">' . $next_2 . '</a></li>' : '';
+    echo $next != 0 ? '<li><a  class="last"  href="' . $page_url   . $next . '">Next</a></li>' : '';
     ?>
   </ul>
 </div>
