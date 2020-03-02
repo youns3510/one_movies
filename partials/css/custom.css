@@ -1,6 +1,82 @@
-p.views{
+p.views {
  float: right !important;
 }
-p.views i{
- margin-left:5px;
+
+p.views i {
+ margin-left: 5px;
 }
+
+.single-left .movie-img img {
+ width: 100% !important;
+}
+
+.movie-info th,
+td {
+ text-align: left
+}
+
+.browse-inner .w3_search {
+ float: none !important;
+ margin: 50px auto !important;
+ width: 80% !important;
+}
+
+#about p {
+ margin: 20px auto;
+ font-size: 17px;
+}
+
+#about h4 {
+ margin: 10px auto;
+}
+
+#about h4 a {
+ color: #FF8D1B;
+ margin: 40px 10px;
+ transition: all .5s ease-in;
+}
+
+#about h4 a:hover {
+ border-bottom: 2px solid #ff8d1b;
+ font-size: 20px;
+ color: #212121;
+ text-transform: uppercase;
+}
+#about .struct{
+ padding:20px;
+ background-color: #e1dbdb;
+}
+#about .struct ul li{
+ margin-left:20px;
+ list-style-type: disc;
+}
+#about .struct h3 {margin:20px auto}
+#about .struct b.heading{
+ border-bottom:2px solid #ff8d1b;
+}
+#about .struct b.heading + ul.heading-ul{
+ margin-top: 10px;}
+ #about .about-younes {
+  margin:30px;
+  padding: 20px;
+ }
+ #about .about-younes img.younes-mahmoud{
+  width: 100%;
+  border: 2px solid #ff8d1b;
+  border-radius: 50%;
+ }
+ #about .about-younes  h3{
+  color:#ff8d1b;
+ }
+ #about .about-younes  ul{
+  margin-left:30px;
+  margin-top: -15px;
+ }
+ #about .about-younes .social-younes a{
+  color:#ff8d1b;
+  transition: all .3s ease-in;
+ }
+ #about .about-younes .social-younes a:hover{
+  color:#333;
+  font-weight: bold;
+ }

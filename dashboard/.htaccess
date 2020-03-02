@@ -1,4 +1,4 @@
-ErrorDocument 404 /pages/404.php
+ErrorDocument 404 /dashboard/pages/404.php
 # Deny access to .htaccess
 <Files .htaccess>
 Order allow,deny

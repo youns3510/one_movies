@@ -5,12 +5,7 @@
 // die();
 //$errors = array();
 // upload new Movie
-if (!isset($_SESSION)) {
-    session_start([
-        'cookie_httponly' => true,
-        'cookie_secure' => true,
-    ]);
-}
+
 require_once(__DIR__ . '/../../constants.php');
 include_once __DIR__ . '/../includes/db.php';
 
@@ -827,9 +822,11 @@ function countAll($q)
     global $con;
     $result = $con->query($q);
 
-    if ($result->num_rows > 0) {
+    if (isset($result->num_rows) && $result->num_rows > 0) {
         return  $result->num_rows;
         // return   $this->countAll;
+    }else{
+        return 0;
     }
     // else {
 
@@ -844,7 +841,7 @@ function get_data($char, $active)
     $q = "SELECT DISTINCT `movies`.`id`,`movies`.`name`,`movies`.`image`,`movies`.`release_date`  FROM `movies`  WHERE `movies`.`name` LIKE '$char%' ";
   
     //contain {$record_per_page,$page,$start_read_from} 
-    include(__DIR__ . "/../../partials/config_paging.php");
+    require(__DIR__ . "/../../partials/config_paging.php");
     $countAll = countAll($q);
     ${'total_pages_'.$char} = (int) ($countAll / $record_per_page);
     $result = readAll($q, $record_per_page, $start_read_from);
@@ -868,6 +865,7 @@ function get_data($char, $active)
                 <div class="w3ls-news-result">
                     <h4>Search Results : <span>' . $countAll . '</span></h4>
                 </div>
+                <br>
                 <table id="table-breakpoint1">
                     <thead>
                         <tr>
@@ -921,4 +919,3 @@ function get_data($char, $active)
 
 // end list page
 
-// echo countAll();

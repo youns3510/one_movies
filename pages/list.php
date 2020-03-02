@@ -1,7 +1,6 @@
 <?php
-session_start();
-session_destroy();
-$_SESSION = array();
+$page_title = "List A-Z Movies";
+$active_list_a_z ="active";
 include('../partials/header.php');
 require_once(__DIR__ . "/../dashboard/controllers/movieController.php");
 

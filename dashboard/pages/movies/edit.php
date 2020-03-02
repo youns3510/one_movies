@@ -1,4 +1,5 @@
 <?php
+$page_title = "Update Movie";
 require_once(__DIR__ . '/../../../constants.php');
 $styles = '<link rel="stylesheet" href="' . HOST . 'dashboard/includes/plugins/multiselect/bootstrap-multiselect.css" type="text/css"/>' .
     '<style>.multiselect-native-select{overflow: auto;}ul.multiselect-container{padding: 20px 0px;}ul.multiselect-container  li{width:200px}</style>';

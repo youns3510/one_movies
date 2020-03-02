@@ -1,4 +1,7 @@
-<?php include('../partials/header.php'); ?>
+<?php 
+$page_title = "Contact Us";
+
+include('../partials/header.php'); ?>
 
     <!-- contact -->
     <div class="contact-agile">
@@ -48,13 +51,13 @@
                     </ul>
                 </div>
                 <div class="clearfix"></div>
-                <form action="#" method="post">
-                    <input type="text" name="your name" placeholder="FIRST NAME" required="">
-                    <input type="text" name="your name" placeholder="LAST NAME" required="">
-                    <input type="text" name="your email" placeholder="EMAIL" required="">
+                <form action="/Mail/send.php" method="post">
+                    <input type="text" name="fname" placeholder="FIRST NAME" required="">
+                    <input type="text" name="lname" placeholder="LAST NAME" required="">
+                    <input type="text" name="email" placeholder="EMAIL" required="">
                     <input type="text" name="subject" placeholder="SUBJECT" required="">
-                    <textarea name="your message" placeholder="YOUR MESSAGE" required=""></textarea>
-                    <input type="submit" value="SEND MESSAGE">
+                    <textarea name="message" placeholder="MESSAGE" required=""></textarea>
+                    <input type="submit" name="submit" value="SEND MESSAGE">
                 </form>
             </div>
         </div>

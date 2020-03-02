@@ -19,29 +19,27 @@
             <div class="clearfix"></div>
         </div>
         <div class="col-md-5 w3ls_footer_grid1_left">
-            <p>&copy; 2016 One Movies. All rights reserved | Design by <a
-                        href="<?php echo HOST; ?>partials/http://w3layouts.com/">W3layouts</a></p>
+            <p>&copy; 2016 One Movies. All rights reserved . </p>
+           <p> Design by <a href="//w3layouts.com/" target="_blank">W3layouts</a> | Developed by <a href="//bit.ly/35y9nxq" target="_blank">Younes Mahmoud</a></p>
+  
         </div>
         <div class="col-md-7 w3ls_footer_grid1_right">
             <ul>
                 <li>
                     <a href="<?php echo HOST; ?>pages/genres.php">Movies</a>
                 </li>
+
                 <li>
-                    <a href="<?php echo HOST; ?>pages/faq.php">FAQ</a>
+                    <a href="<?php echo HOST; ?>pages/genres.php?g=action">Action</a>
                 </li>
                 <li>
-                    <a href="<?php echo HOST; ?>pages/horror.php">Action</a>
+                    <a href="<?php echo HOST; ?>pages/genres.php?g=adventure">Adventure</a>
                 </li>
                 <li>
-                    <a href="<?php echo HOST; ?>pages/genres.php">Adventure</a>
+                    <a href="<?php echo HOST; ?>pages/genres.php?g=comedy">Comedy</a>
                 </li>
-                <li>
-                    <a href="<?php echo HOST; ?>pages/comedy.php">Comedy</a>
-                </li>
-                <li>
-                    <a href="<?php echo HOST; ?>pages/icons.php">Icons</a>
-                </li>
+                <li><a href="<?php echo HOST; ?>pages/about.php">About Us</a></li>
+
                 <li>
                     <a href="<?php echo HOST; ?>pages/contact.php">Contact Us</a>
                 </li>
@@ -53,20 +51,8 @@
 <!-- //footer -->
 <!-- Bootstrap Core JavaScript -->
 <script src="<?php echo HOST; ?>partials/js/bootstrap.min.js"></script>
-<script type="text/javascript" src="<?php echo HOST; ?>dashboard/includes/plugins/toastr/toastr.min.js"></script>
-<?php if (isset($_SESSION['action']) && $_SESSION['action'] == true) { ?>
-    <script>
-        toastr.options.closeButton = true;
-        toastr.<?php echo $_SESSION['option'] . '("' . $_SESSION['message'] . '",{timeOut: 20000});'; ?>
-    </script>
 
-    <?php
-    unset($_SESSION['action']);
-    unset($_SESSION['message']);
-    unset($_SESSION['option']);
-}
-?>
-<!-- //toastr -->
+
 <script>
     $(document).ready(function () {
         $(".dropdown").hover(

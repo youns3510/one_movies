@@ -1,7 +1,8 @@
 <?php
+$page_title="Home";
+$active_home = "active";
 // echo strlen('new Assassin’s Creed ');
 include_once 'dashboard/includes/db.php';
-include_once 'dashboard/controllers/userController.php';
 include_once 'dashboard/controllers/movieController.php';
 include 'partials/header.php';
 
@@ -42,7 +43,7 @@ $result  = $con->query($slid_query); ?>
             <div id="owl-demo" class="owl-carousel owl-theme">
 
                 <?php
-                $q = "SELECT movies.id,movies.name,movies.release_date,movies.image,star_rating.rate_avg FROM `movies`,`star_rating` WHERE star_rating.movie_id = movies.id ORDER BY `created_at` DESC LIMIT 10;";
+                $q = "SELECT DISTINCT `id`,`name`,`release_date`,`image`,`created_at` FROM `movies` ORDER BY `created_at` DESC LIMIT 10;";
                 $result = $con->query($q);
                 if ($result->num_rows > 0) {
                     while ($row = $result->fetch_assoc()) {
@@ -120,9 +121,7 @@ $result  = $con->query($slid_query); ?>
                     <div class="clearfix"></div>
                 </div>
             </div>
-            <div class="ribben">
-                <p>NEW</p>
-            </div>
+         
 
             <div class="clearfix"></div>
         </div>

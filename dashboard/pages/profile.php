@@ -1,4 +1,7 @@
-<?php include('../includes/header.php'); ?>
+<?php 
+
+$page_title = "Profile";
+include('../includes/header.php'); ?>
     <!-- Content Wrapper. Contains page content -->
     <div class="content-wrapper">
         <!-- Content Header (Page header) -->

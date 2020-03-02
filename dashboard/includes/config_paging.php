@@ -13,6 +13,6 @@ if (isset($_GET[$page]) &&  filter_var($_GET[$page], FILTER_VALIDATE_INT)) {
 
 // echo $page;
 // record per page
-$record_per_page = 6;
+$record_per_page = 12;
 
 $start_read_from = ($record_per_page * $page) - $record_per_page;

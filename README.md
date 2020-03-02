@@ -11,7 +11,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/</p>
 <p> the website consist from :</p>
 <ol>
 <li>admin panel to add new admin,content,check users,...</li>
-<li>user dashboard to watch ,download,review and follow movies</li>
+<li>userinterface to watch ,download,review and follow movies</li>
 </ol>
 
 <p>Future Ideas:</p>

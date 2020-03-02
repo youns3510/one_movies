@@ -1,5 +1,5 @@
 <?php
-
+$page_title = "Upload Movie";
 $styles = '<link rel="stylesheet" href="/dashboard/includes/plugins/multiselect/bootstrap-multiselect.css" type="text/css"/>' .
     '<style>.multiselect-native-select{overflow: auto;}ul.multiselect-container{padding: 20px 0px;}ul.multiselect-container  li{width:200px}</style>';
 $scripts = '<script type="text/javascript" src="/dashboard/includes/plugins/multiselect/bootstrap-multiselect.min.js"></script>' .
@@ -40,7 +40,7 @@ include('../../controllers/movieController.php');
                     <h3 class="card-title">Movie</h3>
                 </div>
                 <div class="card-body">
-                <?php var_dump($_POST);?>
+                <?php //var_dump($_POST);?>
                     <form action="upload.php" method="post" enctype="multipart/form-data">
                         <div class="form-group">
                             <label for="inputName">Movie Name</label>

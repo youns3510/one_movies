@@ -1,12 +1,16 @@
 <?php
-include('../partials/header.php');
-include('../dashboard/includes/db.php');
-include('../dashboard/controllers/movieController.php');
 
+$active_action = $active_bio = $active_genres  = "";
 
 if (isset($_GET['g'])) {
     $genres = htmlspecialchars($_GET['g']);
-
+    if ($genres == 'action') {
+        $active_action = "active";
+    } elseif ($genres == 'biography') {
+        $active_bio = "active";
+    } else {
+        $active_genres = "active";
+    }
     //	echo $genres;
     // $q = "SELECT
     // 					movies.*,
@@ -44,6 +48,10 @@ FROM
 	`movies` ";
 }
 // echo $q;
+$page_title = $genres;
+include('../partials/header.php');
+include('../dashboard/includes/db.php');
+include('../dashboard/controllers/movieController.php');
 
 //contain {$record_per_page,$page,$start_read_from} 
 require_once(__DIR__ . "/../partials/config_paging.php");
@@ -77,13 +85,15 @@ $page_url = "/pages/genres.php?g=" . $genres . "&";
                 <div class="container">
                     <div class="browse-inner">
                         <h4>Total Movies : <span><?php echo $countAll; ?></span></h4>
+                        <br>
                         <?php
                         if (isset($result->num_rows) && $result->num_rows > 0) {
-                            $NO = $start_read_from + 1;
+                            // $NO = $start_read_from + 1;
                             while ($row = $result->fetch_assoc()) {
                         ?>
                                 <div class="col-md-2 w3l-movie-gride-agile">
-                                    <p>no=<?php echo $NO++; ?></p>
+                                    <!-- <p>no=<?php // echo $NO++; 
+                                                ?></p> -->
                                     <a href="<?php echo HOST; ?>pages/single.php?mid=<?php echo $row['id']; ?>" class="hvr-shutter-out-horizontal"><img src="<?php echo HOST . $row['image']; ?>" title="album-name" alt=" " />
                                         <div class="w3l-action-icon"><i class="fa fa-play-circle" aria-hidden="true"></i></div>
                                     </a>
