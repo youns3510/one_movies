@@ -4,17 +4,19 @@ require_once(__DIR__ . '/constants.php');
 require_once(__DIR__ . '/dashboard/includes/db.php');
 require(__DIR__."/dashboard/controllers/movieController.php");
 
-for ($movie_id = 1; $movie_id <= 73; $movie_id++) {
+for ($movie_id = 1; $movie_id <= 32; $movie_id++) {
 
   $generes = ["`action`", "`biography`", "`crime`", "`family`", "`horror`", "`romance`", "`sports`", "`war`", "`adventure`", "`comedy`", "`documentary`", "`fantasy`", "`thriller`", "`animation`", "`costume`", "`drama`", "`history`", "`musical`", "`psychological`"];
-  $gen_count = count($generes);
-  $ran_num = random_int(1, $gen_count);
+  // $gen_count = count($generes);
+  $ran_num = random_int(1, 5);
   $rand_g = array_rand($generes, $ran_num);
   // var_dump($rand_g);
   $rand_gen = array();
-  for ($i = 0; $i < count($rand_g); $i++) {
+  for ($i = 0; $i < count($rand_g); $i++) {   
     $temp = $rand_g[$i];
-    $rand_gen[$i] = $generes[$temp];
+    sleep(1);
+    $rand_gen[] .= $generes[$temp];
+    
     // echo  $rand_gen[$i] . " " . $rand_g[$i] . "<br>";
   }
 

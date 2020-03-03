@@ -42,6 +42,11 @@ td {
  color: #212121;
  text-transform: uppercase;
 }
+
+#about .struct img.screenshot{
+ width: 100%;
+ margin:20px auto;
+}
 #about .struct{
  padding:20px;
  background-color: #e1dbdb;
